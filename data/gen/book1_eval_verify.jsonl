@@ -1,0 +1,860 @@
+{"pid": "b1p000", "q": "What were the names of the two ships?", "a": "the Alert and the Discovery", "verify": "The Alert and the Discovery."}
+{"pid": "b1p000", "q": "Where were the ships located?", "a": "in Portsmouth Dockyard", "verify": "In Portsmouth Dockyard, England."}
+{"pid": "b1p000", "q": "What year did the fitting out take place?", "a": "1875", "verify": "1875, April and May."}
+{"pid": "b1p000", "q": "How many guns did the Alert have?", "a": "17", "verify": "The Alert had 17 guns."}
+{"pid": "b1p000", "q": "What was the Alert's previous service?", "a": "foreign stations", "verify": "Alert served on foreign stations twice or three times."}
+{"pid": "b1p000", "q": "What was the Discovery's original purpose?", "a": "whaling and sealing", "verify": "Whaling and sealing trade vessel."}
+{"pid": "b1p000", "q": "Where had the Discovery been engaged before?", "a": "off the coast of Newfoundland", "verify": "Off the coast of Newfoundland, for whaling and sealing."}
+{"pid": "b1p000", "q": "What type of ships were the Alert and Discovery compared to?", "a": "huge ironclad monsters", "verify": "Smaller than ironclad monsters surrounding them."}
+{"pid": "b1p000", "q": "What was the intended work for the Alert and Discovery?", "a": "Arctic service", "verify": "To grapple with heavy ice floes in Polar Ocean."}
+{"pid": "b1p001", "q": "Who supervised the strengthening of the Alert?", "a": "Sir Leopold McClintock", "verify": "Sir Leopold McClintock."}
+{"pid": "b1p001", "q": "What was the Alert's hull overhauled for?", "a": "hazardous service", "verify": "To make her suitable for hazardous service."}
+{"pid": "b1p001", "q": "What material was used for the external sheathing?", "a": "teak", "verify": "Seven inches of teak."}
+{"pid": "b1p001", "q": "How thick was the teak sheathing at the bow?", "a": "three inches", "verify": "Three inches aft and three inches aft."}
+{"pid": "b1p001", "q": "What was placed between the shelf-piece and the lower-deck waterway?", "a": "a longitudinal beam", "verify": "A longitudinal beam, bound and strapped the whole ship together."}
+{"pid": "b1p001", "q": "What was introduced to resist the pressure of the ice?", "a": "extra iron knees", "verify": "Extra iron knees were introduced."}
+{"pid": "b1p001", "q": "How far aft did the iron plates on the stem extend?", "a": "ten or twelve feet", "verify": "About ten or twelve feet aft."}
+{"pid": "b1p001", "q": "What was placed between the inside planking and the lining?", "a": "sheets of felt", "verify": "Sheets of felt for warmth."}
+{"pid": "b1p001", "q": "How many watertight compartments did the ship have?", "a": "not specified directly", "verify": "The ship was divided into watertight compartments."}
+{"pid": "b1p001", "q": "What was used to make water in the galley-funnel?", "a": "a large reservoir", "verify": "A large reservoir for snow or ice."}
+{"pid": "b1p001", "q": "What was the weight of the rudder?", "a": "three tons", "verify": "The rudder weighed three tons."}
+{"pid": "b1p002", "q": "What was at the maintop-gallant-mast-head of each vessel?", "a": "crow's nest", "verify": "A large barrel-like object, the crow's nest."}
+{"pid": "b1p002", "q": "How many boats were supplied to each ship?", "a": "nine", "verify": "Each ship was supplied with nine boats."}
+{"pid": "b1p002", "q": "What were two of the boats specially equipped for?", "a": "whaling", "verify": "Two boats were completely equipped for whaling."}
+{"pid": "b1p002", "q": "What were the ice-boats built to be?", "a": "light", "verify": "Built as light as possible for ice navigation."}
+{"pid": "b1p002", "q": "What was on the figure-heads of each ship?", "a": "fiddle-heads", "verify": "\"Fiddle-heads with Union Jack and Ubique.\""}
+{"pid": "b1p002", "q": "What word was under the Union Jack on the figure-heads?", "a": "Ubique", "verify": "Ubique."}
+{"pid": "b1p002", "q": "How many volunteers came forward?", "a": "numerous", "verify": "Numerous were the volunteers that came forward."}
+{"pid": "b1p002", "q": "What was a pretext for refusing men's services?", "a": "bad teeth", "verify": "Bad teeth or old wounds."}
+{"pid": "b1p002", "q": "What was the task of selecting officers and men from?", "a": "eager willing men", "verify": "Selecting for Arctic service."}
+{"pid": "b1p002", "q": "What was checked during the medical examination?", "a": "fitness for Arctic service", "verify": "Fitness for Arctic service, including minor defects."}
+{"pid": "b1p002", "q": "What was the crow's nest used for?", "a": "necessary item on board", "verify": "A necessary item for navigating icy seas."}
+{"pid": "b1p003", "q": "What was the name of the old paddle-wheel sloop ordered to convey surplus stores to Disco?", "a": "Valorous", "verify": "The \"Valorous\" was ordered for this purpose."}
+{"pid": "b1p003", "q": "How many men were in the ship's company of the ship mentioned by the captain?", "a": "nearly eight hundred", "verify": "Nearly eight hundred men."}
+{"pid": "b1p003", "q": "What were the officers and men engaged in while the ships were being fitted out?", "a": "various duties", "verify": "Fitting out duties, stowing provisions and stores."}
+{"pid": "b1p003", "q": "How long were the provisions and stores intended to last?", "a": "three years", "verify": "Provisions and stores for three years."}
+{"pid": "b1p003", "q": "Where was the island of Disco located?", "a": "on the west coast of Greenland", "verify": "on the west coast of Greenland"}
+{"pid": "b1p003", "q": "What was the name of the sloop with good carrying capabilities?", "a": "Valorous", "verify": "The \"Valorous,\" an old paddle-wheel sloop."}
+{"pid": "b1p003", "q": "What was the name of the ship's company's attitude towards Arctic service?", "a": "eagerness", "verify": "The men were eager to be employed in the expedition."}
+{"pid": "b1p003", "q": "What were the questions asked to candidates for Arctic service?", "a": "Can you sing or dance?", "verify": "\"Can you sing or dance? Or what can you do?\""}
+{"pid": "b1p003", "q": "What was the name of the place where men were being entered?", "a": "office where the men were being entered", "verify": "The office where men were being entered."}
+{"pid": "b1p003", "q": "What was the name of the ship's commanding officer who sought advice?", "a": "a gallant captain", "verify": "A gallant captain commanding a ship at Portsmouth."}
+{"pid": "b1p003", "q": "What was the name of the place where the ships were being equipped?", "a": "Portsmouth", "verify": "The office where men were being entered."}
+{"pid": "b1p003", "q": "What was the physical condition strictly inquired into?", "a": "physical condition", "verify": "Their physical condition was strictly inquired into."}
+{"pid": "b1p004", "q": "What was the name of the expedition mentioned in the passage?", "a": "Arctic discovery", "verify": "The expedition on board the \"Alert.\""}
+{"pid": "b1p004", "q": "What were the names of the two ships?", "a": "Alert", "verify": "The passage doesn't mention the names of the two ships."}
+{"pid": "b1p004", "q": "Who was the Empress mentioned?", "a": "Empress Eugénie", "verify": "Empress Eugénie of France supported the expedition."}
+{"pid": "b1p004", "q": "What was the Empress' gift to the expedition?", "a": "a fine woollen cap for each individual", "verify": "A fine woollen cap for each individual."}
+{"pid": "b1p004", "q": "What was the value of the punch received?", "a": "four bottles of excellent punch", "verify": "Four bottles of excellent punch."}
+{"pid": "b1p004", "q": "Who sent the punch and books?", "a": "a warrant officer", "verify": "A warrant officer, himself an old Arctic explorer."}
+{"pid": "b1p004", "q": "What was the name of the ship receiving the punch and books?", "a": "Alert", "verify": "The Alert received the punch and books."}
+{"pid": "b1p004", "q": "What was the nature of the books and periodicals received?", "a": "well-thumbed books and periodicals", "verify": "Well-thumbed books and periodicals, showing signs of having been read."}
+{"pid": "b1p004", "q": "Who was the warrant officer who sent the punch and books?", "a": "himself an old Arctic explorer", "verify": "An old Arctic explorer himself."}
+{"pid": "b1p004", "q": "What was the purpose of the games purchased?", "a": "to while away the long evenings", "verify": "To while away long evenings."}
+{"pid": "b1p004", "q": "What was included in the set of instruments for the drum-and-fife band?", "a": "a complete set of instruments", "verify": "A complete set of instruments for a drum-and-fife band."}
+{"pid": "b1p005", "q": "What year did Sir Humphrey Gilbert sail for new lands?", "a": "1583", "verify": "1583"}
+{"pid": "b1p005", "q": "How many persons were in the 'Sunneshine'?", "a": "twenty-three", "verify": "Twenty-three persons were in the 'Sunneshine'."}
+{"pid": "b1p005", "q": "How many musicians were in the 'Sunneshine'?", "a": "four", "verify": "Four musicians were in the 'Sunneshine'."}
+{"pid": "b1p005", "q": "What were the names of the two ships John Davis used?", "a": "the Sunneshine and the Mooneshine", "verify": "Sunneshine and Mooneshine."}
+{"pid": "b1p005", "q": "Who visited the Polar ships before sailing?", "a": "his Royal Highness the Prince of Wales", "verify": "His Royal Highness the Prince of Wales, his Royal Highness the Duke of Edinburgh, and her Imperial Majesty the Empress Eugénie."}
+{"pid": "b1p005", "q": "Who is mentioned as an Imperial Majesty who visited the ships?", "a": "her Imperial Majesty the Empress Eugénie", "verify": "her Imperial Majesty the Empress Eugénie"}
+{"pid": "b1p005", "q": "What were the names of the two ships John Davis used?", "a": "the Sunneshine and the Mooneshine", "verify": "Sunneshine and Mooneshine."}
+{"pid": "b1p005", "q": "How many thousands of visitors came to see the ships?", "a": "several thousands", "verify": "Several thousands of visitors."}
+{"pid": "b1p005", "q": "What were the names of the two ships John Davis used?", "a": "the Sunneshine and the Mooneshine", "verify": "Sunneshine and Mooneshine."}
+{"pid": "b1p005", "q": "Who is mentioned as a Royal Highness who visited the ships?", "a": "his Royal Highness the Prince of Wales", "verify": "Prince of Wales, Duke of Edinburgh."}
+{"pid": "b1p005", "q": "What were the names of the two ships John Davis used?", "a": "the Sunneshine and the Mooneshine", "verify": "Sunneshine and Mooneshine."}
+{"pid": "b1p005", "q": "What were the names of the two ships John Davis used?", "a": "the Sunneshine and the Mooneshine", "verify": "Sunneshine and Mooneshine."}
+{"pid": "b1p006", "q": "What was the original sailing date of the expedition?", "a": "29th of May", "verify": "The 29th of May."}
+{"pid": "b1p006", "q": "What was the weather like on the day of departure?", "a": "grey and misty", "verify": "Grey, misty, with rain, cleared by departure."}
+{"pid": "b1p006", "q": "Who visited the expedition before departure?", "a": "Lords Commissioners of the Admiralty", "verify": "The Lords Commissioners of the Admiralty visited."}
+{"pid": "b1p006", "q": "What was the departure time of the ships?", "a": "Four o'clock in the afternoon", "verify": "Four o'clock in the afternoon."}
+{"pid": "b1p006", "q": "What happened to the clouds at the moment of departure?", "a": "all clouds cleared away", "verify": "All clouds cleared away as ships departed."}
+{"pid": "b1p006", "q": "What famous event did the departure resemble in Portsmouth?", "a": "seldom before", "verify": "It resembled a stirring event before."}
+{"pid": "b1p006", "q": "Where were the spectators gathered to witness the departure?", "a": "along the sea-face", "verify": "Along the sea-face from dockyard to Southsea Castle."}
+{"pid": "b1p006", "q": "What did the small thin line of red represent?", "a": "troops of the garrison", "verify": "Troops of the garrison drawn up to do honour."}
+{"pid": "b1p006", "q": "What song did the bands play?", "a": "Auld lang syne", "verify": "\"Auld lang syne.\""}
+{"pid": "b1p006", "q": "What was the name of the seaport town?", "a": "Portsmouth", "verify": "Portsmouth Harbour"}
+{"pid": "b1p006", "q": "What was the expedition's destination?", "a": "not specified in text", "verify": "The passage does not specify the destination."}
+{"pid": "b1p006", "q": "What was the weather like as they left the harbour?", "a": "sun shone out bright and joyous", "verify": "Dawned grey and misty, with rain falling."}
+{"pid": "b1p007", "q": "What was the name of the expedition?", "a": "not specified in text", "verify": "The name is not mentioned in the passage."}
+{"pid": "b1p007", "q": "What was the name of the ship?", "a": "Alert", "verify": "\"Alert,\" and joined by \"Valorous.\""}
+{"pid": "b1p007", "q": "Where was the departure?", "a": "Portsmouth", "verify": "From Portsmouth, across the sea."}
+{"pid": "b1p007", "q": "What was the weather like in the morning?", "a": "rain and mist", "verify": "Rain and mist in the morning."}
+{"pid": "b1p007", "q": "What was the weather like in the afternoon?", "a": "bright and joyous", "verify": "The sun burst forth bright and joyous."}
+{"pid": "b1p007", "q": "What was the name of the other ship that joined the squadron?", "a": "Valorous", "verify": "The Valorous joined the squadron."}
+{"pid": "b1p007", "q": "Where did the squadron round?", "a": "the Nab-light vessel", "verify": "The Nab-light vessel, then down channel."}
+{"pid": "b1p007", "q": "What direction did the squadron steer?", "a": "down channel", "verify": "steered down channel"}
+{"pid": "b1p007", "q": "What was the wind direction?", "a": "north-easterly", "verify": "north-easterly"}
+{"pid": "b1p007", "q": "What was the name of the place where the crowd was?", "a": "Southsea Common", "verify": "Southsea Common"}
+{"pid": "b1p007", "q": "How many ships were in the squadron?", "a": "two", "verify": "Two ships were in the squadron."}
+{"pid": "b1p007", "q": "What happened to a man from the 'Alert'?", "a": "fell overboard", "verify": "He fell overboard but was saved."}
+{"pid": "b1p008", "q": "What was the name of the little yacht escorting the expedition?", "a": "a little yacht", "verify": "The passage does not mention the yacht's name."}
+{"pid": "b1p008", "q": "Who visited the expedition from Plymouth?", "a": "the brave old admiral", "verify": "The Commander-in-chief visited."}
+{"pid": "b1p008", "q": "Where did the expedition drop anchors on the third day?", "a": "in Berehaven", "verify": "In Berehaven, Bantry Bay."}
+{"pid": "b1p008", "q": "In which bay was Berehaven located?", "a": "in Bantry Bay", "verify": "Berehaven was in Bantry Bay."}
+{"pid": "b1p008", "q": "What was the purpose of the visit to Berehaven?", "a": "to obtain our last supply of fresh meat", "verify": "To obtain fresh meat and letters from home."}
+{"pid": "b1p008", "q": "What did the officers enjoy on shore in Castletown?", "a": "a farewell ramble", "verify": "A farewell ramble, visited Druidical remains."}
+{"pid": "b1p008", "q": "What did the officers gather by the side of clear rippling rivulets?", "a": "the last flowers of spring", "verify": "They gathered spring flowers there."}
+{"pid": "b1p008", "q": "What did one officer offer to barter for small tufts of forget-me-not?", "a": "a bottle of beer", "verify": "He offered to barter for beer or cocoa and milk."}
+{"pid": "b1p008", "q": "What were the two articles that were proportionately valuable on board the Arctic ships?", "a": "a pot of cocoa and milk", "verify": "A bottle of beer, a pot of cocoa and milk."}
+{"pid": "b1p008", "q": "What did the officers hoard until an opportunity offered?", "a": "floral treasures", "verify": "Floral treasures until sent home."}
+{"pid": "b1p008", "q": "What did the officers do with the flowers they gathered?", "a": "transmitting them to dear friends at home", "verify": "Hoarded until an opportunity to send home."}
+{"pid": "b1p008", "q": "What is the name of the plant one officer tried to barter for?", "a": "forget-me-not", "verify": "forget-me-not"}
+{"pid": "b1p009", "q": "On what date did the squadron put to sea after arriving?", "a": "2nd of June", "verify": "On June 2nd, after arrival."}
+{"pid": "b1p009", "q": "What stopped after the squadron left?", "a": "receipt of all letters", "verify": "Letters and telegrams ceased."}
+{"pid": "b1p009", "q": "What did the ships do by nightfall?", "a": "sunk below the eastern horizon", "verify": "Sank below eastern horizon."}
+{"pid": "b1p009", "q": "What natural phenomenon did the ships encounter on the first night?", "a": "long rolling swell", "verify": "Clouds, rain, head winds encountered."}
+{"pid": "b1p009", "q": "What did the ships leave behind when they departed England?", "a": "bright sunshine and blue skies", "verify": "Bright sunshine and blue skies."}
+{"pid": "b1p009", "q": "What was the normal condition for many days?", "a": "head winds", "verify": "Gloomy clouds, rain, head winds."}
+{"pid": "b1p009", "q": "What did the engineer report when steam was ready?", "a": "a breeze was springing up", "verify": "Followed by a breeze springing up."}
+{"pid": "b1p009", "q": "What was the name of the ship that was allowed to ignore a senior officer?", "a": "Valorous", "verify": "The Valorous received permission."}
+{"pid": "b1p009", "q": "What was the destination of the ship that was allowed to make the best of her way?", "a": "Disco", "verify": "The Valorous went to Disco."}
+{"pid": "b1p009", "q": "What were the names of the two ships that continued their course together?", "a": "Alert and Discovery", "verify": "The Alert and Discovery continued together."}
+{"pid": "b1p009", "q": "What natural phenomenon did the ships encounter when night fell?", "a": "ruffling winds", "verify": "Night rain raised foaming billows."}
+{"pid": "b1p009", "q": "What did the ships view from their shrouds?", "a": "rising land like distant clouds", "verify": "They viewed rising land like distant clouds."}
+{"pid": "b1p010", "q": "What ship did the petty officers request to take turns steering?", "a": "Alert", "verify": "The Alert's ship."}
+{"pid": "b1p010", "q": "How long did the clinical thermometer stay in the mouth?", "a": "an apparently interminable time", "verify": "For an apparently interminable time."}
+{"pid": "b1p010", "q": "What was used to measure the chest capacity?", "a": "an instrument called a spirometer", "verify": "An instrument called a spirometer."}
+{"pid": "b1p010", "q": "What was the purpose of the physical examinations?", "a": "to compare with a similar examination on the return of the expedition", "verify": "To compare with post-Arctic-life examination."}
+{"pid": "b1p010", "q": "How was the temperature of the blood ascertained?", "a": "by means of a clinical thermometer inserted into the mouth", "verify": "By inserting a clinical thermometer into the mouth."}
+{"pid": "b1p010", "q": "What was the duration of the spirometer test?", "a": "for an hour or more", "verify": "A horrid instrument kept in mouth for an hour or more."}
+{"pid": "b1p010", "q": "Who described the physical examinations?", "a": "one whose acquaintance with the Royal Navy was only of a few days' standing", "verify": "One whose acquaintance with Royal Navy was only a few days' standing."}
+{"pid": "b1p010", "q": "What was the intention of the experiments?", "a": "to ascertain the effects of an Arctic life upon the physical development of our bodies", "verify": "To compare with post-Arctic life results."}
+{"pid": "b1p010", "q": "How were the physical capacities of every individual member ascertained?", "a": "by carefully noting age, accurately ascertaining height and weight, measuring dimensions round the chest, and obtaining the capacity of the chest by means of a spirometer", "verify": "Age, height, weight, chest measurements, spirometer."}
+{"pid": "b1p010", "q": "What was the name of the ship?", "a": "Alert", "verify": "The Alert"}
+{"pid": "b1p010", "q": "What was the usual duty from which petty officers were exempt?", "a": "steering the ship", "verify": "Steering the ship."}
+{"pid": "b1p010", "q": "What was the usual position of the petty officers?", "a": "by their position", "verify": "Usually exempt from steering duty."}
+{"pid": "b1p011", "q": "What was the name of the expedition's ship?", "a": "not specified", "verify": "Not specified in the passage."}
+{"pid": "b1p011", "q": "What was the name of the caterer?", "a": "not specified", "verify": "The passage does not mention the caterer's name."}
+{"pid": "b1p011", "q": "How often was lime juice issued to each officer and man?", "a": "daily", "verify": "Regularly every forenoon."}
+{"pid": "b1p011", "q": "What was the purpose of issuing lime juice?", "a": "antiscorbutic", "verify": "To prevent scurvy among the crew."}
+{"pid": "b1p011", "q": "Where was lime juice served out?", "a": "on the quarter-deck", "verify": "On the quarter-deck every forenoon."}
+{"pid": "b1p011", "q": "How long was the expedition's absence from England?", "a": "three years", "verify": "An anticipated absence of three years."}
+{"pid": "b1p011", "q": "What was the daily alcohol allowance for officers?", "a": "two glasses of sherry", "verify": "Two glasses sherry per day, port/ Madeira weekly."}
+{"pid": "b1p011", "q": "How often was port or madeira served to officers?", "a": "once a week", "verify": "Once a week."}
+{"pid": "b1p011", "q": "How often was brandy or whiskey served to officers?", "a": "every fourteen or fifteen days", "verify": "About every fourteen or fifteen days."}
+{"pid": "b1p011", "q": "What type of ale was provided by Government?", "a": "Allsopp's ale", "verify": "Ten hogsheads of Allsopp's ale."}
+{"pid": "b1p011", "q": "What was the weather like during the Atlantic passage?", "a": "by no means a pleasant or a comfortable one", "verify": "Gales blew, but not from favorable quarters."}
+{"pid": "b1p011", "q": "What caused the gales during the passage?", "a": "they were sure to come ahead!", "verify": "Gales blew from unfavorable quarters."}
+{"pid": "b1p012", "q": "What was the name of the ship?", "a": "Alert", "verify": "The ship was the \"Alert\"."}
+{"pid": "b1p012", "q": "Who said 'Our paper, pens, and ink, and we, Are tumbled up and down at sea.'?", "a": "Lord Dorset", "verify": "The speaker exclaims this with Lord Dorset."}
+{"pid": "b1p012", "q": "What was the date of the heavy weather?", "a": "13th", "verify": "On the 13th, it was blowing furiously."}
+{"pid": "b1p012", "q": "What did they do to avoid collision with the steamer?", "a": "Burn blue lights", "verify": "They burned blue lights to denote their position."}
+{"pid": "b1p012", "q": "What was washed away during the heavy sea?", "a": "starboard whale boat", "verify": "Starboard whale boat was washed away."}
+{"pid": "b1p012", "q": "How many fowls escaped?", "a": "two", "verify": "Only two escaped."}
+{"pid": "b1p012", "q": "Where did they not assemble again until?", "a": "arrival at Disco", "verify": "until arrival at Disco."}
+{"pid": "b1p012", "q": "What was their only consolation?", "a": "the very poor one of trying to believe...", "verify": "The poor consolation was believing storms would break ice."}
+{"pid": "b1p012", "q": "What was the effect of the gales?", "a": "dispersing our little squadron", "verify": "Dispersed the squadron, damaged supplies."}
+{"pid": "b1p012", "q": "What was the name of the bay they hoped the storms would assist them in passing through?", "a": "Melville Bay", "verify": "Melville Bay"}
+{"pid": "b1p012", "q": "What was the name of the strait they hoped the storms would blow the ice out of?", "a": "Davis Straits", "verify": "Davis Straits"}
+{"pid": "b1p012", "q": "What ship was the 'Alert' consort with?", "a": "not specified in text", "verify": "The Alert's consort also lost the whale boat."}
+{"pid": "b1p013", "q": "What mineral was the vessel likely carrying?", "a": "cryolite", "verify": "Cryolite, a rare mineral from Ivigtut."}
+{"pid": "b1p013", "q": "Where is the cryolite found?", "a": "Ivigtut", "verify": "In one single spot called Ivigtut."}
+{"pid": "b1p013", "q": "What is the latitude of Ivigtut?", "a": "61° 10´ N.", "verify": "61° 10´ N."}
+{"pid": "b1p013", "q": "How many tons of cryolite were exported in the first nine years?", "a": "14,000 tons", "verify": "14,000 tons were exported."}
+{"pid": "b1p013", "q": "How many ship-loads of cryolite were exported in the first nine years?", "a": "80 ship-loads", "verify": "80 ship-loads."}
+{"pid": "b1p013", "q": "What is the name of the mineral that became an article of trade?", "a": "cryolite", "verify": "Cryolite became an article of trade."}
+{"pid": "b1p013", "q": "What is the chemical process that converts cryolite?", "a": "chemical process", "verify": "Cryolite is converted into soda and alumina."}
+{"pid": "b1p013", "q": "What is the name of the mineral converted into soda?", "a": "cryolite", "verify": "Cryolite is converted into soda."}
+{"pid": "b1p013", "q": "What is the name of the mineral converted into an alumina?", "a": "cryolite", "verify": "Cryolite is converted into an alumina."}
+{"pid": "b1p013", "q": "What is the purpose of the expedition?", "a": "to attack ice", "verify": "To collect scientific specimens and find cryolite."}
+{"pid": "b1p013", "q": "What was the date mentioned for sighting a vessel?", "a": "25th of June", "verify": "On the 25th of June."}
+{"pid": "b1p013", "q": "What is the name of the point of land they were striving to make?", "a": "Cape Farewell", "verify": "Cape Farewell, the point of land."}
+{"pid": "b1p014", "q": "What species of whale was observed in great numbers?", "a": "bottle-noses", "verify": "\"Bottle-noses,\" or _Hyperoodon rostratus_."}
+{"pid": "b1p014", "q": "What is the scientific name for the 'bottle-noses'?", "a": "Hyperoodon rostratus", "verify": "Hyperoodon rostratus"}
+{"pid": "b1p014", "q": "How long are 'bottle-noses' typically?", "a": "twenty to twenty-six feet", "verify": "From twenty to twenty-six feet long."}
+{"pid": "b1p014", "q": "What is the value of a dead 'right' whale?", "a": "about £1,000", "verify": "About £1,000."}
+{"pid": "b1p014", "q": "What ports do the ice quarter-masters hail from?", "a": "Dundee and Peterhead", "verify": "Dundee and Peterhead."}
+{"pid": "b1p014", "q": "What is the 'grampus' also called?", "a": "sword-fish", "verify": "\"grampus,\" sometimes called \"sword-fish.\""}
+{"pid": "b1p014", "q": "What is the name of the whale with a dorsal fin?", "a": "rorqual", "verify": "Rorqual, or \"finner.\""}
+{"pid": "b1p014", "q": "What is the maximum length of a rorqual mentioned?", "a": "ninety feet", "verify": "Scoresby mentions one measuring one hundred and twenty feet."}
+{"pid": "b1p014", "q": "What do rorquals feed on?", "a": "cod-fish", "verify": "Rorquals feed on cod-fish."}
+{"pid": "b1p014", "q": "What is the scientific name for the 'right' whale?", "a": "Balæna mysticetus", "verify": "Balæna mysticetus"}
+{"pid": "b1p014", "q": "What is the value of a dead 'right' whale to the expedition?", "a": "no value whatever", "verify": "Of no value whatever."}
+{"pid": "b1p014", "q": "What is the name of the whale that can measure up to one hundred and twenty feet?", "a": "rorqual", "verify": "The rorqual, or \"finner\"."}
+{"pid": "b1p015", "q": "What date gave due notice of the immediate proximity of ice?", "a": "27th of June", "verify": "A falling temperature on the 27th of June."}
+{"pid": "b1p015", "q": "What was the weather like that required extra precautions?", "a": "foggy", "verify": "Foggy weather on June 27th."}
+{"pid": "b1p015", "q": "What was the ship doing by 4 P.M.?", "a": "steaming through loose detached fragments", "verify": "Steaming through loose detached ice fragments."}
+{"pid": "b1p015", "q": "What was the officer's goal in steering for a heavy piece of ice?", "a": "honour of making first touch", "verify": "To gain honor by touching ice first."}
+{"pid": "b1p015", "q": "What was the potential reward for the officer?", "a": "a bottle of champagne", "verify": "A bottle of champagne for touching ice first."}
+{"pid": "b1p015", "q": "Who called Cape Desolation 'Desolation'?", "a": "John Davis", "verify": "John Davis during his first voyage."}
+{"pid": "b1p015", "q": "In what year did John Davis call the land 'Desolation'?", "a": "1585", "verify": "1585 during his first voyage."}
+{"pid": "b1p015", "q": "What did John Davis describe the land as being full of?", "a": "mighty mountaines", "verify": "high, bold, snow-capped hills."}
+{"pid": "b1p015", "q": "What covered the mountains according to John Davis?", "a": "snowe", "verify": "Snow, as described by John Davis."}
+{"pid": "b1p015", "q": "What was the shore described as being full of for two leagues into the sea?", "a": "ice", "verify": "two leagues full of ice."}
+{"pid": "b1p015", "q": "What did John Davis and his crew suppose the place to be void of?", "a": "sencible or vegitable creatures", "verify": "sensible or vegetable creatures"}
+{"pid": "b1p015", "q": "What did John Davis call the high, bold, and snow-capped hills?", "a": "Cape Desolation", "verify": "He called it Cape Desolation."}
+{"pid": "b1p016", "q": "What island did one of the men compare an iceberg to?", "a": "Isle of Wight", "verify": "The Isle of Wight."}
+{"pid": "b1p016", "q": "What type of ice were the vessel navigating through?", "a": "fragments of heavy pack ice", "verify": "Fragments of heavy pack ice."}
+{"pid": "b1p016", "q": "What was the ship's condition that required careful navigation?", "a": "heavily laden", "verify": "Ship heavily laden, required careful steering."}
+{"pid": "b1p016", "q": "What was the date mentioned in the passage?", "a": "1st of July", "verify": "The 1st of July was mentioned."}
+{"pid": "b1p016", "q": "What was the weather like on July 1st?", "a": "beautiful, bright, clear, sunny", "verify": "Beautiful, bright, clear, sunny day."}
+{"pid": "b1p016", "q": "What altitude did the passage mention for Greenland's mountains?", "a": "from two to three thousand feet", "verify": "from two to three thousand feet."}
+{"pid": "b1p016", "q": "What were the two types of seals mentioned?", "a": "Pagomys foetidus, Pagophilus Groenlandicus", "verify": "Floe-rat and saddle-back or common Greenland seal."}
+{"pid": "b1p016", "q": "What were the seals observed doing on the ice?", "a": "basking lazily and dreamily", "verify": "Basking lazily and dreamily."}
+{"pid": "b1p016", "q": "What were the birds doing according to the passage?", "a": "hovering around, following us", "verify": "Birds hovered around, following the vessel."}
+{"pid": "b1p016", "q": "What did the passage say about the air on July 1st?", "a": "sharp-bracing crispness", "verify": "Air sharp-bracing, crisp, low temperature."}
+{"pid": "b1p016", "q": "What did the passage say about the temperature on July 1st?", "a": "rather low temperature", "verify": "A low temperature, crisp air."}
+{"pid": "b1p016", "q": "What did the passage say about the land in the distance?", "a": "high snow-covered land", "verify": "Grand ranges, snow-covered, rising to 2-3k feet."}
+{"pid": "b1p017", "q": "What was the name of the Danish settlement passed by the expedition?", "a": "Fiskernaes", "verify": "Fiskernaes, Godthaab."}
+{"pid": "b1p017", "q": "When did Hans Egede land at Godthaab?", "a": "July 3rd, 1721", "verify": "Hans Egede landed on July 3rd, 1721."}
+{"pid": "b1p017", "q": "Who founded missionary institutions in Greenland?", "a": "Hans Egede and the Moravians", "verify": "Hans Egede and the Moravians."}
+{"pid": "b1p017", "q": "What was the name of the ship that rejoined the expedition?", "a": "Discovery", "verify": "\"Discovery\" rejoined the expedition."}
+{"pid": "b1p017", "q": "What were the fishermen expecting to catch?", "a": "fresh cod and halibut", "verify": "Fresh cod and halibut."}
+{"pid": "b1p017", "q": "How deep were the soundings obtained on the banks?", "a": "thirty fathoms", "verify": "Soundings in thirty fathoms."}
+{"pid": "b1p017", "q": "How many fishing lines were over the side?", "a": "fifty or sixty", "verify": "Immediately fifty or sixty fishing lines."}
+{"pid": "b1p017", "q": "What did the dredge bring up?", "a": "a few echinoderms", "verify": "Only a few echinoderms were obtained."}
+{"pid": "b1p017", "q": "What was the name of the coast of Greenland described?", "a": "part of the coast", "verify": "The coast of Greenland near Godthaab."}
+{"pid": "b1p017", "q": "What was the weather like when the expedition was with the 'Discovery'?", "a": "tempestuous", "verify": "Tempestuous weather since losing sight of her."}
+{"pid": "b1p017", "q": "What did the expedition expect to pass over?", "a": "the 'Torske' banks", "verify": "They expected to pass over the \"Torske\" banks."}
+{"pid": "b1p017", "q": "What did the expedition do after obtaining soundings?", "a": "permission given to fish", "verify": "Ship stopped; permission given to fish."}
+{"pid": "b1p018", "q": "What date did the Arctic circle get crossed?", "a": "4th of July", "verify": "On the 4th of July."}
+{"pid": "b1p018", "q": "How many days after crossing the Arctic circle did they anchor in Lievely bay?", "a": "Two days", "verify": "Two days afterwards."}
+{"pid": "b1p018", "q": "What is the name of the Danish settlement they anchored near?", "a": "Godhavn", "verify": "Godhavn"}
+{"pid": "b1p018", "q": "Who is the Royal Inspector of North Greenland?", "a": "Mr. Krarup Smith", "verify": "The Royal Inspector resides in Godhavn."}
+{"pid": "b1p018", "q": "How many guns were fired in salute?", "a": "nine", "verify": "Nine guns were fired in salute."}
+{"pid": "b1p018", "q": "What is the most important establishment in the Inspectorate of North Greenland?", "a": "the little Danish settlement of Godhavn", "verify": "The little Danish settlement of Godhavn."}
+{"pid": "b1p018", "q": "What is the name of the settlement where the Royal Inspector resides?", "a": "Godhavn", "verify": "Godhavn, Lievely bay."}
+{"pid": "b1p018", "q": "What is the name of the expedition's host?", "a": "Mr. Krarup Smith", "verify": "Mr. Krarup Smith, the Inspector."}
+{"pid": "b1p018", "q": "What is the name of the settlement's battery?", "a": "a small battery", "verify": "A small battery of three cannons."}
+{"pid": "b1p018", "q": "What is the name of the settlement's Inspector?", "a": "Mr. Krarup Smith", "verify": "Mr. Krarup Smith, the Royal Inspector."}
+{"pid": "b1p018", "q": "What is the name of the settlement where the expedition anchored?", "a": "Lievely bay", "verify": "The settlement is Godhavn."}
+{"pid": "b1p018", "q": "What is the name of the chapter?", "a": "THE GREENLAND SETTLEMENTS", "verify": "THE GREENLAND SETTLEMENTS"}
+{"pid": "b1p019", "q": "How many days did the ship experience rough seas before arriving at Godhavn?", "a": "thirty-four days", "verify": "Thirty-four days."}
+{"pid": "b1p019", "q": "What is the name of the ship in the narrative?", "a": "SPENSER", "verify": "The ship's name isn't given directly."}
+{"pid": "b1p019", "q": "Where did the ship find temporary shelter?", "a": "Godhavn", "verify": "The ship found temporary shelter at Godhavn."}
+{"pid": "b1p019", "q": "What were the men compensated for with their extra labor?", "a": "an open-air dance", "verify": "By an evening run and dance."}
+{"pid": "b1p019", "q": "What was the name of the ship that provided stores?", "a": "Valorous", "verify": "The Valorous provided stores."}
+{"pid": "b1p019", "q": "How many Eskimo dogs were initially received on board?", "a": "twenty-four", "verify": "Twenty-four Eskimo dogs were received."}
+{"pid": "b1p019", "q": "What did the deck of the SPENSER look like after receiving the last cask?", "a": "untidy and confused", "verify": "Casks and cases lay higgledy-piggledy amongst coals and ropes."}
+{"pid": "b1p019", "q": "What were the Eskimo dogs like?", "a": "they howled", "verify": "They howled and fought among themselves."}
+{"pid": "b1p019", "q": "How many Eskimo dogs were there in total after the number was augmented?", "a": "thirty", "verify": "Thirty after augmentation."}
+{"pid": "b1p019", "q": "What did the men do in the evenings when in Godhavn?", "a": "run on shore", "verify": "They ran on shore and danced."}
+{"pid": "b1p019", "q": "What unusual lighting condition was experienced in the region?", "a": "midnight sun shone almost as brightly as at noonday", "verify": "Midnight sun shone brightly all day."}
+{"pid": "b1p019", "q": "What was the ship's sole thought during the process of receiving stores?", "a": "to be provided with enough of everything", "verify": "To be provided with enough of everything."}
+{"pid": "b1p020", "q": "What was the name of the native Eskimo hired as dog-driver and interpreter?", "a": "Frederic", "verify": "Frederic, an Eskimo named Frederic."}
+{"pid": "b1p020", "q": "What was the name of the Inspector who helped obtain the native Eskimo?", "a": "Mr. Krarup Smith", "verify": "Mr. Krarup Smith, the Inspector."}
+{"pid": "b1p020", "q": "What was the native Eskimo's reputation?", "a": "keen and successful hunter", "verify": "He was a keen and successful hunter."}
+{"pid": "b1p020", "q": "What were the small collapsible boats used for?", "a": "rowing races", "verify": "For rowing races by officers."}
+{"pid": "b1p020", "q": "What was the name of the vessel mentioned in the passage?", "a": "ship", "verify": "The ship where dogs and Eskimo were."}
+{"pid": "b1p020", "q": "What was the name of the frail canoe mentioned?", "a": "kayak", "verify": "The frail canoe is called kayak."}
+{"pid": "b1p020", "q": "How were the dogs kept to prevent fighting?", "a": "fore part of the ship", "verify": "Kept mainly in the ship's fore part."}
+{"pid": "b1p020", "q": "What was the consequence of one dog gaining supremacy over the others?", "a": "styled the 'king' dog", "verify": "The conqueror rules with despotic sway."}
+{"pid": "b1p020", "q": "What did the 'king' dog do with his subjects?", "a": "ruled with despotic sway", "verify": "Ruled them with despotic sway."}
+{"pid": "b1p020", "q": "What did the dogs yield to the 'king' dog?", "a": "tit-bits", "verify": "Their tit-bits with cringing servility."}
+{"pid": "b1p020", "q": "What did the officers do past midnight?", "a": "dances kept up with unabated vigour", "verify": "Danced and rowed small boats."}
+{"pid": "b1p020", "q": "What was required for managing the kayak?", "a": "great caution", "verify": "Great caution and much practice."}
+{"pid": "b1p021", "q": "What was the name of the ship?", "a": "not mentioned", "verify": "Not mentioned in passage."}
+{"pid": "b1p021", "q": "Who was the first lieutenant?", "a": "not mentioned", "verify": "An exception in managing kayak admirably."}
+{"pid": "b1p021", "q": "What did W---- try to do?", "a": "try his skill in one of these little barks", "verify": "W---- tried paddling a kayak but capsized."}
+{"pid": "b1p021", "q": "What happened to W---- when he tried?", "a": "it capsized", "verify": "W---- capsized his kayak and got stuck."}
+{"pid": "b1p021", "q": "What did W---- have to do to get out?", "a": "unbutton his braces and get out of his trousers", "verify": "Unbuttoned braces, removed trousers."}
+{"pid": "b1p021", "q": "Where were the magnetic force observations taken?", "a": "not mentioned", "verify": "Onboard ship, not specified location."}
+{"pid": "b1p021", "q": "What was the name of the place they went to for meteorites?", "a": "Ovifak", "verify": "Ovifak"}
+{"pid": "b1p021", "q": "Who went to Ovifak?", "a": "the first lieutenant and our energetic naturalist", "verify": "The first lieutenant and our energetic naturalist."}
+{"pid": "b1p021", "q": "What was the name of the old steam whaler?", "a": "Wildfire", "verify": "The \"Wildfire\" was the old steam whaler."}
+{"pid": "b1p021", "q": "Where did they land?", "a": "in a pretty little bay", "verify": "In a pretty little bay with an old steam whaler's remains."}
+{"pid": "b1p021", "q": "What was the height of the Lyngenmarkfjeld?", "a": "two thousand feet", "verify": "About two thousand feet in height."}
+{"pid": "b1p021", "q": "What was the view from the summit?", "a": "not mentioned", "verify": "The view compensated for the ascent's difficulty."}
+{"pid": "b1p022", "q": "What land was distinctly brought to view from the summit?", "a": "Greenland", "verify": "Mainland of Greenland was distinctly brought to view."}
+{"pid": "b1p022", "q": "What settlement was immediately at their feet?", "a": "Godhavn", "verify": "The picturesque settlement of Godhavn."}
+{"pid": "b1p022", "q": "How many vessels were at anchor in the harbor?", "a": "three", "verify": "Three vessels were at anchor."}
+{"pid": "b1p022", "q": "What body of water was beyond the icebergs?", "a": "the great ice fiord of Jacobshavn", "verify": "Beyond icebergs, great ice fiord of Jacobshavn."}
+{"pid": "b1p022", "q": "What was the name of the glacier behind the fiord?", "a": "discharging glacier", "verify": "The gigantic discharging glacier behind Jacobshavn."}
+{"pid": "b1p022", "q": "What natural phenomenon was heard at brief intervals?", "a": "noise as of thunder", "verify": "Disruption or creation of ice islands."}
+{"pid": "b1p022", "q": "What creatures attacked the expedition on landing?", "a": "swarms of musquitoes", "verify": "Swarms of mosquitoes assailed them."}
+{"pid": "b1p022", "q": "What was the name of the narrator's dog?", "a": "Nellie", "verify": "Nellie"}
+{"pid": "b1p022", "q": "What was the narrator's perception of the mosquitoes?", "a": "implacable enemies", "verify": "Irritating insects assailed us incessantly."}
+{"pid": "b1p022", "q": "What was the weather condition that made the ascent arduous?", "a": "frost", "verify": "Frost on the rocks made ascent arduous."}
+{"pid": "b1p022", "q": "What were the vessels compared to?", "a": "miniature toy-ships", "verify": "The vessels were compared to miniature toy-ships."}
+{"pid": "b1p022", "q": "What was the name of the group of islands in Disco Bay?", "a": "Whale-fish Islands", "verify": "The Whale-fish Islands."}
+{"pid": "b1p023", "q": "What was the name of the ship mentioned?", "a": "Valorous", "verify": "\"Valorous\""}
+{"pid": "b1p023", "q": "Who provided kindness and hospitality to the expedition?", "a": "Eskimos, inhabitants of Godhavn", "verify": "The inhabitants and \"Valorous\" ship's company."}
+{"pid": "b1p023", "q": "What kind of light did the sunshine cast on the hills?", "a": "golden light", "verify": "Sunshine lit up hills with golden light."}
+{"pid": "b1p023", "q": "What did the bright rays of the sun glitter on?", "a": "ice-strewn surface of the sea", "verify": "the ice-strewn surface of the sea"}
+{"pid": "b1p023", "q": "How did the Eskimos' talent for writing and drawing compare?", "a": "pretty fair talent", "verify": "Eskimos had fair talent, but few sculptural remains."}
+{"pid": "b1p023", "q": "What did the Eskimos use as playthings?", "a": "small images cut out in wood or bone", "verify": "Small images cut out in wood or bone."}
+{"pid": "b1p023", "q": "What did the island of Disco supposedly do?", "a": "cut off the inhabitants of the mainland from the open sea", "verify": "It cut off mainland inhabitants from the open sea."}
+{"pid": "b1p023", "q": "Why did the Eskimos have a great dislike for the island of Disco?", "a": "to live comfortably, an Eskimo must be in the vicinity of the sea", "verify": "Because it cut off access to the open sea."}
+{"pid": "b1p023", "q": "What was the arduous service the ship's company was preparing for?", "a": "not specified in passage", "verify": "To further their expeditionary service."}
+{"pid": "b1p023", "q": "What did the captain, officers, and ship's company do for the expedition members?", "a": "depriving themselves of many things that they thought would add to our comfort", "verify": "Provided necessary supplies to enhance comfort."}
+{"pid": "b1p023", "q": "What kind of shadows did the sunshine throw into the valleys and ravines?", "a": "deep dark shadows", "verify": "Deep dark shadows."}
+{"pid": "b1p024", "q": "What was the date of the squadron's departure from the harbour?", "a": "July the 15th", "verify": "July 15th, the afternoon."}
+{"pid": "b1p024", "q": "How many icebergs did the squadron encounter?", "a": "innumerable", "verify": "Innumerable icebergs."}
+{"pid": "b1p024", "q": "What was the name of the settlement they arrived at?", "a": "Ritenbenk", "verify": "Ritenbenk, at which we arrived."}
+{"pid": "b1p024", "q": "How long did it take to reach Ritenbenk from the harbour?", "a": "the following morning", "verify": "The following morning after departure."}
+{"pid": "b1p024", "q": "What was the name of the island they were navigating around?", "a": "Disco", "verify": "The island of Disco."}
+{"pid": "b1p024", "q": "What was the name of the harbour mentioned?", "a": "Godhavn", "verify": "Godhavn is the harbour."}
+{"pid": "b1p024", "q": "What were the old men attempting to do with the island?", "a": "remove it", "verify": "They attempted to move the island northward."}
+{"pid": "b1p024", "q": "How did the first two old men plan to tow the island?", "a": "with the hair of a little child", "verify": "They fastened a child's hair to the island."}
+{"pid": "b1p024", "q": "What did the third old man use to try to keep the island in place?", "a": "a sealskin thong", "verify": "A sealskin thong from the shore."}
+{"pid": "b1p024", "q": "What direction did the island float off to?", "a": "northward", "verify": "to the northward"}
+{"pid": "b1p024", "q": "What was the name of the river from which the island was removed according to another tradition?", "a": "Baal's River", "verify": "Baal's River"}
+{"pid": "b1p024", "q": "What is an angekok?", "a": "a famous magician", "verify": "An angekok is a famous magician."}
+{"pid": "b1p025", "q": "What ship was leaving on the 17th?", "a": "Valorous", "verify": "The Valorous was leaving on the 17th."}
+{"pid": "b1p025", "q": "Where was the 'Valorous' going?", "a": "coal quarries on the north side of the island of Disco", "verify": "To the coal quarries on the north side of Disco island."}
+{"pid": "b1p025", "q": "What date did the 'Discovery' and company put to sea?", "a": "17th", "verify": "The 17th, two hours after the \"Valorous\" departed."}
+{"pid": "b1p025", "q": "What strait is described as having grand scenery?", "a": "Waigat", "verify": "Waigat, separating Disco from Greenland mainland."}
+{"pid": "b1p025", "q": "What separated Disco from the mainland of Greenland?", "a": "Waigat", "verify": "Waigat, a strait separating Disco from the mainland."}
+{"pid": "b1p025", "q": "What was the main danger in the Waigat?", "a": "icebergs", "verify": "Narrowly avoiding icebergs on one side of the ship."}
+{"pid": "b1p025", "q": "How many hours after the 'Valorous' left did the 'Discovery' and company put to sea?", "a": "two hours", "verify": "Two hours after."}
+{"pid": "b1p025", "q": "What did they buy from the natives at Ritenbenk?", "a": "several dogs", "verify": "They bought several dogs from the natives."}
+{"pid": "b1p025", "q": "Who was leaving the expedition?", "a": "untiring energy", "verify": "The last connecting link with home was leaving."}
+{"pid": "b1p025", "q": "What did the departure of this person make?", "a": "a chasm", "verify": "Made a chasm difficult to bridge over."}
+{"pid": "b1p025", "q": "What did the person leaving add to the expedition?", "a": "rich fund of information", "verify": "Added knowledge and conversation."}
+{"pid": "b1p025", "q": "What did the person leaving enliven with his conversation and presence?", "a": "mess-table", "verify": "His rich fund of information."}
+{"pid": "b1p026", "q": "What were the high snow-clad hills called?", "a": "Disco", "verify": "The high snow-clad hills were called Disco."}
+{"pid": "b1p026", "q": "What ship was the narrator trying to reach?", "a": "Valorous", "verify": "The \"Valorous\" was the ship they tried to reach."}
+{"pid": "b1p026", "q": "What was the weather condition that forced the ships to anchor?", "a": "Fog", "verify": "A thick fog crept over the surface of the sea."}
+{"pid": "b1p026", "q": "What kind of patches were observed on the hills near Point Kardluk?", "a": "Remarkable red patches", "verify": "Several remarkable red patches of basalt."}
+{"pid": "b1p026", "q": "What was the name of the large discharging glacier mentioned?", "a": "Itivdliarsuk", "verify": "Itivdliarsuk"}
+{"pid": "b1p026", "q": "What kind of fossils have been found near Point Kardluk?", "a": "Vegetable fossils", "verify": "Large quantity of vegetable fossils."}
+{"pid": "b1p026", "q": "What was the name of the petrified forest mentioned?", "a": "Atanekerdluk", "verify": "Atanekerdluk."}
+{"pid": "b1p026", "q": "How many men were in the boat that went to secure the ships?", "a": "Three", "verify": "Three men were in the boat."}
+{"pid": "b1p026", "q": "What happened to one half of the iceberg when the drill was used?", "a": "Split in two", "verify": "One half toppled completely over."}
+{"pid": "b1p026", "q": "What was the position of the man on the moving half of the iceberg?", "a": "Toppling completely over", "verify": "He was hanging by his heels."}
+{"pid": "b1p026", "q": "What was the outcome for the boat with the third man?", "a": "In no way injured", "verify": "The boat with the third man was not injured."}
+{"pid": "b1p027", "q": "What strait did they pass through?", "a": "Waigat Strait", "verify": "Waigat Strait"}
+{"pid": "b1p027", "q": "What fiord was they unable to see?", "a": "Omenak fiord", "verify": "Omenak fiord"}
+{"pid": "b1p027", "q": "What settlement did they anchor off?", "a": "Proven", "verify": "They anchored off Proven."}
+{"pid": "b1p027", "q": "How many guns did the Governor have?", "a": "three", "verify": "The Governor had three guns."}
+{"pid": "b1p027", "q": "What time of day did they enter the harbor?", "a": "midnight", "verify": "The inhabitants were lining the hill as they entered at midnight."}
+{"pid": "b1p027", "q": "What were the women wearing?", "a": "white boots and fur jackets", "verify": "White boots and fur jackets."}
+{"pid": "b1p027", "q": "What were the dogs doing?", "a": "howling", "verify": "Dogs howling, disturbed from sleep."}
+{"pid": "b1p027", "q": "What were the dogs' parliament?", "a": "howling", "verify": "Dogs' howling, held when disturbed."}
+{"pid": "b1p027", "q": "Who boarded the ships?", "a": "the Governor", "verify": "The Governor boarded the ships."}
+{"pid": "b1p027", "q": "What was the purpose of their stay?", "a": "survey and observations", "verify": "To survey the harbour and make scientific observations."}
+{"pid": "b1p027", "q": "What was the Governor's wife's name?", "a": "not mentioned", "verify": "The passage does not provide her name."}
+{"pid": "b1p027", "q": "Where had they met the Governor's wife before?", "a": "on a former occasion", "verify": "On a former cruise in a whaler."}
+{"pid": "b1p028", "q": "What was the name of the Eskimo hired as a dog-driver and hunter?", "a": "Hans Hendrik", "verify": "Hans Hendrik was the hired Eskimo."}
+{"pid": "b1p028", "q": "What was the name of the black retriever?", "a": "Nellie", "verify": "Nellie"}
+{"pid": "b1p028", "q": "Who named the headland 'Sanderson, his hope'?", "a": "old John Davis", "verify": "Old John Davis named it."}
+{"pid": "b1p028", "q": "In what year was the headland named?", "a": "1587", "verify": "1587"}
+{"pid": "b1p028", "q": "Who was the headland named after?", "a": "Mr. W. Sanderson", "verify": "Named after John Davis's friend, Mr. W. Sanderson."}
+{"pid": "b1p028", "q": "What is the name of the prominent cliff?", "a": "Sanderson, his hope", "verify": "Sanderson, his hope."}
+{"pid": "b1p028", "q": "What are the white-breasted guillemots also called?", "a": "looms", "verify": "They are termed _Uria Brunnichii_."}
+{"pid": "b1p028", "q": "What is the scientific name of the white-breasted guillemots?", "a": "Uria Brunnichii", "verify": "_Uria Brunnichii_"}
+{"pid": "b1p028", "q": "What were the ships doing on the evening of July 21st?", "a": "Leaving Proven", "verify": "Leaving Proven, arrived off Sanderson, his hope."}
+{"pid": "b1p028", "q": "What did the inhabitants want with Nellie?", "a": "To eat her and use her coat", "verify": "They wanted her as food and fur."}
+{"pid": "b1p028", "q": "What did the ships do when they arrived off the headland?", "a": "Hove to", "verify": "The ships were hove to, and boats dispatched."}
+{"pid": "b1p028", "q": "What were the boats filled with?", "a": "eager sportsmen", "verify": "eager sportsmen for shooting."}
+{"pid": "b1p029", "q": "How many birds were shot during the battue?", "a": "one hundred and seventy birds", "verify": "One hundred and seventy birds."}
+{"pid": "b1p029", "q": "What did the messmate say about the looms?", "a": "he had never tasted anything better in his life", "verify": "He said he had never tasted anything better."}
+{"pid": "b1p029", "q": "What is the name of the most northern settlement but one in Greenland?", "a": "Upernivik", "verify": "Upernivik"}
+{"pid": "b1p029", "q": "Who named the Woman Islands?", "a": "Baffin", "verify": "Baffin named the Woman Islands."}
+{"pid": "b1p029", "q": "How high were the cliffs?", "a": "about a thousand feet", "verify": "About a thousand feet."}
+{"pid": "b1p029", "q": "What did they return with after the battue?", "a": "the richer by one hundred and seventy birds", "verify": "They returned with one hundred and seventy birds."}
+{"pid": "b1p029", "q": "What did they eat for the next few days?", "a": "loom soup, loom pie, or roast loom", "verify": "They ate looms cooked various ways."}
+{"pid": "b1p029", "q": "What did they receive from the Danish settlements?", "a": "important information concerning the state of the ice", "verify": "Important information about ice and meteorological observations."}
+{"pid": "b1p029", "q": "What did they do in the evening?", "a": "we again put to sea", "verify": "They took the \"Discovery\" in tow and sailed."}
+{"pid": "b1p029", "q": "What ship did they take in tow?", "a": "the Discovery", "verify": "They took the \"Discovery\" in tow."}
+{"pid": "b1p029", "q": "What did they bid farewell to?", "a": "civilization", "verify": "Civilization, as they headed Polewards."}
+{"pid": "b1p029", "q": "What direction did their thoughts turn?", "a": "Polewards", "verify": "From henceforth our thoughts must turn Polewards."}
+{"pid": "b1p030", "q": "What is the name of the place mentioned in the 72° 48´ N latitude?", "a": "Upernivik", "verify": "Upernivik is the place."}
+{"pid": "b1p030", "q": "What is the name of the place mentioned in the 73° 24´ N latitude?", "a": "Tasiusak", "verify": "Tasiusak, the most northern Danish station."}
+{"pid": "b1p030", "q": "What is the name of the expedition's friend who received a letter?", "a": "not specified", "verify": "The friend who received a letter was Melville."}
+{"pid": "b1p030", "q": "What is the name of the Eskimo pilot?", "a": "not specified", "verify": "The passage does not mention his name."}
+{"pid": "b1p030", "q": "What is the name of the ship's destination?", "a": "not specified", "verify": "The passage does not mention a specific ship or its destination."}
+{"pid": "b1p030", "q": "What is the name of the bay mentioned?", "a": "Melville Bay", "verify": "Melville Bay and the North Water."}
+{"pid": "b1p030", "q": "What is the name of the water body mentioned?", "a": "North Water", "verify": "North Water."}
+{"pid": "b1p030", "q": "What is the name of the person who wrote to his friend?", "a": "not specified", "verify": "On his return to England he wrote."}
+{"pid": "b1p030", "q": "What is the name of the place where the last glimpse of the church was shut out?", "a": "not specified", "verify": "Upernivik."}
+{"pid": "b1p030", "q": "What is the name of the person who wrote the preface?", "a": "not specified", "verify": "The author of the preface is Virgil."}
+{"pid": "b1p030", "q": "What is the name of the person who wrote the letter to his friend?", "a": "not specified", "verify": "On his return to England he wrote."}
+{"pid": "b1p030", "q": "What is the name of the person who wrote the expedition's narrative?", "a": "not specified", "verify": "The passage doesn't provide this information directly."}
+{"pid": "b1p031", "q": "What was the name of the ship that got stuck on shore?", "a": "Alert", "verify": "The Alert got stuck on shore."}
+{"pid": "b1p031", "q": "Who was the pilot in the kayak?", "a": "Our pilot", "verify": "Our pilot led us into shallow water."}
+{"pid": "b1p031", "q": "What was the name of the bay they were passing through?", "a": "Melville Bay", "verify": "Melville Bay"}
+{"pid": "b1p031", "q": "What was the name of the bay known for its dangers?", "a": "Melville Bay", "verify": "Melville Bay was known for dangers."}
+{"pid": "b1p031", "q": "What was the name of the ship that led them into the bay?", "a": "Alert", "verify": "The Alert led them into the bay."}
+{"pid": "b1p031", "q": "What was the name of the group of islands they anchored off?", "a": "one of the small islands", "verify": "one of the small islands grouping through which we were passing."}
+{"pid": "b1p031", "q": "What was the name of the ship that got stuck?", "a": "Alert", "verify": "The \"Alert\" got stuck."}
+{"pid": "b1p031", "q": "What was the name of the bay with known dangers?", "a": "Melville Bay", "verify": "Melville Bay with fatal embrace."}
+{"pid": "b1p031", "q": "What was the name of the ship commanded by Sir Leopold McClintock?", "a": "Fox", "verify": "the little \"Fox\""}
+{"pid": "b1p031", "q": "What was the name of the ship that was hard and fast on shore?", "a": "Alert", "verify": "The Alert got hard and fast on shore."}
+{"pid": "b1p032", "q": "What is the name of the ship following the main ship?", "a": "Discovery", "verify": "The Discovery followed close behind."}
+{"pid": "b1p032", "q": "What is the nature of the ice they found?", "a": "soft brashy", "verify": "Loose, light, brashy, one year's formation."}
+{"pid": "b1p032", "q": "How thick was the ice, at most?", "a": "three feet", "verify": "Three feet in thickness."}
+{"pid": "b1p032", "q": "What was the weather like?", "a": "fine and calm", "verify": "Fine and calm weather."}
+{"pid": "b1p032", "q": "What was the main ship's speed?", "a": "full speed", "verify": "The ship proceeded at highest rate of speed."}
+{"pid": "b1p032", "q": "What was the tow rope used for?", "a": "cast off", "verify": "To pull the Discovery close to them."}
+{"pid": "b1p032", "q": "What animals were seen on the ice?", "a": "walrus and seals", "verify": "A walrus and a few seals."}
+{"pid": "b1p032", "q": "What was the reason for not capturing the walrus and seals?", "a": "not sufficient inducement", "verify": "Not enough inducement to detain the ship."}
+{"pid": "b1p032", "q": "What was the consequence of the ice packing?", "a": "ship would drift southward", "verify": "The ship would be severely handled and drift southward."}
+{"pid": "b1p032", "q": "What is the important maxim in ice navigation?", "a": "stick to the land-ice", "verify": "\"Stick to the land-ice.\""}
+{"pid": "b1p032", "q": "What was the thickness range of the ice?", "a": "one to three feet", "verify": "From one to three feet."}
+{"pid": "b1p032", "q": "Why was the pack considered loose?", "a": "rendering passage one of no difficulty", "verify": "Because it was composed of light ice, one year's formation."}
+{"pid": "b1p033", "q": "What animal was seen on the ice?", "a": "Polar bear", "verify": "A Polar bear was seen on the ice."}
+{"pid": "b1p033", "q": "How many bears were seen?", "a": "one", "verify": "Only one bear was seen."}
+{"pid": "b1p033", "q": "What was the reaction to seeing the bear?", "a": "excitement", "verify": "Excitement caused by rush for rifles."}
+{"pid": "b1p033", "q": "What were the hunters using to chase the bear?", "a": "rifles and weapons", "verify": "Rifles and weapons of all descriptions."}
+{"pid": "b1p033", "q": "What did the ship do to try to catch the bear?", "a": "steamed round to cut off his retreat", "verify": "The ship steamed round to cut off the bear's retreat."}
+{"pid": "b1p033", "q": "What animals were seen flitting about?", "a": "many little rotges, ivory gull", "verify": "Little rotges and ivory gulls."}
+{"pid": "b1p033", "q": "What is the scientific name for the ivory gull?", "a": "Larus eburneus", "verify": "Larus eburneus"}
+{"pid": "b1p033", "q": "What happened to some hunters who rushed on the ice?", "a": "immersion in cold water", "verify": "They immersed in cold water, seeking refuge aboard."}
+{"pid": "b1p033", "q": "What did the bear not share with the hunters?", "a": "his coat", "verify": "The bear did not want its coat removed."}
+{"pid": "b1p033", "q": "What was the bear's strategic ability?", "a": "too high an order", "verify": "Bruin outmaneuvered hunters on ice."}
+{"pid": "b1p033", "q": "What did many believe the bear carried away?", "a": "a portion of the bullets", "verify": "Many believed he carried away bullets."}
+{"pid": "b1p033", "q": "What was the result for some hunters who rushed on the ice?", "a": "wet, cold, and uncomfortable", "verify": "They immersed in cold water, seeking refuge aboard."}
+{"pid": "b1p034", "q": "What was the unprecedented passage from?", "a": "Upernivik to Cape York!", "verify": "From Upernivik to Cape York."}
+{"pid": "b1p034", "q": "How many hours did it take to reach the North Water?", "a": "Seventy hours", "verify": "Seventy hours from Upernivik to Cape York."}
+{"pid": "b1p034", "q": "What was the name of the expedition?", "a": "Not specified in passage", "verify": "The passage does not explicitly state the name of the expedition."}
+{"pid": "b1p034", "q": "What was the name of the ship?", "a": "Discovery", "verify": "The Discovery"}
+{"pid": "b1p034", "q": "What was the name of the place where the ship was ordered to proceed?", "a": "shorewards", "verify": "The \"Discovery\" was ordered to proceed shorewards."}
+{"pid": "b1p034", "q": "What was the name of the place where the 'Alert' was ordered to go?", "a": "Cary Islands", "verify": "Cary Islands"}
+{"pid": "b1p034", "q": "How many weeks of the navigable season were available for penetration?", "a": "A clear month or five weeks", "verify": "Only two or three weeks originally, but now potentially a clear month."}
+{"pid": "b1p034", "q": "What was the name of the person's brother-in-law the expedition hoped to communicate with?", "a": "Hans", "verify": "Hans's brother-in-law."}
+{"pid": "b1p034", "q": "What was the name of the region the expedition aimed to cross?", "a": "Smith Sound", "verify": "Smith Sound, the unknown region."}
+{"pid": "b1p034", "q": "What was the name of the region the expedition aimed to enter?", "a": "unknown region", "verify": "Smith Sound, the unknown region."}
+{"pid": "b1p034", "q": "What was the name of the smooth sea they encountered?", "a": "not specified in passage", "verify": "A beautifully smooth unruffled sea."}
+{"pid": "b1p034", "q": "What was the name of the bay with terrors behind them?", "a": "Melville Bay", "verify": "Melville Bay, with all its terrors."}
+{"pid": "b1p035", "q": "What was the distance from the shore as they steamed along?", "a": "about two miles", "verify": "About two miles from the shore."}
+{"pid": "b1p035", "q": "What covered the hills along the coast?", "a": "snow", "verify": "The hills were clad with snow."}
+{"pid": "b1p035", "q": "What did the long undulating ranges appear to be buried under?", "a": "mer de glace", "verify": "the everlasting _mer de glace_."}
+{"pid": "b1p035", "q": "What is the width of the Petowik Glacier?", "a": "seven miles", "verify": "The width is fully seven miles."}
+{"pid": "b1p035", "q": "What did they have to thread their way through?", "a": "clusters of huge bergs", "verify": "Clusters of huge bergs."}
+{"pid": "b1p035", "q": "What are the crimson cliffs called?", "a": "Beverley", "verify": "The crimson cliffs of Beverley."}
+{"pid": "b1p035", "q": "What did they distinguish in small patches?", "a": "coloured snow", "verify": "Coloured snow in small patches."}
+{"pid": "b1p035", "q": "What is the name of the alga that causes the colouring matter on snow?", "a": "Protococcus nivalis", "verify": "Protococcus nivalis causes the colouring matter."}
+{"pid": "b1p035", "q": "What current caused them to not reach the Cary Islands as soon as expected?", "a": "S.E. current", "verify": "A strong S.E. current caused delay."}
+{"pid": "b1p035", "q": "What did the sudden rise of temperature of the surface water indicate?", "a": "absence of ice", "verify": "The absence of ice, raising spirits."}
+{"pid": "b1p035", "q": "How many home letters were deposited?", "a": "last home letters", "verify": "The last home letters for 60 men for two months."}
+{"pid": "b1p035", "q": "Where were the depôt and cairn placed?", "a": "easternmost island", "verify": "On the easternmost island."}
+{"pid": "b1p036", "q": "What was the depôt established for?", "a": "in case of any accident happening to our vessels in Smith Sound", "verify": "For safeguarding in case of vessel accidents."}
+{"pid": "b1p036", "q": "What were the northern Greenland settlements expected to provide?", "a": "protection and assistance", "verify": "Protection and assistance to provisioned party."}
+{"pid": "b1p036", "q": "Who rejoined the expedition?", "a": "our consort", "verify": "The consort rejoined the expedition."}
+{"pid": "b1p036", "q": "What was the weather like on the clear sunny morning?", "a": "beautifully clear sunny", "verify": "Beautifully clear, sunny, ice-free sea."}
+{"pid": "b1p036", "q": "What islands did they steer between?", "a": "Northumberland and Hakluyt Islands", "verify": "Between Northumberland and Hakluyt Islands."}
+{"pid": "b1p036", "q": "What was on the port bow?", "a": "the opposite coast of Ellesmere Land", "verify": "The opposite coast of Ellesmere Land."}
+{"pid": "b1p036", "q": "What mountains were visible on the horizon?", "a": "Prince of Wales Mountains", "verify": "Prince of Wales Mountains."}
+{"pid": "b1p036", "q": "What color were the glaciers?", "a": "white and radiant", "verify": "Glaciers glittering white and radiant."}
+{"pid": "b1p036", "q": "What were the rotges or little auks?", "a": "Alca alle", "verify": "They are a type of bird diving under water."}
+{"pid": "b1p036", "q": "What did the looms, dovekies, and king-ducks do when the ship approached?", "a": "rose in long flights", "verify": "Rose in long flights, circled around."}
+{"pid": "b1p036", "q": "What did the ivory gull have?", "a": "snowy wings", "verify": "Its snowy wings contrasting."}
+{"pid": "b1p036", "q": "What were the walruses doing on the ice?", "a": "basking in the golden sunshine", "verify": "Basking in the golden sunshine."}
+{"pid": "b1p037", "q": "What is the name of the bay where the ships anchored?", "a": "Hartstene Bay", "verify": "Hartstene Bay or Port Foulke."}
+{"pid": "b1p037", "q": "What is the common name for Hartstene Bay?", "a": "Port Foulke", "verify": "Port Foulke harbor."}
+{"pid": "b1p037", "q": "In which year did Dr. Hayes winter in this location?", "a": "1860", "verify": "1860"}
+{"pid": "b1p037", "q": "What is the name of the glacier mentioned in the text?", "a": "My brother John's glacier", "verify": "\"My brother John's glacier\""}
+{"pid": "b1p037", "q": "What is the name of the island group mentioned in the footnote?", "a": "Cary Islands", "verify": "Cary Islands."}
+{"pid": "b1p037", "q": "What is the latitude of the Cary Islands?", "a": "76° 45´ N", "verify": "76° 45´ N."}
+{"pid": "b1p037", "q": "What is the minimum diameter of the islands in the Cary Islands group?", "a": "two and a half miles", "verify": "The minimum diameter is two and a half miles."}
+{"pid": "b1p037", "q": "What is the height of the islands above sea level?", "a": "about 400 feet", "verify": "About 400 feet above sea level."}
+{"pid": "b1p037", "q": "What animals are mentioned as breeding on the Cary Islands?", "a": "eider-ducks and looms", "verify": "Eider-ducks and looms breed there."}
+{"pid": "b1p037", "q": "What is the name of the sound described in the chapter?", "a": "SMITH SOUND", "verify": "Smith Sound"}
+{"pid": "b1p037", "q": "What is the name of the village the expedition expected to find?", "a": "Etah", "verify": "Etah, situated a couple miles from anchorage."}
+{"pid": "b1p037", "q": "What were the seal and walrus meat found in?", "a": "_caches_", "verify": "in _caches_."}
+{"pid": "b1p038", "q": "What was the name of the ship from which some officers and crew spent their second winter in 1872-3?", "a": "Polaris", "verify": "Polaris"}
+{"pid": "b1p038", "q": "In what year was an iron boat said to have been left on Littleton Island?", "a": "1860", "verify": "1860"}
+{"pid": "b1p038", "q": "What was the name of the cairn mentioned in the passage?", "a": "a large cairn", "verify": "A large cairn, demolished before arrival."}
+{"pid": "b1p038", "q": "What kind of boat did the narrator and his men find on Littleton Island?", "a": "a boat", "verify": "A European-shaped but Eskimo-constructed boat."}
+{"pid": "b1p038", "q": "What was the shape of the boat found on Littleton Island?", "a": "European shape", "verify": "European shape, but built by whites."}
+{"pid": "b1p038", "q": "Who was the captain of the ship that started the expedition?", "a": "Captain Nares", "verify": "Captain Nares was the captain."}
+{"pid": "b1p038", "q": "How long did they pull against the wind before reaching Life-boat Cove?", "a": "about five hours", "verify": "About five hours."}
+{"pid": "b1p038", "q": "What was the weather condition they encountered while sailing?", "a": "a fresh northerly wind", "verify": "Fresh northerly wind against them."}
+{"pid": "b1p038", "q": "What did the narrator and his men find on the site of the Americans' winter quarters?", "a": "Trunks, boxes, stoves, pieces of wood, gun-barrels, and odds and ends", "verify": "Trunks, boxes, stoves, wood, gun-barrels, debris."}
+{"pid": "b1p038", "q": "What was the area of the remains of the Americans' winter quarters?", "a": "half a square mile", "verify": "An area of half a square mile."}
+{"pid": "b1p038", "q": "What did the narrator and his men think had demolished the cairn?", "a": "the searching expedition sent out in the 'Tigress' in 1873", "verify": "Probably by the searching expedition sent out in the \"Tigress\" in 1873."}
+{"pid": "b1p039", "q": "What were the boxes marked with?", "a": "the names of their previous owners", "verify": "Some boxes were marked with previous owners' names."}
+{"pid": "b1p039", "q": "What items were in one trunk?", "a": "a few small articles of female apparel", "verify": "A few small articles of female apparel."}
+{"pid": "b1p039", "q": "What were the items in the trunk?", "a": "a lace collar and black veil, and some faded ribbons", "verify": "A few small articles of female apparel."}
+{"pid": "b1p039", "q": "What were the items souvenirs of?", "a": "some fair damsel at home", "verify": "Souvenirs from some fair damsel at home."}
+{"pid": "b1p039", "q": "What led the expedition to think the natives would return?", "a": "numerous cairns and caches", "verify": "Numerous cairns and caches indicated intended return."}
+{"pid": "b1p039", "q": "What was deposited under the cairns and caches?", "a": "lumps of seal blubber", "verify": "Lumps of seal blubber were deposited."}
+{"pid": "b1p039", "q": "What were the two other boats named?", "a": "MAUMOKPO", "verify": "The passage does not name the two other boats."}
+{"pid": "b1p039", "q": "What kind of thermometers were found?", "a": "Casella thermometers", "verify": "Two Casella thermometers, marked as low as 130° below zero."}
+{"pid": "b1p039", "q": "What was the lowest temperature marked on the thermometers?", "a": "130° below zero", "verify": "130° below zero."}
+{"pid": "b1p039", "q": "What were the expedition members trying to return?", "a": "books and instruments", "verify": "Books and instruments to United States Government."}
+{"pid": "b1p039", "q": "What did the expedition take possession of?", "a": "a couple of boats", "verify": "Two boats, books, instruments."}
+{"pid": "b1p039", "q": "Where did they proceed towards?", "a": "Littleton Island", "verify": "They proceeded towards Littleton Island."}
+{"pid": "b1p040", "q": "What island was the search for Hayes's boat conducted on?", "a": "Littleton Island", "verify": "Littleton Island was searched."}
+{"pid": "b1p040", "q": "What was the height of the hill where a cairn was erected?", "a": "five or six hundred feet", "verify": "About five or six hundred feet above sea level."}
+{"pid": "b1p040", "q": "What was the name of the ship where the sportsmen found an officer who shot a reindeer?", "a": "the Alert", "verify": "\"Discovery\" shot the reindeer."}
+{"pid": "b1p040", "q": "What was the name of the headland where a large cairn was erected?", "a": "Cape Isabella", "verify": "Cape Isabella"}
+{"pid": "b1p040", "q": "How high was Cape Isabella above sea level?", "a": "one thousand feet", "verify": "About one thousand feet above sea level."}
+{"pid": "b1p040", "q": "What was the material of the rocks composing Cape Isabella?", "a": "syenitic granite", "verify": "Cape Isabella is composed of hard, smooth, syenitic granite rocks."}
+{"pid": "b1p040", "q": "What was the weather condition during the ascent of Cape Isabella?", "a": "high wind and dense snowstorm", "verify": "High wind, dense snowstorm."}
+{"pid": "b1p040", "q": "What was the name of the ship that left Port Foulke the following morning?", "a": "the Alert", "verify": "The \"Alert\" left Port Foulke."}
+{"pid": "b1p040", "q": "What was the name of the cairn erected at the south-west end of Littleton Island?", "a": "a cairn", "verify": "A cairn on the highest hill."}
+{"pid": "b1p040", "q": "What was the name of the ship that conducted the search for Hayes's boat?", "a": "the Alert", "verify": "The Alert conducted the search."}
+{"pid": "b1p040", "q": "What was the distance of the complete circuit made around Littleton Island?", "a": "not specified", "verify": "The complete circuit was not specified."}
+{"pid": "b1p041", "q": "What was the name of the cask intended for letters?", "a": "an empty cask", "verify": "The cask was intended for letters."}
+{"pid": "b1p041", "q": "How many pounds of preserved beef were left?", "a": "about one hundred and fifty pounds", "verify": "About one hundred and fifty pounds."}
+{"pid": "b1p041", "q": "What was the name of the little harbour?", "a": "Bide-a-wee Harbour", "verify": "Bide-a-wee Harbour, later Payer Harbour."}
+{"pid": "b1p041", "q": "Who was the Austrian Arctic explorer?", "a": "Payer", "verify": "Payer, after the Austrian explorer."}
+{"pid": "b1p041", "q": "What was the name of the inlet where ice was observed?", "a": "Baird Inlet", "verify": "Baird Inlet"}
+{"pid": "b1p041", "q": "How long were they detained in the bay?", "a": "five days", "verify": "Five days."}
+{"pid": "b1p041", "q": "What acted as a breakwater in the bay?", "a": "a long jutting-out spit", "verify": "A long jutting-out spit to the S.E."}
+{"pid": "b1p041", "q": "What was the name of the island to the southward of Cape Sabine?", "a": "Brevoort Island", "verify": "Cape Sabine's southward indentation formed a bay."}
+{"pid": "b1p041", "q": "What were the two types of ice observed?", "a": "fixed land ice, loose detached streams", "verify": "Fixed land ice, loose detached streams."}
+{"pid": "b1p041", "q": "How far north could they see the ice extending?", "a": "as far north as we could see", "verify": "As far as they could see northward."}
+{"pid": "b1p041", "q": "What did they gather on the slopes and crests of the hill?", "a": "some beautiful little yellow poppies", "verify": "They gathered yellow poppies there."}
+{"pid": "b1p041", "q": "What were the two plants found in profusion?", "a": "draba and saxifrage", "verify": "Draba and saxifrage."}
+{"pid": "b1p042", "q": "What was the size of the ice boat used for sledging?", "a": "twenty-feet", "verify": "The ice boat was twenty-feet long."}
+{"pid": "b1p042", "q": "How many officers were in the sledging party?", "a": "four", "verify": "Four officers were in the party."}
+{"pid": "b1p042", "q": "What was the main purpose of the sledging expedition?", "a": "to derive practical experience", "verify": "To gain practical experience in Arctic exploration."}
+{"pid": "b1p042", "q": "What kind of terrain did they encounter?", "a": "hummocky, with narrow water spaces", "verify": "Ice with hummocks and narrow water spaces."}
+{"pid": "b1p042", "q": "What song did they sing while pulling the sledge?", "a": "one, two, three, haul", "verify": "\"one, two, three, haul;\""}
+{"pid": "b1p042", "q": "What happened to the ice boat when launched into a pool?", "a": "she nearly capsized", "verify": "The ice boat nearly capsized and got saturated."}
+{"pid": "b1p042", "q": "What items were inside the ice boat when it capsized?", "a": "provisions, clothes, instruments, guns, ammunition", "verify": "Provisions, clothes, instruments, guns, and ammunition."}
+{"pid": "b1p042", "q": "How many men were in the sledging party?", "a": "five", "verify": "Four officers and five men."}
+{"pid": "b1p042", "q": "What was the name of the object that was damaged by water?", "a": "gold watch", "verify": "A gold watch in a coat pocket."}
+{"pid": "b1p042", "q": "What were the Eskimo traces made of?", "a": "igdlus or huts, bone spear-heads, runners and cross-bars of a sledge", "verify": "Remains of igdlus, bone spear-heads, sledge parts."}
+{"pid": "b1p042", "q": "What was the main object of the expedition?", "a": "to derive practical experience", "verify": "To gain practical experience in sledging."}
+{"pid": "b1p042", "q": "What was the position of the boat's bows at one point?", "a": "rising almost perpendicularly in the air", "verify": "The boat's bows rose almost perpendicularly."}
+{"pid": "b1p043", "q": "What are narwhals called by whalers?", "a": "unies", "verify": "narwhals are called \"unies\" by whalers."}
+{"pid": "b1p043", "q": "What date did the southerly gale blow?", "a": "the 4th of August", "verify": "The previous night before August 4th."}
+{"pid": "b1p043", "q": "What direction did they steer after rounding Cape Sabine?", "a": "to the westward", "verify": "They steered westward up Hayes Sound."}
+{"pid": "b1p043", "q": "What sound did they steer up?", "a": "Hayes Sound", "verify": "They steered up Hayes Sound."}
+{"pid": "b1p043", "q": "What enclosed the beautiful inlet?", "a": "high land", "verify": "High land on three sides."}
+{"pid": "b1p043", "q": "What did the two glaciers remind the explorers of?", "a": "two huge giants", "verify": "Two huge giants attempting to push each other away."}
+{"pid": "b1p043", "q": "What was the weather like when they landed?", "a": "a fresh but bitter cold wind", "verify": "A fresh but bitter cold wind."}
+{"pid": "b1p043", "q": "What was the name of the harbour?", "a": "not mentioned directly, but context implies it's the harbour they stayed in before rounding Cape Sabine", "verify": "The passage doesn't provide the name of the harbour."}
+{"pid": "b1p043", "q": "What was the name of the ship?", "a": "not mentioned, but context implies it's one of the ships in the expedition", "verify": "The passage does not provide the name of the ship."}
+{"pid": "b1p043", "q": "What was the name of the cape they rounded?", "a": "Cape Sabine", "verify": "Cape Sabine"}
+{"pid": "b1p043", "q": "What were they walking on after landing?", "a": "loose masses of gneiss", "verify": "Loose masses of gneiss, wet swampy bog, rough sharp-pointed stones."}
+{"pid": "b1p043", "q": "What was the ground like in the wet swampy bog?", "a": "wet and swampy", "verify": "Wet, swampy, boggy ground."}
+{"pid": "b1p044", "q": "What was the name of the glacier described?", "a": "the glacier", "verify": "The right-hand one, Twin Glacier."}
+{"pid": "b1p044", "q": "How far did they walk to reach the glacier?", "a": "about four or five miles", "verify": "About four or five miles."}
+{"pid": "b1p044", "q": "What were the traces of?", "a": "musk-oxen, reindeer, wolves, foxes, and hares", "verify": "Traces of musk-oxen, reindeer, wolves, foxes, and hares."}
+{"pid": "b1p044", "q": "What did they fail to secure?", "a": "any game", "verify": "They failed to secure any game."}
+{"pid": "b1p044", "q": "What did they compare the glacier to?", "a": "a frozen Niagara", "verify": "They compared it to a frozen Niagara."}
+{"pid": "b1p044", "q": "What was the left-hand glacier like?", "a": "rounded off, like a huge icy wave", "verify": "Rounded off, like a huge icy wave."}
+{"pid": "b1p044", "q": "What was the right-hand glacier doing?", "a": "pressing against its neighbour", "verify": "Pressing against its neighbour, raising a ridge."}
+{"pid": "b1p044", "q": "What did they discover on their way out?", "a": "the site of an old settlement", "verify": "They discovered an old Eskimo settlement site."}
+{"pid": "b1p044", "q": "What did they observe on their way back?", "a": "two large cairns", "verify": "They observed two large cairns used as caches."}
+{"pid": "b1p044", "q": "What were Alexandra Bay and Twin Glacier Valley?", "a": "the nearest approach to an Arctic paradise", "verify": "Sheltered harbour with abundant game."}
+{"pid": "b1p044", "q": "What should be the first and grand objects to be taken into consideration?", "a": "a sheltered and well-protected harbour, with a locality abounding in game of various descriptions", "verify": "Sheltered harbour, game-abounding locality."}
+{"pid": "b1p044", "q": "What were the names of the newly designated places?", "a": "Alexandra Bay and Twin Glacier Valley", "verify": "Alexandra Bay and Twin Glacier Valley."}
+{"pid": "b1p045", "q": "How long was the stay in the interesting neighbourhood?", "a": "a few hours", "verify": "Only a few hours."}
+{"pid": "b1p045", "q": "What did they observe about the traces of game?", "a": "numerous and recent", "verify": "Traces numerous and recent, rewarding potential exploration."}
+{"pid": "b1p045", "q": "What direction did the flood tide in Hayes Sound come from?", "a": "from the eastward", "verify": "The flood tide came from the eastward."}
+{"pid": "b1p045", "q": "What was uncertain about Hayes Sound?", "a": "whether it was a strait opening out to the westward", "verify": "Whether it was a strait or deep inlet."}
+{"pid": "b1p045", "q": "How far did they navigate in Hayes Sound?", "a": "about twenty miles", "verify": "About twenty miles northwest."}
+{"pid": "b1p045", "q": "What was the name of the harbour for tidal observations?", "a": "Alexandra Harbour", "verify": "Alexandra Harbour for tidal observations."}
+{"pid": "b1p045", "q": "What did the iron-tipped spear-head suggest?", "a": "some intercourse with Europeans", "verify": "Possible contact with Europeans."}
+{"pid": "b1p045", "q": "What did the poem mention about the wind?", "a": "A fit and favourable wind", "verify": "It requested a fit and favourable wind."}
+{"pid": "b1p045", "q": "What did they hope to find in the north?", "a": "a navigable channel", "verify": "An navigable channel for their ships."}
+{"pid": "b1p045", "q": "What happened after following the report about the pack?", "a": "both ships were helplessly beset", "verify": "They battled with ice for about twenty miles."}
+{"pid": "b1p046", "q": "How many hours did it take to emerge into open water?", "a": "twenty-four hours", "verify": "From ice to open water in about 2 hours."}
+{"pid": "b1p046", "q": "What was the speed of the ship in the open water?", "a": "seven knots", "verify": "Seven knots."}
+{"pid": "b1p046", "q": "What were the names of the supposed islands?", "a": "Henry and Bache Islands", "verify": "Henry and Bache Islands of Hayes."}
+{"pid": "b1p046", "q": "What type of formation did the land appear to be?", "a": "sandstone formation overlying trap", "verify": "Sandstone overlying trap."}
+{"pid": "b1p046", "q": "What was the angle of stratifications dipping?", "a": "6°", "verify": "About 6° to the northward."}
+{"pid": "b1p046", "q": "What type of formations were the floes described as?", "a": "very heavy", "verify": "Trap formation, heavier than anything hitherto met."}
+{"pid": "b1p046", "q": "What was the expected direction of travel?", "a": "northward", "verify": "To the northward."}
+{"pid": "b1p046", "q": "What did the narrator say about indulging in hopes?", "a": "does not do to indulge too freely", "verify": "Does not do to indulge too freely in vain hopes."}
+{"pid": "b1p046", "q": "What happened after eight hours of travel?", "a": "again stopped by the ice", "verify": "Ice stopped progress again."}
+{"pid": "b1p046", "q": "What were the ships' movements constrained by?", "a": "compelled to make fast to a floe", "verify": "By the ice, stopping northward progress."}
+{"pid": "b1p046", "q": "What was the formation of the southern shore of the strait?", "a": "granitic formation", "verify": "Granitic formation."}
+{"pid": "b1p046", "q": "What was the state of vegetation on the land?", "a": "quite bare", "verify": "The land appeared quite bare of vegetation."}
+{"pid": "b1p047", "q": "What was the name of the ship in the most critical position initially?", "a": "Discovery", "verify": "The \"Discovery\" was initially in critical position."}
+{"pid": "b1p047", "q": "What were the crew preparing to unship to avoid damage?", "a": "rudder", "verify": "Unship the rudder and lift the screw."}
+{"pid": "b1p047", "q": "What was the name of the grounded iceberg?", "a": "grim and motionless berg", "verify": "The berg's name is not mentioned."}
+{"pid": "b1p047", "q": "What did the crew take below to prepare for abandoning the ship?", "a": "journals, Bible and Prayer-Book, photographs, and sardines", "verify": "Journals, Bible, Prayer-Book, photos, sardines."}
+{"pid": "b1p047", "q": "What did the crew do when the ice opened up?", "a": "bore through", "verify": "They attempted to bore through occasionally."}
+{"pid": "b1p047", "q": "What did the crew keep ready for emergencies?", "a": "Steam", "verify": "Steam had to be kept ready."}
+{"pid": "b1p047", "q": "What did the crew have to do to avoid being nipped by ice?", "a": "move the vessel", "verify": "Tripped ice anchors, moved vessel."}
+{"pid": "b1p047", "q": "What did the crew pack in a haversack?", "a": "valuables", "verify": "Journals, Bible, Prayer-Book, photographs, sardines."}
+{"pid": "b1p047", "q": "What did the crew take advantage of to make progress?", "a": "every opening in the ice", "verify": "Every opening in the ice."}
+{"pid": "b1p047", "q": "What did the crew do when they had leads of water?", "a": "proceed", "verify": "Proceeded when ice opened up."}
+{"pid": "b1p047", "q": "What did the crew suffer during the incident with the iceberg?", "a": "slight nip", "verify": "They suffered a slight nip but no material damage."}
+{"pid": "b1p047", "q": "What did the crew find in the haversack?", "a": "journals, Bible and Prayer-Book, photographs, and sardines", "verify": "Journals, Bible, Prayer-Book, photographs, sardines."}
+{"pid": "b1p048", "q": "What was the name of the expedition's ship?", "a": "Victoria", "verify": "The passage does not specify the name of the ship."}
+{"pid": "b1p048", "q": "Who was the captain of the expedition?", "a": "Captain Nares", "verify": "Captain Nares led the expedition."}
+{"pid": "b1p048", "q": "On which date did they reach Victoria Head?", "a": "8th of August", "verify": "The 8th of August."}
+{"pid": "b1p048", "q": "What was damaged due to backing into the ice?", "a": "rudder-heads", "verify": "Damaged rudder-heads to both ships."}
+{"pid": "b1p048", "q": "What did the ice-foot resemble?", "a": "a frozen wall", "verify": "A perpendicular frozen wall."}
+{"pid": "b1p048", "q": "How high was the ice-foot?", "a": "about twelve feet", "verify": "The ice-foot rose to about twelve feet."}
+{"pid": "b1p048", "q": "What tools did they use to climb the ice?", "a": "a long boat-hook staff and some rope", "verify": "A long boat-hook staff and some rope."}
+{"pid": "b1p048", "q": "What kind of fog and storm made their climb unprofitable?", "a": "thick fog and snowstorm", "verify": "Thick fog and snowstorm rendered it unprofitable."}
+{"pid": "b1p048", "q": "What kind of limestone composed the hills?", "a": "slaty limestone", "verify": "Slaty limestone composed the hills."}
+{"pid": "b1p048", "q": "What did they find along the beach?", "a": "Traces of former inhabitants", "verify": "Traces of an Eskimo settlement and fox-traps."}
+{"pid": "b1p048", "q": "What were the traces of former inhabitants?", "a": "the site of an Eskimo settlement and a few small cairns or fox-traps", "verify": "Eskimo settlement site, small cairns or fox-traps."}
+{"pid": "b1p049", "q": "What expedition did Admiral Sherard Osborn and Mr. Clements Markham study Eskimo vestiges during?", "a": "Arctic Expedition of 1850-51", "verify": "Arctic Expedition of 1850-51."}
+{"pid": "b1p049", "q": "What is the most northern point where human remains were discovered?", "a": "Cape Beechey, in 81° 54´ N.", "verify": "Cape Beechey, 81° 54´ N."}
+{"pid": "b1p049", "q": "What did the naturalist find at Cape Beechey?", "a": "the framework of a large wooden sledge, a stone lamp, and a snow scraper made of walrus tusk", "verify": "Framework of sledge, stone lamp, snow scraper."}
+{"pid": "b1p049", "q": "What is the most northern permanent human habitation in the world mentioned?", "a": "Etah, near Port Foulke", "verify": "Etah, near Port Foulke."}
+{"pid": "b1p049", "q": "What is the name of the strait where Eskimos appear to have crossed from one side to the other?", "a": "the strait", "verify": "The strait is Cape Beechey."}
+{"pid": "b1p049", "q": "What is the name of the expedition mentioned in the text?", "a": "our expedition", "verify": "Arctic Expedition of 1850-51"}
+{"pid": "b1p049", "q": "What is the name of the channel leading north from Smith Sound where remains were traced?", "a": "the channels leading north from Smith Sound", "verify": "Buchanan Strait."}
+{"pid": "b1p049", "q": "What is the name of the island where remains were found on the shores?", "a": "Norman Lockyer Island", "verify": "Norman Lockyer Island"}
+{"pid": "b1p049", "q": "What is the name of the inlet where Eskimos are still living?", "a": "Dundas Harbour", "verify": "Dundas Harbour and Admiralty Inlet."}
+{"pid": "b1p049", "q": "What is the name of the inlet where Eskimos are still living?", "a": "Admiralty Inlet", "verify": "Dundas Harbour and Admiralty Inlet."}
+{"pid": "b1p049", "q": "What is the name of the extreme point of Greenland where Captain Clavering saw people in 1823?", "a": "the east coast of Greenland", "verify": "Cape Farewell, east coast of Greenland."}
+{"pid": "b1p049", "q": "What is the name of the islands from where people could have come to the neighbourhood of the Pendulum Islands?", "a": "Cape Farewell", "verify": "Cape Farewell and its surroundings."}
+{"pid": "b1p050", "q": "What was the date of the snowfall?", "a": "August 8th", "verify": "Sunday, August 8th."}
+{"pid": "b1p050", "q": "How deep was the snow on the deck?", "a": "several inches", "verify": "Several inches deep."}
+{"pid": "b1p050", "q": "What was the distance to the narrow lane of water?", "a": "a hundred yards", "verify": "A hundred yards distant."}
+{"pid": "b1p050", "q": "What caused the ice to pile up as high as the main chains?", "a": "the ice", "verify": "Total cessation of wind caused it."}
+{"pid": "b1p050", "q": "What was the name of the land that appeared in the distance?", "a": "Grinnell Land", "verify": "Grinnell Land loomed in the distance."}
+{"pid": "b1p050", "q": "What bay are they made fast to?", "a": "Franklin Pierce Bay", "verify": "Franklin Pierce Bay on the southern shore of Grinnell Land."}
+{"pid": "b1p050", "q": "On which side of Grinnell Land is Franklin Pierce Bay located?", "a": "southern shore", "verify": "On the southern shore."}
+{"pid": "b1p050", "q": "What time did the narrative end?", "a": "11.30 P.M.", "verify": "11:30 P.M., five hours earlier."}
+{"pid": "b1p050", "q": "What was the weather condition in the afternoon?", "a": "Clearing up", "verify": "Ice beset, clearing up in the afternoon."}
+{"pid": "b1p050", "q": "What was the ship's name?", "a": "not mentioned directly", "verify": "Not specified in the passage."}
+{"pid": "b1p050", "q": "What was the nature of the ice that caused a slight nip?", "a": "soft", "verify": "It was soft and not damaging."}
+{"pid": "b1p050", "q": "What happened to the pack of ice?", "a": "it commenced to open", "verify": "The pack opened, showing lanes of water."}
+{"pid": "b1p051", "q": "What is the name of the place mentioned as the Rubicon?", "a": "Cape Fraser", "verify": "Cape Fraser is our Rubicon."}
+{"pid": "b1p051", "q": "What did the 'Polaris' navigate in the north of Smith Sound?", "a": "North Water", "verify": "The Polaris navigated the \"North Water.\""}
+{"pid": "b1p051", "q": "Who reported an open Polar Sea in the latitude of Cape Fraser?", "a": "Kane", "verify": "Kane and Hayes reported it."}
+{"pid": "b1p051", "q": "What happened to the consort ship after lagging behind?", "a": "Was caught and remained beset", "verify": "It was caught and remained beset for some time."}
+{"pid": "b1p051", "q": "What impeded the progress of the expedition?", "a": "Soft sludgy substance", "verify": "A soft sludgy substance of ice and snow."}
+{"pid": "b1p051", "q": "What was the inclination of the needle during magnetic observations?", "a": "85° 34´", "verify": "The inclination of the needle was as much as 85° 34´."}
+{"pid": "b1p051", "q": "What was found at a depth of fifteen fathoms?", "a": "Some crinoids", "verify": "Some crinoids were found."}
+{"pid": "b1p051", "q": "What is the name of the ship mentioned in the text?", "a": "Polaris", "verify": "The Polaris was mentioned."}
+{"pid": "b1p051", "q": "What is the name of the bay where glaciers were seen?", "a": "Franklin Pierce Bay", "verify": "Franklin Pierce Bay"}
+{"pid": "b1p051", "q": "What was the name of the ship that lagged behind?", "a": "not specified", "verify": "The consort lagged behind."}
+{"pid": "b1p051", "q": "What was the date mentioned in the text?", "a": "August 9th", "verify": "August 9th._--We succeeded."}
+{"pid": "b1p051", "q": "What is the name of the land where glaciers were situated?", "a": "Grinnell Land", "verify": "Grinnell Land, Franklin Pierce Bay."}
+{"pid": "b1p052", "q": "What island was named after a distinguished astronomer?", "a": "Norman Lockyer Island", "verify": "Norman Lockyer Island was named after an astronomer."}
+{"pid": "b1p052", "q": "What was the height of the highest eminence on the island?", "a": "at least two hundred feet", "verify": "The highest part is from five to six hundred feet above the sea."}
+{"pid": "b1p052", "q": "What were the traces of Eskimo found on the island?", "a": "the sites of several encampments, and a bone harpoon point", "verify": "Encampments sites, bone harpoon point."}
+{"pid": "b1p052", "q": "What was the height range of the highest part of the island?", "a": "from five to six hundred feet", "verify": "From five to six hundred feet above the sea."}
+{"pid": "b1p052", "q": "What type of marks were found on the rocks?", "a": "distinct glacial marks", "verify": "Distinct glacial marks were detected."}
+{"pid": "b1p052", "q": "What were the names of the plants mentioned?", "a": "poppy, saxifrage, and willow", "verify": "Poppy, saxifrage, willow."}
+{"pid": "b1p052", "q": "What animals were harpooned?", "a": "a couple of walruses", "verify": "A couple of walruses were harpooned."}
+{"pid": "b1p052", "q": "How many walruses were observed on a piece of ice?", "a": "Three", "verify": "Three walruses were observed."}
+{"pid": "b1p052", "q": "What were the walruses doing when observed?", "a": "enjoying their siesta", "verify": "The walruses were lazily enjoying their siesta."}
+{"pid": "b1p053", "q": "What was the largest number of walruses harpooned at once?", "a": "three", "verify": "Three walruses were harpooned at once."}
+{"pid": "b1p053", "q": "What was the harpooner's action before shooting the walruses?", "a": "laid his gun", "verify": "Carefully laid his gun."}
+{"pid": "b1p053", "q": "What sound relieved the breathless suspense?", "a": "the report of the gun", "verify": "The report of the gun relieved it."}
+{"pid": "b1p053", "q": "What did the walruses do after being shot?", "a": "disappeared in the water", "verify": "Disappeared in water, tugged line, moved boat."}
+{"pid": "b1p053", "q": "What did the blood on the ice piece prove?", "a": "our shaft had taken effect", "verify": "That the harpoon hit its target."}
+{"pid": "b1p053", "q": "What were the walruses known to do when wounded?", "a": "rip the planks out of a boat", "verify": "Rip planks out of boat with tusks."}
+{"pid": "b1p053", "q": "What did the walruses try to do to the boat?", "a": "wreak his vengeance", "verify": "Rip planks out with tusks."}
+{"pid": "b1p053", "q": "What happened to the great carcass after being towed back to the ship?", "a": "flinched", "verify": "It was hauled up on the floe and flinched."}
+{"pid": "b1p053", "q": "What were packed in barrels from the walruses?", "a": "blubber and flesh", "verify": "Blubber and flesh were packed."}
+{"pid": "b1p053", "q": "How many walruses were captured during the stay in the Arctic?", "a": "two", "verify": "Two walruses were captured."}
+{"pid": "b1p053", "q": "What was the demand for walrus meat after the capture?", "a": "in great demand", "verify": "Walrus steaks were in great demand."}
+{"pid": "b1p054", "q": "What weapon is the only sure way to capture walruses?", "a": "the harpoon", "verify": "The harpoon is the only sure way."}
+{"pid": "b1p054", "q": "Why is it important to keep men employed and interested?", "a": "to guard against gloomy moods and despondency", "verify": "To prevent gloomy moods and despondency."}
+{"pid": "b1p054", "q": "What game was purchased by the expedition before leaving England?", "a": "a football", "verify": "A football was purchased."}
+{"pid": "b1p054", "q": "What sport did officers and men freely indulge in?", "a": "skating", "verify": "Skating and sliding on ice."}
+{"pid": "b1p054", "q": "What animals were taken out on the floe and harnessed to a sledge?", "a": "Eskimo dogs", "verify": "Eskimo dogs were taken out."}
+{"pid": "b1p054", "q": "What was the rate of speed achieved by the dog driver?", "a": "ten miles an hour", "verify": "ten miles an hour"}
+{"pid": "b1p054", "q": "What was the main goal of the game with the football?", "a": "enjoying themselves", "verify": "To enjoy themselves despite rules."}
+{"pid": "b1p054", "q": "What was the consequence of the dog driver's race?", "a": "thoroughly drenched", "verify": "Returned drenched but happy."}
+{"pid": "b1p054", "q": "What was the consequence of using a rifle to kill a walrus?", "a": "more than useless", "verify": "It would scare the walrus away."}
+{"pid": "b1p054", "q": "What were the walruses' characteristics that made them difficult to kill?", "a": "thick skulls, impenetrable skin and blubber", "verify": "Thick skulls, impenetrable skin and blubber, tenacious of life."}
+{"pid": "b1p054", "q": "What was the purpose of amusement during temporary delays?", "a": "to keep the men employed and interested", "verify": "To keep men employed and interested."}
+{"pid": "b1p054", "q": "What was the main object of the game with the football?", "a": "enjoying themselves", "verify": "To enjoy themselves."}
+{"pid": "b1p055", "q": "What was the name of the black retriever?", "a": "Nellie", "verify": "Nellie."}
+{"pid": "b1p055", "q": "Where did Nellie live on the ship?", "a": "after part", "verify": "In the after part of the ship."}
+{"pid": "b1p055", "q": "What was the name of the dog with a missing tail?", "a": "Bruin", "verify": "Bruin, because he was minus a tail."}
+{"pid": "b1p055", "q": "What was the name of the dog with an unhealed wound?", "a": "Sore-sides", "verify": "Sore-sides had an unhealed wound."}
+{"pid": "b1p055", "q": "How many dogs are mentioned by name?", "a": "5", "verify": "Ginger, Bruin, Boss-eye, Sore-sides."}
+{"pid": "b1p055", "q": "What disease affected the dogs?", "a": "rabies, or dog madness", "verify": "A species of rabies or dog madness."}
+{"pid": "b1p055", "q": "What was the first symptom of the disease?", "a": "falling down in a fit", "verify": "The dog falling down in a fit."}
+{"pid": "b1p055", "q": "What happened to some dogs that rushed into the water?", "a": "drowned", "verify": "They were drowned."}
+{"pid": "b1p055", "q": "What happened to some dogs that wandered away?", "a": "no more seen", "verify": "Sometimes never seen again."}
+{"pid": "b1p055", "q": "What was the name of the ship?", "a": "not mentioned", "verify": "The vessel's name is not mentioned."}
+{"pid": "b1p055", "q": "What was the name of the dog with oblique vision?", "a": "Boss-eye", "verify": "Boss-eye had oblique vision."}
+{"pid": "b1p055", "q": "How did some dogs end their suffering?", "a": "shot", "verify": "Sometimes shot to relieve pain."}
+{"pid": "b1p056", "q": "What disease is discussed in the passage?", "a": "disease and mortality amongst their dogs", "verify": "Disease among dogs during expeditions."}
+{"pid": "b1p056", "q": "What is a curious fact mentioned about the Eskimo?", "a": "hydrophobia is unknown among the Eskimo", "verify": "Hydrophobia unknown among Eskimo."}
+{"pid": "b1p056", "q": "What symptoms do dogs experience when attacked by the disease?", "a": "violent fits, resembling cramp", "verify": "Roll over, foam at mouth, violent fits resembling cramp."}
+{"pid": "b1p056", "q": "Who devoted much time to investigating the disease?", "a": "Dr. Colan", "verify": "Dr. Colan devoted time to investigation."}
+{"pid": "b1p056", "q": "How many dogs form a team?", "a": "from six to ten or a dozen", "verify": "From six to ten or a dozen dogs."}
+{"pid": "b1p056", "q": "What is the maximum load per dog in pounds?", "a": "one hundred and fifty pounds", "verify": "One hundred and fifty pounds."}
+{"pid": "b1p056", "q": "What is the maximum daily distance they can travel with a heavy load?", "a": "twenty-five or thirty miles", "verify": "Twenty-five or thirty miles."}
+{"pid": "b1p056", "q": "What is the maximum daily distance they can travel with light loads?", "a": "seventy and even a hundred miles", "verify": "Up to a hundred miles in one day."}
+{"pid": "b1p056", "q": "What is the temperature range for comfortable dog sledging?", "a": "50° below zero", "verify": "Temperature not too low, around 50° below zero."}
+{"pid": "b1p056", "q": "What is the weather condition that makes dog sledging undesirable?", "a": "thick and foggy", "verify": "Thick fog, gale, 50° below zero, rough ice, heavily laden sledge."}
+{"pid": "b1p056", "q": "What is the condition of the ice that makes dog sledging difficult?", "a": "rough hummocky ice", "verify": "Rough hummocky ice to travel over."}
+{"pid": "b1p057", "q": "What is the length of the lash of the whip in feet?", "a": "18 or 20", "verify": "About eighteen to twenty feet long."}
+{"pid": "b1p057", "q": "What material is the lash of the whip made from?", "a": "sealskin", "verify": "The lash is a thong of sealskin."}
+{"pid": "b1p057", "q": "How long is the handle of the whip in inches?", "a": "12", "verify": "About twelve inches."}
+{"pid": "b1p057", "q": "What is the main feature in dog driving?", "a": "the whip", "verify": "The whip is the main feature."}
+{"pid": "b1p057", "q": "What are the dogs guided by?", "a": "the whip", "verify": "The dogs are guided by the whip."}
+{"pid": "b1p057", "q": "What is the consequence of using bare hands while clearing the lines?", "a": "serious frost-bites", "verify": "Serious frost-bites would occur."}
+{"pid": "b1p057", "q": "What is the maximum distance the dogs were used for?", "a": "long journeys", "verify": "For short journeys, or when dispatch was required."}
+{"pid": "b1p057", "q": "What were the dogs invaluable for?", "a": "short journeys", "verify": "For short journeys, or when dispatch was required."}
+{"pid": "b1p057", "q": "What is the sensation of dashing along on a sledge described as?", "a": "novel and delightful", "verify": "Novel and delightful, with snow flying into one's face."}
+{"pid": "b1p057", "q": "What is the speed of the sledge in miles per hour?", "a": "ten", "verify": "The sledge travels at ten miles per hour."}
+{"pid": "b1p057", "q": "What is the name of the expedition mentioned?", "a": "not mentioned", "verify": "Not specified in passage."}
+{"pid": "b1p057", "q": "What is the material of the lash?", "a": "sealskin", "verify": "The lash is a thong of sealskin."}
+{"pid": "b1p058", "q": "What term is used for cutting up a whale or walrus in whaling?", "a": "flinching", "verify": "Flinching is the term."}
+{"pid": "b1p058", "q": "What date is mentioned in the passage?", "a": "August 12th", "verify": "Thursday, August 12th."}
+{"pid": "b1p058", "q": "What is the name of the ship that had its rudder injured?", "a": "Discovery", "verify": "The Discovery had her rudder injured."}
+{"pid": "b1p058", "q": "What did the ships do in the afternoon?", "a": "got under weigh", "verify": "They emerged into a fine lead after moving ice."}
+{"pid": "b1p058", "q": "What feature did they pass at 9 P.M.?", "a": "Cape Hawks", "verify": "Cape Hawks, southern extreme of Dobbin Bay."}
+{"pid": "b1p058", "q": "What is the name of the promontory described?", "a": "Cape Hawks", "verify": "Cape Hawks, southern extreme of Dobbin Bay."}
+{"pid": "b1p058", "q": "What is the name of the inlet they opened?", "a": "a large inlet", "verify": "A large inlet containing two glaciers."}
+{"pid": "b1p058", "q": "What is the name of the rock compared to Gibraltar?", "a": "Cape Hawks", "verify": "Cape Hawks, called the Rock of Gibraltar."}
+{"pid": "b1p058", "q": "What is the name of the ravine?", "a": "a deep ravine", "verify": "A deep ravine containing two large glaciers."}
+{"pid": "b1p058", "q": "What is the name of the northern glacier?", "a": "N.E.", "verify": "The northern glacier runs from N.W."}
+{"pid": "b1p058", "q": "What is the name of the southern glacier?", "a": "N.W.", "verify": "The southern glacier is not named directly."}
+{"pid": "b1p058", "q": "What is the name of the bay passed?", "a": "Dobbin Bay", "verify": "Dobbin Bay"}
+{"pid": "b1p059", "q": "What was the weather like that night?", "a": "beautifully calm", "verify": "Beautifully calm, still and unruffled, bright midnight sun."}
+{"pid": "b1p059", "q": "What was used as an artificial horizon?", "a": "the water", "verify": "The water was used as an artificial horizon."}
+{"pid": "b1p059", "q": "What feature towered over the ships?", "a": "Cape", "verify": "Cape itself towered over heads."}
+{"pid": "b1p059", "q": "What was visible in the bay?", "a": "a large glacier", "verify": "A large glacier, icy sheet, bergs."}
+{"pid": "b1p059", "q": "What covered the bay?", "a": "an icy sheet", "verify": "An icy sheet covered the bay."}
+{"pid": "b1p059", "q": "What were the bergs like?", "a": "long low", "verify": "Few, long, low ice formations."}
+{"pid": "b1p059", "q": "What color were the clouds?", "a": "exquisite iridescence", "verify": "The clouds presented an exquisite iridescence."}
+{"pid": "b1p059", "q": "What was erected on Washington Irving Island?", "a": "a large cairn", "verify": "A large cairn was erected."}
+{"pid": "b1p059", "q": "Who visited the island in 1860?", "a": "Hayes", "verify": "Hayes visited the island in 1860."}
+{"pid": "b1p059", "q": "What was the origin of the cairn?", "a": "palpable evidences of a construction at a much earlier date", "verify": "Evidently built by white men, long ago."}
+{"pid": "b1p059", "q": "Who are the Eskimos?", "a": "do not practise building cairns", "verify": "Eskimos do not build cairns here."}
+{"pid": "b1p059", "q": "What remains a mystery?", "a": "the structure's origin", "verify": "Who built the cairn on Washington Irving Island?"}
+{"pid": "b1p060", "q": "What was the name of the bay where the ships were moved?", "a": "Dobbin Bay", "verify": "Dobbin Bay"}
+{"pid": "b1p060", "q": "What was the angle of stratification dipping to the westward?", "a": "18°", "verify": "The angle was about 18°."}
+{"pid": "b1p060", "q": "What color change was observed in the stratifications?", "a": "from sombre grey to bright red and brownish hue", "verify": "From sombre grey to bright red and brownish hue."}
+{"pid": "b1p060", "q": "What was the purpose of moving the ships a little farther up the bay?", "a": "to blast a passage through the ice", "verify": "To blast a passage through the ice."}
+{"pid": "b1p060", "q": "What were the tracks of on the floe?", "a": "a bear", "verify": "Tracks of a bear."}
+{"pid": "b1p060", "q": "What was the name of the bay where the ships were docked?", "a": "Dobbin Bay", "verify": "Dobbin Bay"}
+{"pid": "b1p060", "q": "How long did it take to dock the ships?", "a": "four hours", "verify": "Four hours."}
+{"pid": "b1p060", "q": "What was the reason for docking the ships?", "a": "to prevent being crushed between two floes", "verify": "To prevent ships from being crushed."}
+{"pid": "b1p060", "q": "What was the color of the surrounding limestone?", "a": "sombre grey", "verify": "The sombre grey of the surrounding limestone."}
+{"pid": "b1p060", "q": "What was the name of the expedition?", "a": "not mentioned directly", "verify": "The passage does not provide the name of the expedition."}
+{"pid": "b1p060", "q": "What was the angle of stratification in some places?", "a": "18°", "verify": "Some places, 18° to the westward."}
+{"pid": "b1p060", "q": "What was used to blast a passage through the ice?", "a": "powder", "verify": "Powder was used to blast a passage."}
+{"pid": "b1p061", "q": "What was the name of the ship?", "a": "not specified", "verify": "The ship's name is not mentioned."}
+{"pid": "b1p061", "q": "How many people were left on board?", "a": "three", "verify": "Three persons were left on board."}
+{"pid": "b1p061", "q": "What were the three people left on board?", "a": "one officer, the engineer, a man", "verify": "One officer, engineer, man at helm."}
+{"pid": "b1p061", "q": "What was the engineer doing?", "a": "at the engines", "verify": "The engineer was at the engines."}
+{"pid": "b1p061", "q": "What was the man at the helm doing?", "a": "not specified duties", "verify": "Keeping ship moving, positioning for docking."}
+{"pid": "b1p061", "q": "What was the purpose of keeping the ship moving?", "a": "to avoid pieces of ice", "verify": "To avoid damaging dock sides."}
+{"pid": "b1p061", "q": "What explosive was occasionally used?", "a": "powder", "verify": "Powder was used to shatter larger ice pieces."}
+{"pid": "b1p061", "q": "What does the term 'sinecure' mean in this context?", "a": "not specified duties", "verify": "Jobs with little real work."}
+{"pid": "b1p061", "q": "How long should the work be completed in?", "a": "about a couple of hours", "verify": "Ordinarily, about a couple of hours."}
+{"pid": "b1p061", "q": "What does the diagram illustrate?", "a": "the system employed", "verify": "Illustrates our dock cutting system."}
+{"pid": "b1p061", "q": "What is the last triangular piece of ice called?", "a": "the portion marked by the letters C B F", "verify": "The portion marked by letters C B F."}
+{"pid": "b1p061", "q": "What does the last triangular piece of ice do?", "a": "serves to close the dock", "verify": "It closes the dock to keep out ice."}
+{"pid": "b1p062", "q": "How many hours did the work on the ice dock take?", "a": "four hours", "verify": "Four hours of work as dock cutting entails."}
+{"pid": "b1p062", "q": "What day did the party start cutting a passage?", "a": "Sunday, August 15th", "verify": "Sunday, August 15th."}
+{"pid": "b1p062", "q": "How many blasting charges were used in the last explosion?", "a": "eight", "verify": "No less than eight blasting charges."}
+{"pid": "b1p062", "q": "What was the length of the ice dock?", "a": "200 ft.", "verify": "Length 200 ft."}
+{"pid": "b1p062", "q": "How long was the cut from F to D?", "a": "120 ft.", "verify": "120 ft."}
+{"pid": "b1p062", "q": "What was the width of the dock at the entrance?", "a": "65 ", "verify": "The dock's breadth at the entrance was 65 ft."}
+{"pid": "b1p062", "q": "How many Eskimo dogs were mentioned?", "a": "not specified", "verify": "No number given."}
+{"pid": "b1p062", "q": "What was the distance from B to C?", "a": "35 ft.", "verify": "35 ft."}
+{"pid": "b1p062", "q": "What was the distance from E to F?", "a": "48 ft.", "verify": "48 ft."}
+{"pid": "b1p062", "q": "How many days were the ships prisoners?", "a": "two days", "verify": "The ships were prisoners for two days."}
+{"pid": "b1p062", "q": "What was the purpose of the passage cut?", "a": "a lead of water", "verify": "To create a navigable passage to shore."}
+{"pid": "b1p062", "q": "What was the size range of the blasting charges?", "a": "five to twelve pound", "verify": "Five to twelve pounds."}
+{"pid": "b1p063", "q": "What was the name of the ship that grounded?", "a": "Discovery", "verify": "The \"Discovery\" grounded."}
+{"pid": "b1p063", "q": "What was the name of the cape they steamed into?", "a": "Cape Louis Napoleon", "verify": "Cape Louis Napoleon."}
+{"pid": "b1p063", "q": "How thick were the floes they tried to cut?", "a": "from ten to twenty feet", "verify": "From ten to twenty feet in thickness."}
+{"pid": "b1p063", "q": "How long did they stay in the small indentation?", "a": "three days", "verify": "For three days."}
+{"pid": "b1p063", "q": "What did they use to protect the ship?", "a": "small indentation in the ice", "verify": "A large iceberg protected them temporarily."}
+{"pid": "b1p063", "q": "What heights did they ascend?", "a": "Mount Joy and Cape Hayes", "verify": "Mount Joy and Cape Hayes."}
+{"pid": "b1p063", "q": "What protected them from the pack?", "a": "a large iceberg", "verify": "A large iceberg close to them."}
+{"pid": "b1p063", "q": "What did they do to avoid being crushed?", "a": "laid out a line astern and made fast to hummocks", "verify": "Laid out line astern and hauled ship clear."}
+{"pid": "b1p063", "q": "How many times were the ships nearly destroyed in one day?", "a": "Twice", "verify": "Twice in one day."}
+{"pid": "b1p063", "q": "What happened to the large floe that was aground?", "a": "it drifted away", "verify": "It drifted towards another large berg."}
+{"pid": "b1p063", "q": "What were they trying to avoid?", "a": "drifting bergs and closing floes", "verify": "They tried to avoid being crushed between icebergs."}
+{"pid": "b1p064", "q": "What was the noise that was not pleasant to listen to?", "a": "the ice squeezing against the berg", "verify": "The noise of ice squeezing against the berg."}
+{"pid": "b1p064", "q": "What were the crew members always ready to do?", "a": "perform any duty", "verify": "Always ready, cheerful, and willing."}
+{"pid": "b1p064", "q": "What did the crew do several times during each day?", "a": "unship and replace the rudder", "verify": "Unshipping rudder, lifting screw."}
+{"pid": "b1p064", "q": "What was the rate of travel for the last three weeks?", "a": "about four and a quarter miles a day", "verify": "About four and a quarter miles per day."}
+{"pid": "b1p064", "q": "How many miles did they advance in the last three weeks?", "a": "exactly ninety miles", "verify": "Exactly ninety miles."}
+{"pid": "b1p064", "q": "What date did they succeed in rounding Cape Fraser?", "a": "19th of August", "verify": "On the 19th of August."}
+{"pid": "b1p064", "q": "What is the height of Cape Fraser?", "a": "some thousand feet in height", "verify": "Cape Fraser is some thousand feet high."}
+{"pid": "b1p064", "q": "What is the height of the projecting point of land at Cape Fraser?", "a": "about two hundred feet above the level of the sea", "verify": "About two hundred feet above sea level."}
+{"pid": "b1p064", "q": "What did the crew notice on the cliffs above the talus?", "a": "numerous caves", "verify": "Numerous caves and irregularities resembling giants."}
+{"pid": "b1p064", "q": "What did the crew imagine the irregularities on the summit to be?", "a": "gigantic beings, animals, or castellated towers", "verify": "To an imaginative mind, gigantic beings, animals, or castellated towers."}
+{"pid": "b1p064", "q": "What was the supposed representation of the 'Twelve Apostles'?", "a": "a heap of stones", "verify": "A heap of stones on a ridge."}
+{"pid": "b1p064", "q": "What was the general belief about the 'Twelve Apostles' on the ship?", "a": "they adhered to true man-of-war regulations", "verify": "They followed man-of-war regulations, appearing in shifts."}
+{"pid": "b1p065", "q": "What was the name of the little harbour where the ships were secured?", "a": "Maury Bay", "verify": "Maury Bay"}
+{"pid": "b1p065", "q": "Who made observations about two tides meeting at Cape Fraser?", "a": "Dr. Bessels", "verify": "Dr. Bessels of the \"Polaris\" made these observations."}
+{"pid": "b1p065", "q": "What channels are north of Cape Fraser?", "a": "Kennedy and Robeson Channels", "verify": "Kennedy and Robeson Channels."}
+{"pid": "b1p065", "q": "What is the direction of the tide north of Cape Fraser?", "a": "North Atlantic one", "verify": "The tide flows along the northern coast of Greenland."}
+{"pid": "b1p065", "q": "What is the name of the cape from which a good view was obtained?", "a": "Cape John Barrow", "verify": "Cape John Barrow."}
+{"pid": "b1p065", "q": "How far north could they see from Cape John Barrow?", "a": "Cape L. von Buch", "verify": "As far as Cape L. von Buch."}
+{"pid": "b1p065", "q": "What is the name of the cape to the east?", "a": "Cape Constitution", "verify": "Cape Constitution, eastward view."}
+{"pid": "b1p065", "q": "What year did Morton see a similar pool of water?", "a": "1855", "verify": "1855"}
+{"pid": "b1p065", "q": "What was the condition of the harbour when they returned to the ship?", "a": "filled with drifting ice", "verify": "The harbour filled with drifting ice."}
+{"pid": "b1p065", "q": "What was the state of the boat when they reached the ship?", "a": "wet and fatigued", "verify": "They reached the ship wet and fatigued."}
+{"pid": "b1p066", "q": "What was the date of the start mentioned in the passage?", "a": "Friday, August 20th.", "verify": "Friday, August 20th."}
+{"pid": "b1p066", "q": "At what time did the start occur?", "a": "At one o'clock this morning.", "verify": "At one o'clock this morning."}
+{"pid": "b1p066", "q": "What was the name of the bay described?", "a": "Scoresby Bay.", "verify": "Scoresby Bay"}
+{"pid": "b1p066", "q": "What feature did the north-west side of the bay have?", "a": "A perfect cone-shaped hill.", "verify": "A perfect cone-shaped hill."}
+{"pid": "b1p066", "q": "How high were the hills along the coast?", "a": "From one to two thousand feet.", "verify": "From one to two thousand feet in height."}
+{"pid": "b1p066", "q": "What was the name of the cape where they had a narrow escape?", "a": "Cape McClintock.", "verify": "Off Cape McClintock we had another narrow escape."}
+{"pid": "b1p066", "q": "What did they use to secure the ship when the leads closed up?", "a": "A large floe.", "verify": "They made fast to a large floe."}
+{"pid": "b1p066", "q": "What was the rate of the ice's drift to the southward?", "a": "From one and a half to two knots an hour.", "verify": "From one and a half to two knots an hour."}
+{"pid": "b1p066", "q": "What was the purpose of the depôt established near Cape Collinson?", "a": "For the use of a travelling party.", "verify": "For a travelling party to visit Cape Isabella."}
+{"pid": "b1p066", "q": "What was the name of the ship that would dispatch the travelling party?", "a": "Discovery.", "verify": "The \"Discovery\" would dispatch it."}
+{"pid": "b1p066", "q": "What was the destination of the travelling party?", "a": "Cape Isabella.", "verify": "Cape Isabella for delivering letters."}
+{"pid": "b1p066", "q": "How many rations were in the depôt?", "a": "Two hundred and forty rations.", "verify": "Two hundred and forty rations."}
+{"pid": "b1p067", "q": "What date did the voyage start?", "a": "Saturday, August 21st.", "verify": "Saturday, August 21st."}
+{"pid": "b1p067", "q": "What time did they attempt to move in the morning?", "a": "half-past two", "verify": "At half-past two in the morning."}
+{"pid": "b1p067", "q": "How long did they try to penetrate the pack?", "a": "two or three hours", "verify": "For two or three hours."}
+{"pid": "b1p067", "q": "What ship was blown away from her anchors?", "a": "the Discovery", "verify": "The \"Discovery\" was blown away."}
+{"pid": "b1p067", "q": "How far did they plan to cut through the large floe?", "a": "one thousand feet", "verify": "One thousand feet."}
+{"pid": "b1p067", "q": "What did they find when they reached the open water?", "a": "a perfect salt-water lake", "verify": "A perfect salt-water lake surrounded by ice."}
+{"pid": "b1p067", "q": "What time did they get under weigh to attempt movement?", "a": "9.30 P.M.", "verify": "At half-past two in the morning."}
+{"pid": "b1p067", "q": "What was the weather like during the squalls?", "a": "furious", "verify": "Furious, with heavy snowfall."}
+{"pid": "b1p067", "q": "What was the ice doing while they were detained?", "a": "drifting south", "verify": "Continuing to drift south rapidly."}
+{"pid": "b1p068", "q": "What is the name of the channel mentioned in the passage?", "a": "Kennedy Channel", "verify": "Kennedy Channel"}
+{"pid": "b1p068", "q": "How long was the ice protection mentioned in feet?", "a": "six hundred feet", "verify": "Six hundred feet in length."}
+{"pid": "b1p068", "q": "What was the officer smoking that caused a hole in his trousers?", "a": "pipe", "verify": "A pipe, still alight, burnt through his clothes."}
+{"pid": "b1p068", "q": "What day and month was the log entry for the North Water reached?", "a": "August 22nd", "verify": "Sunday, August 22nd."}
+{"pid": "b1p068", "q": "What wind was blowing when they reached the North Water?", "a": "northerly", "verify": "A northerly wind was blowing."}
+{"pid": "b1p068", "q": "How were the seas described in the North Water?", "a": "clear and open", "verify": "Clear, open sea free of ice."}
+{"pid": "b1p068", "q": "What was the ship doing when they reached the North Water?", "a": "plying, under steam and sail", "verify": "Plying under steam and sail."}
+{"pid": "b1p068", "q": "What was the weather condition that caused the oceanic undulations?", "a": "fresh northerly wind", "verify": "Fresh northerly wind was blowing."}
+{"pid": "b1p068", "q": "How many sides of the Kennedy Channel had ice?", "a": "two", "verify": "West side had ice; east side clear."}
+{"pid": "b1p068", "q": "What was the name of the officer who put his pipe in his trousers pocket?", "a": "not specified in the passage", "verify": "An amusing story is related of one officer."}
+{"pid": "b1p068", "q": "What was the position of the first keeper?", "a": "above the hill", "verify": "He stood to aim at the herd."}
+{"pid": "b1p069", "q": "What was the wind direction?", "a": "directly ahead", "verify": "Directly ahead, compelling us to beat to windward."}
+{"pid": "b1p069", "q": "What feature did they pass close to?", "a": "Crozier Island", "verify": "Crozier Island, Cape Constitution viewed."}
+{"pid": "b1p069", "q": "What is the name of the bay mentioned?", "a": "Lafayette Bay", "verify": "Lafayette Bay"}
+{"pid": "b1p069", "q": "What is the appearance of Cape Constitution?", "a": "steep and precipitous", "verify": "Steep, precipitous, no ice-foot."}
+{"pid": "b1p069", "q": "What is the name of the ship mentioned?", "a": "Polaris", "verify": "The passage does not mention a specific ship's name."}
+{"pid": "b1p069", "q": "What is the name of the bay not seen?", "a": "Carl Ritter Bay", "verify": "Carl Ritter Bay was not seen."}
+{"pid": "b1p069", "q": "What is the name of the bay seen?", "a": "Richardson Bay", "verify": "Richardson Bay, not Carl Ritter Bay."}
+{"pid": "b1p069", "q": "What was the temperature below freezing point?", "a": "six or seven degrees", "verify": "The temperature was some six or seven degrees."}
+{"pid": "b1p069", "q": "What was the only indication of an ice-cap?", "a": "a light tinge", "verify": "A light tinge along the summit."}
+{"pid": "b1p069", "q": "What was the nature of the cliff at Cape Independence?", "a": "steep and rugged", "verify": "Steep and rugged, impossible to ascend."}
+{"pid": "b1p069", "q": "What was the weather condition that made the crow's-nest disagreeable?", "a": "sharp wind", "verify": "The sharp wind below freezing point."}
+{"pid": "b1p069", "q": "What was the compensation for the discomfort?", "a": "pleasure of feeling that we were really doing good work", "verify": "Pleasure of feeling really doing good work."}
+{"pid": "b1p070", "q": "What day and month was the run made?", "a": "Monday, August 23rd.", "verify": "Monday, August 23rd."}
+{"pid": "b1p070", "q": "What wind assisted their run?", "a": "southerly wind", "verify": "A strong southerly wind assisted their run."}
+{"pid": "b1p070", "q": "What time did they reach the end of their tether?", "a": "10 A.M.", "verify": "By 10 A.M., they reached the end of their tether."}
+{"pid": "b1p070", "q": "What is the name of the bay they passed?", "a": "Bessels Bay", "verify": "Bessels Bay"}
+{"pid": "b1p070", "q": "What is the name of the cape they reached?", "a": "Cape Morton", "verify": "Cape Morton"}
+{"pid": "b1p070", "q": "What basin did they see the ice stretching across?", "a": "Hall Basin", "verify": "Hall Basin stretched across with ice."}
+{"pid": "b1p070", "q": "What is the name of the bay ahead of them?", "a": "Polaris Bay", "verify": "Polaris Bay was ahead of us."}
+{"pid": "b1p070", "q": "What was the position of the Americans' winter quarters?", "a": "plainly discerned", "verify": "Plainly discerned ahead of us, but unreachable."}
+{"pid": "b1p070", "q": "What is the name of the fiord they want to explore?", "a": "Petermann Fiord", "verify": "Petermann Fiord"}
+{"pid": "b1p070", "q": "What did the 'Discovery' land at Cape Morton?", "a": "two hundred and forty rations", "verify": "Two hundred and forty rations for travelling parties."}
+{"pid": "b1p070", "q": "What is the depth where they dropped anchor?", "a": "seven fathoms", "verify": "Seven fathoms, just inside."}
+{"pid": "b1p070", "q": "What is the name of the island under which they anchored?", "a": "Hannah Island", "verify": "Hannah Island"}
+{"pid": "b1p071", "q": "What is the name of the bay described in the passage?", "a": "Bessels Bay", "verify": "Bessels Bay"}
+{"pid": "b1p071", "q": "What direction does Bessels Bay extend?", "a": "N.W. and S.E.", "verify": "N.W. and S.E. direction."}
+{"pid": "b1p071", "q": "What type of landform is Hannah Island?", "a": "terminal moraine", "verify": "Terminal moraine of a glacier."}
+{"pid": "b1p071", "q": "What did Captain Feilden and Mr. Parr observe on the northern side of the bay?", "a": "ice, nothing but ice", "verify": "They saw ice as far as they could see."}
+{"pid": "b1p071", "q": "What is the name of the cairn mentioned in the passage?", "a": "not specified", "verify": "A record detailing movements was deposited in a cairn."}
+{"pid": "b1p071", "q": "What was deposited in the cairn on Hannah Island?", "a": "a record detailing our movements", "verify": "A record detailing movements was deposited."}
+{"pid": "b1p071", "q": "What is the name of the gull species mentioned?", "a": "ivory gull", "verify": "ivory gull"}
+{"pid": "b1p071", "q": "What is the name of the last American Chart mentioned?", "a": "not specified", "verify": "last American Chart mentioned: not specified"}
+{"pid": "b1p071", "q": "What is the anticipated latitude where the land might terminate?", "a": "lat. 83° N.", "verify": "about lat. 83° N."}
+{"pid": "b1p071", "q": "What is the name of the stream of water mentioned as a chance of getting on?", "a": "a lane of water", "verify": "A lane of water extending to Cape Lieber."}
+{"pid": "b1p071", "q": "What is the name of the bird species mentioned other than the gull?", "a": "eider-ducks", "verify": "Eider-ducks, seal, dovekies."}
+{"pid": "b1p071", "q": "What is the name of the expedition mentioned?", "a": "not specified", "verify": "No clear name given in passage."}
+{"pid": "b1p072", "q": "What was the height of the hill above Cape Morton?", "a": "two thousand feet", "verify": "Two thousand feet in height."}
+{"pid": "b1p072", "q": "What did the captain observe from the hill?", "a": "a magnificent lead of water", "verify": "A magnificent lead of water along west coast."}
+{"pid": "b1p072", "q": "What was the expected direction of the lead of water?", "a": "west coast", "verify": "Extending as far as Cape Beechey west coast."}
+{"pid": "b1p072", "q": "How far did the lead of water extend?", "a": "as far as Cape Beechey", "verify": "From the summit to Cape Beechey."}
+{"pid": "b1p072", "q": "What was the ship's coal situation?", "a": "rapidly diminishing", "verify": "Coal rapidly diminishing; needed for steaming."}
+{"pid": "b1p072", "q": "What would happen if they ran out of steam?", "a": "would be helpless", "verify": "Without steam, vessel would be helpless."}
+{"pid": "b1p072", "q": "What time was mentioned at the end of the passage?", "a": "11 P.M.", "verify": "11 P.M.--Oh, the hopes and disappointments."}
+{"pid": "b1p072", "q": "What were the explorers experiencing?", "a": "hopes and disappointments", "verify": "Hope followed by disappointment."}
+{"pid": "b1p072", "q": "What were the explorers confident they would reach?", "a": "Cape Beechey", "verify": "Cape Beechey or Cape Union."}
+{"pid": "b1p072", "q": "What other capes were visible on the starboard bow?", "a": "Capes Brevoort, Sumner, and Stanton", "verify": "Capes Brevoort, Sumner, and Stanton."}
+{"pid": "b1p072", "q": "What was the weather condition like when they were steaming?", "a": "grand expanse of water", "verify": "The weather allowed them to see distant capes clearly."}
+{"pid": "b1p073", "q": "What was the name of the strait they were crossing?", "a": "Lady Franklin Strait", "verify": "Lady Franklin Strait"}
+{"pid": "b1p073", "q": "What geographical feature did they pass?", "a": "Cape Baird", "verify": "They passed Cape Baird."}
+{"pid": "b1p073", "q": "What was their enemy?", "a": "the ice", "verify": "Their enemy was the ice."}
+{"pid": "b1p073", "q": "What was their goal?", "a": "to penetrate the ice", "verify": "To penetrate the ice, continue sailing."}
+{"pid": "b1p073", "q": "Where did they encounter the ice?", "a": "at Cape Baird", "verify": "Passing Cape Baird, we encountered the ice."}
+{"pid": "b1p073", "q": "What was their pace like?", "a": "slowly picking our way", "verify": "Slowly picking our way across."}
+{"pid": "b1p073", "q": "What was the name of the expedition?", "a": "not specified in passage", "verify": "The passage does not provide the name of the expedition."}
+{"pid": "b1p073", "q": "What was the name of their ship?", "a": "not specified in passage", "verify": "Information not provided in passage."}
+{"pid": "b1p073", "q": "Who was the expedition named after?", "a": "Lady Franklin", "verify": "Lady Franklin Strait."}
+{"pid": "b1p073", "q": "What was their objective?", "a": "penetrate the ice", "verify": "To penetrate the ice, continue sailing."}
+{"pid": "b1p073", "q": "What was the nature of their enemy?", "a": "the ice", "verify": "The enemy was the ice, relentless and impenetrable."}
+{"pid": "b1p073", "q": "What action were they taking against the ice?", "a": "picking our way across", "verify": "They were trying to penetrate the ice."}

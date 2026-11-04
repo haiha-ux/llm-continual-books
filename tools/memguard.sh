@@ -17,6 +17,8 @@ while true; do
     PIDS=$(pgrep -u "$USER" -f "python.*($PAT)")
     echo "$(date '+%F %T') STOP $WHY -> SIGKILL $PIDS" >> "$LOG"
     [ -n "$PIDS" ] && kill -9 $PIDS 2>/dev/null
+    # the Ollama server is a system service (not our python): unload the model so an in-flight request stops too
+    command -v ollama >/dev/null && for m in $(ollama ps 2>/dev/null | awk 'NR>1{print $1}'); do timeout 10 ollama stop "$m" 2>/dev/null; done
     sleep 10
   fi
   sleep 1

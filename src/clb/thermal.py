@@ -7,8 +7,10 @@ training steps; it returns immediately when the box is cool and otherwise sleeps
 import glob
 import time
 
-HOT_C = 78     # start pausing at this hottest-zone temperature
-RESUME_C = 72  # resume once cooled to this (this box idles at 73-76 C, so keep it reachable)
+HOT_C = 76     # start pausing at this hottest-zone temperature
+RESUME_C = 72  # resume once cooled to this
+DUTY_CAP_S = 30  # work spells longer than this are rested for DUTY_CAP_S only
+_last = [None]  # time the previous spell of work started (end of the previous cool_down call)
 
 
 def hottest_c():
@@ -21,8 +23,18 @@ def hottest_c():
     return t
 
 
-def cool_down(hot=HOT_C, resume=RESUME_C, log=print, read=hottest_c, sleep=time.sleep):
-    """Block while the box is hot. Returns seconds spent waiting."""
+def cool_down(hot=HOT_C, resume=RESUME_C, log=print, read=hottest_c, sleep=time.sleep, now=time.monotonic):
+    """Rest as long as the work since the previous call took (50 % duty cycle, at most DUTY_CAP_S), then block while
+    the box is hot. Every GPU loop calls this once per unit of work. Returns seconds spent waiting for the cool-down."""
+    if _last[0] is not None and now() - _last[0] < 120:
+        sleep(min(now() - _last[0], DUTY_CAP_S))
+    try:
+        return _wait(hot, resume, log, read, sleep)
+    finally:
+        _last[0] = now()
+
+
+def _wait(hot, resume, log, read, sleep):
     t = read()
     if t < hot:
         return 0.0
