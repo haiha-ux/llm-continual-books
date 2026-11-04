@@ -19,6 +19,13 @@ def plain_question(q: str) -> bool:
     return len(q.split()) >= 6 and not BANNED.search(q) and q.strip().endswith("?") and specific(q)
 
 
+def needs_rewrite(c, passages) -> bool:
+    """Candidate whose answer is good (short, in passage, re-answered) but whose question is too vague to ask closed-book."""
+    q, a = str(c.get("q", "")), str(c.get("a", ""))
+    ok_q = plain_question(q) and not PRONOUN_START.search(q)
+    return bool(a) and len(a.split()) <= 6 and not ok_q and is_correct(passages[c["pid"]], a) and is_correct(c.get("verify", ""), a)
+
+
 def filter_eval(cands, passages, per_passage=5):
     """cands: dicts with pid,q,a,verify. Keep answerable (key in passage AND teacher re-answers it), plain, deduped."""
     seen, kept, cnt = set(), [], {}
@@ -27,6 +34,8 @@ def filter_eval(cands, passages, per_passage=5):
         if not a or len(a.split()) > 6 or not plain_question(q) or PRONOUN_START.search(q):
             continue
         if not is_correct(passages[c["pid"]], a) or not is_correct(c.get("verify", ""), a):
+            continue
+        if is_correct(q, a):  # answer leaked into the question (rewrites can do this)
             continue
         nq = normalize(q)
         if nq in seen or cnt.get(c["pid"], 0) >= per_passage:

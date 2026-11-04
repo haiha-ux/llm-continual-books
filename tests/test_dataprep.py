@@ -41,3 +41,14 @@ def test_parse_pretty_printed_json():
     from clb.llm import parse_json_lines
     t = '{\n"q": "a?",\n"a": "b"\n}\nnoise {"q": "c?", "a": "d"},\n{broken'
     assert [d["a"] for d in parse_json_lines(t)] == ["b", "d"]
+
+
+def test_needs_rewrite_only_vague_but_answerable_and_filter_drops_leaked_answer():
+    from clb.dataprep import needs_rewrite
+    ps = {0: "In 1875 the Alert and the Discovery lay in Portsmouth Dockyard."}
+    vague = dict(pid=0, q="Where were the ships located?", a="Portsmouth Dockyard", verify="In Portsmouth Dockyard.")
+    good = dict(pid=0, q="Where did the Alert and Discovery lie in 1875?", a="Portsmouth Dockyard", verify="Portsmouth Dockyard")
+    wrong = dict(vague, verify="In London.")
+    assert needs_rewrite(vague, ps) and not needs_rewrite(good, ps) and not needs_rewrite(wrong, ps)
+    leak = dict(pid=0, q="Where did the Alert and Discovery lie in Portsmouth Dockyard in 1875?", a="Portsmouth Dockyard", verify="Portsmouth Dockyard")
+    assert [k["q"] for k in filter_eval([leak, good], ps)] == [good["q"]]

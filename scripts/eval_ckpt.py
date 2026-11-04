@@ -61,7 +61,10 @@ def main():
     for b in map(int, a.books.split(",")):
         if f"book{b}" in out["sets"]:
             continue
-        items = [json.loads(l) for l in open(ROOT / a.data / f"book{b}" / f"eval_{a.split}.jsonl")]
+        f = ROOT / a.data / f"book{b}" / f"eval_{a.split}.jsonl"
+        if not f.exists():  # book not built in this run (e.g. book 3 deferred)
+            continue
+        items = [json.loads(l) for l in open(f)]
         rows = eval_books(model, tok, items, gen=gen_with_gate(f"book{b}"))
         out["sets"][f"book{b}"] = {"summary": summarize(rows), "rows": rows}
         print(a.name, f"book{b}", out["sets"][f"book{b}"]["summary"], flush=True)

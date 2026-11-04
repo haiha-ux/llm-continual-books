@@ -26,6 +26,8 @@ for b in map(int, a.books.split(",")):
     o.mkdir(parents=True, exist_ok=True)
     ps = {p["pid"]: p["text"] for p in rd(ROOT / "data" / "books" / f"book{b}.jsonl")}
     cands = rd(g / f"book{b}_eval_verify.jsonl")
+    if (g / f"book{b}_eval_rw.jsonl").exists():  # teacher-rewritten versions of vague candidates
+        cands += rd(g / f"book{b}_eval_rw.jsonl")
     kept = filter_eval(cands, ps)
     dev, test = split_eval(kept, a.n_dev, a.n_test)
     qa, notes = rd(g / f"book{b}_qa.jsonl"), rd(g / f"book{b}_notes.jsonl")

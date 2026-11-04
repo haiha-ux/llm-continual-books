@@ -9,6 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 from clb.llm import parse_json_lines
+from clb.dataprep import needs_rewrite
 from clb.ollama_teacher import teacher_generate as _tg, unload
 
 RULES = ("Each question must be fully understandable on its own by someone who has not read the passage: name the "
@@ -26,6 +27,10 @@ NOTE = ("Below is a passage from a 19th-century polar voyage narrative. Write {k
         "together cover as many facts of the passage as possible. Each statement must name the specific people, ships, "
         "places, dates and numbers involved (no pronouns like 'he' or 'they' without a name) and must not mention "
         "'the passage', 'the text' or 'the author'. Output one statement per line, no numbering.\n\nPassage:\n{p}")
+REWRITE = ("Passage:\n{p}\n\nQuestion: {q}\nAnswer: {a}\n\nRewrite the question so that someone who has NOT read the "
+           "passage knows exactly what it asks: name the specific expedition, ship, person, place or date from the passage "
+           "instead of 'the ship', 'he', 'they' or 'the expedition'. Keep the same answer. Never mention 'the passage' or "
+           "'the text'. Output only the rewritten question.")
 VERIFY = "Passage:\n{p}\n\nQuestion: {q}\nAnswer using only the passage, in at most 8 words."
 TOPICS = "List 60 diverse school and everyday subjects (science, maths, history, cooking, coding, law, health, sports, ...). One per line, no numbering."
 REQS = ("Write 10 diverse requests a user might send to an AI assistant about the subject '{t}': short factual "
@@ -89,6 +94,14 @@ def run():
         if not done(out / f"book{b}_eval_verify.jsonl"):
             ans = tg(out, f"book{b}_eval_verify", [VERIFY.format(p=pt[c["pid"]], q=c["q"]) for c in cands], 0.0, seed=300 + b, max_tokens=40)
             dump(out / f"book{b}_eval_verify.jsonl", [dict(c, verify=o[0]) for c, o in zip(cands, ans)])
+        # vague candidates (good answer, but not self-contained) -> teacher rewrites them, then re-answers from the passage
+        if not done(out / f"book{b}_eval_rw.jsonl"):
+            vs = [json.loads(l) for l in open(out / f"book{b}_eval_verify.jsonl")]
+            vague = [c for c in vs if needs_rewrite(c, pt)]
+            rw = tg(out, f"book{b}_eval_rw", [REWRITE.format(p=pt[c["pid"]], q=c["q"], a=c["a"]) for c in vague], 0.0, seed=400 + b, max_tokens=60)
+            new = [dict(c, q=o[0].strip().splitlines()[0].strip().strip('"') if o[0].strip() else "") for c, o in zip(vague, rw)]
+            ans = tg(out, f"book{b}_eval_rwverify", [VERIFY.format(p=pt[c["pid"]], q=c["q"]) for c in new], 0.0, seed=500 + b, max_tokens=40)
+            dump(out / f"book{b}_eval_rw.jsonl", [dict(c, verify=o[0]) for c, o in zip(new, ans)])
         print("book", b, len(cands), "eval cands", flush=True)
     if done(out / "generic_prompts.jsonl"):
         return
