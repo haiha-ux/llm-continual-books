@@ -45,7 +45,7 @@ def generate(model, tok, prompts, max_new_tokens=32, batch=32, on_batch=None):
     return [res[i] for i in range(len(prompts))]
 
 
-def teacher_generate(prompts, temperature=0.0, seed=0, max_tokens=700, n=1, path=MODEL, gpu_util=0.3):
+def teacher_generate(prompts, temperature=0.0, seed=0, max_tokens=700, n=1, path=MODEL, gpu_util=0.20):
     """vLLM chat generation with the Qwen2.5-7B-Instruct teacher. Returns list (per prompt) of n strings."""
     from vllm import LLM, SamplingParams
     llm = _llm(path, gpu_util)
@@ -60,8 +60,8 @@ _LLM = {}
 def _llm(path, gpu_util):
     from vllm import LLM
     if path not in _LLM:
-        _LLM[path] = LLM(path, dtype="bfloat16", gpu_memory_utilization=gpu_util, max_model_len=4096, seed=0,
-                         enforce_eager=True)
+        _LLM[path] = LLM(path, dtype="bfloat16", gpu_memory_utilization=gpu_util, max_model_len=2048, seed=0,
+                         enforce_eager=True, max_num_seqs=16)
     return _LLM[path]
 
 
