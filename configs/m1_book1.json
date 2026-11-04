@@ -1,0 +1,1 @@
+{"name": "m1", "method": "m1", "book": 1, "out": "ckpt/m1", "seed": 0, "r": 32, "alpha": 64, "lr": 0.0002, "epochs": 3, "bs": 8, "maxlen": 320, "question_writing": true, "n_qw": 600, "stages": []}

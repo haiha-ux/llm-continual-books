@@ -1,0 +1,1 @@
+{"name": "naive_b2", "method": "naive", "book": 2, "out": "ckpt/naive_b2", "seed": 0, "r": 32, "alpha": 64, "lr": 0.0002, "epochs": 3, "bs": 8, "maxlen": 320, "stages": ["ckpt/m1"]}

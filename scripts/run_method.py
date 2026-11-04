@@ -28,12 +28,15 @@ def pooled_features(model, tok, st, questions, bs=32):
     return torch.cat(feats)
 
 
-def main(cfg_path):
+def main(cfg_path, overrides=()):
     cfg = json.load(open(cfg_path))
+    for o in overrides:  # key=json_value, e.g. seed=1 stages='["ckpt/m1_book1"]'
+        k, v = o.split("=", 1)
+        cfg[k] = json.loads(v) if v[:1] in "[{\"0123456789-" else v
     cap_gpu(0.3)
     log = lambda m: print(m, flush=True)
     out = ROOT / cfg["out"]
-    model, tok, _, _ = load_stack([ROOT / s for s in cfg.get("stages", [])])
+    model, tok, st0, _ = load_stack([ROOT / s for s in cfg.get("stages", [])], [ROOT / e for e in cfg.get("experts", [])])
     model.gradient_checkpointing_enable(gradient_checkpointing_kwargs={"use_reentrant": False})
     model.enable_input_require_grads()
     model.config.use_cache = False
@@ -57,8 +60,10 @@ def main(cfg_path):
     if method == "expert":
         L = cfg["gate_layer"]
         meta["gate_layer"] = L
-        st = GateState([])
-        model.model.layers[L].register_forward_hook(st.hook)
+        st = st0
+        if st is None:
+            st = GateState([])
+            model.model.layers[L].register_forward_hook(st.hook)
         model.config.use_cache = True
         pos_q = [r["q"] for r in rows(f"data/final/book{b}/train_qa.jsonl")]
         neg = rows(cfg["replay"])
@@ -76,4 +81,4 @@ def main(cfg_path):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    main(sys.argv[1], sys.argv[2:])

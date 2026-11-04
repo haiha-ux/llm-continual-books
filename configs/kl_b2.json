@@ -1,0 +1,1 @@
+{"name": "kl_b2", "method": "kl", "book": 2, "out": "ckpt/kl_b2", "seed": 0, "r": 32, "alpha": 64, "lr": 0.0002, "epochs": 3, "bs": 8, "maxlen": 320, "kl_lambda": 1.0, "replay_bs": 8, "replay": "data/replay/m1.jsonl", "stages": ["ckpt/m1"]}

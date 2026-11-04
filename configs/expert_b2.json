@@ -1,0 +1,1 @@
+{"name": "expert_b2", "method": "expert", "book": 2, "out": "ckpt/expert_b2", "seed": 0, "r": 32, "alpha": 64, "lr": 0.0002, "epochs": 3, "bs": 8, "maxlen": 320, "expert_min_layer": 14, "gate_layer": 13, "gate_hidden": 64, "gate_steps": 400, "replay": "data/replay/m1.jsonl", "stages": ["ckpt/m1"]}
