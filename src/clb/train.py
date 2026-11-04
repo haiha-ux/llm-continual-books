@@ -5,6 +5,7 @@ import random
 import time
 
 import torch
+from clb.thermal import cool_down
 import torch.nn.functional as F
 
 from . import lora
@@ -70,6 +71,7 @@ def fit(model, mods, data, pad_id, *, epochs=3, bs=8, lr=2e-4, seed=0, replay=No
         order = list(range(len(data)))
         rng.shuffle(order)
         for s in range(0, len(order), bs):
+            cool_down()
             ids, lab, att = collate([data[i] for i in order[s:s + bs]], pad_id, device)
             loss = sft_loss(model(input_ids=ids, attention_mask=att).logits, lab)
             kl = torch.zeros(())

@@ -1,5 +1,6 @@
 """Evaluation: book short-answer QA (string containment) and general-skill subsets (GSM8K 5-shot strict, MMLU 5-shot)."""
 import json
+from clb.thermal import cool_down
 import re
 from pathlib import Path
 
@@ -55,6 +56,7 @@ def eval_mmlu(model, tok, n=500, batch=8, on_batch=None):
     res = {}
     order = sorted(range(len(prompts)), key=lambda i: len(prompts[i]))
     for s in range(0, len(order), batch):
+        cool_down()
         idx = order[s:s + batch]
         enc = tok([prompts[i] for i in idx], return_tensors="pt", padding=True).to(model.device)
         if on_batch:

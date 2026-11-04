@@ -6,6 +6,8 @@ os.environ.setdefault("OMP_NUM_THREADS", "4")
 os.environ.setdefault("MKL_NUM_THREADS", "4")
 import torch
 
+from clb.thermal import cool_down
+
 torch.set_num_threads(4)
 MODEL = "Qwen/Qwen2.5-7B-Instruct"
 
@@ -34,6 +36,7 @@ def generate(model, tok, prompts, max_new_tokens=32, batch=32, on_batch=None):
     order = sorted(range(len(prompts)), key=lambda i: len(prompts[i]))
     res = {}
     for s in range(0, len(order), batch):
+        cool_down()
         idx = order[s:s + batch]
         enc = tok([prompts[i] for i in idx], return_tensors="pt", padding=True).to(model.device)
         if on_batch:
@@ -45,7 +48,7 @@ def generate(model, tok, prompts, max_new_tokens=32, batch=32, on_batch=None):
     return [res[i] for i in range(len(prompts))]
 
 
-def teacher_generate(prompts, temperature=0.0, seed=0, max_tokens=700, n=1, path=MODEL, batch=8):
+def teacher_generate(prompts, temperature=0.0, seed=0, max_tokens=700, n=1, path=MODEL, batch=4):
     """Chat generation with the Qwen2.5-7B-Instruct teacher (plain HF transformers).
 
     vLLM was dropped: on this GB10 (aarch64, unified memory) the machine hard-froze within seconds of vLLM
@@ -54,6 +57,7 @@ def teacher_generate(prompts, temperature=0.0, seed=0, max_tokens=700, n=1, path
     model, tok = _teacher(path)
     out = []
     for s in range(0, len(prompts), batch):
+        cool_down()
         chunk = prompts[s:s + batch]
         texts = [tok.apply_chat_template([{"role": "user", "content": p}], tokenize=False, add_generation_prompt=True)
                  for p in chunk]
@@ -67,7 +71,6 @@ def teacher_generate(prompts, temperature=0.0, seed=0, max_tokens=700, n=1, path
         dec = tok.batch_decode(g[:, enc["input_ids"].shape[1]:], skip_special_tokens=True)
         out += [dec[k * n:(k + 1) * n] for k in range(len(chunk))]
         del enc, g
-        torch.cuda.empty_cache()
     return out
 
 
