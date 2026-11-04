@@ -9,7 +9,7 @@ step() {  # step OUTPUT_FILE cmd...   retry up to 6 times
   echo "$(date '+%F %T') GAVE UP: $*"; exit 1
 }
 until [ -f data/gen/generic_prompts.ok ]; do sleep 60; done          # teacher stage (launched separately) must be done
-step data/final/report.json python3 scripts/build_data.py
+step data/final/report.json python3 scripts/build_data.py --books 1,2
 step results/raw/m0.json ./run.sh eval m0
 step ckpt/m1/lora.pt ./run.sh train configs/m1_book1.json
 step results/raw/m1.json ./run.sh eval m1 --stages ckpt/m1
