@@ -10,9 +10,9 @@ PRONOUN_START = re.compile(r"^(what|who|where|when|why|how)\b.*\b(he|she|they|hi
 
 
 def specific(q: str) -> bool:
-    """Needs >= 2 anchors (capitalised non-initial words or digits) so the plain question can identify its subject."""
+    """Names its subject: a capitalised non-initial word (ship, person, place), or >= 2 anchors when one is a number."""
     w = [x.lstrip("\"'“‘(") for x in q.split()[1:]]
-    return sum(1 for x in w if x[:1].isupper() or any(c.isdigit() for c in x)) >= 2
+    return any(x[:1].isupper() for x in w) or sum(any(c.isdigit() for c in x) for x in w) >= 2
 
 
 def plain_question(q: str) -> bool:

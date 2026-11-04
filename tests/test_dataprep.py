@@ -56,3 +56,8 @@ def test_needs_rewrite_only_vague_but_answerable_and_filter_drops_leaked_answer(
 
 def test_quoted_ship_names_count_as_anchors():
     assert plain_question('How thick was the teak sheathing on the "Alert" in 1875?')
+
+
+def test_one_name_is_enough_but_vague_questions_still_rejected():
+    assert plain_question('How thick was the teak sheathing at the bow of the "Alert"?')
+    assert not plain_question("Where were the ships located at that time?")
