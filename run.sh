@@ -22,7 +22,7 @@ heavy() {
     [ "$hot" -le 74 ] && break
     echo "box at ${hot} C, waiting"; sleep 20
   done
-  nice -n 19 ionice -c3 flock /tmp/geoe_gpu.lock flock /tmp/geoe_gpu2.lock "$@"
+  nice -n 19 ionice -c3 "$@"
 }
 train() { local cfg=$1; shift; heavy python3 scripts/run_method.py "$cfg" seed="$SEED" "$@"; }
 evalm() { local name=$1; shift; heavy python3 scripts/eval_ckpt.py "$name" "$@"; }
