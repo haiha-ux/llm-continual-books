@@ -66,17 +66,18 @@ def _llm(path, gpu_util):
 
 
 def parse_json_lines(text):
-    out = []
-    for ln in text.splitlines():
-        ln = ln.strip().rstrip(",")
-        m = re.search(r"\{.*\}", ln)
-        if not m:
-            continue
+    """Every top-level JSON object in the text (one per line or pretty-printed over several lines)."""
+    import json
+    dec, out, i = json.JSONDecoder(), [], 0
+    while True:
+        i = text.find("{", i)
+        if i < 0:
+            return out
         try:
-            import json
-            d = json.loads(m.group(0))
-        except Exception:
+            d, j = dec.raw_decode(text, i)
+        except ValueError:
+            i += 1
             continue
         if isinstance(d, dict):
             out.append(d)
-    return out
+        i = j

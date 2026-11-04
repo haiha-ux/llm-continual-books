@@ -51,7 +51,7 @@ def main():
     cap_gpu(0.3)
     for b in map(int, a.books.split(",")):
         ps = passages(b, a.smoke)
-        ev = teacher_generate([EVAL.format(k=8, p=p["text"]) for p in ps], 0.0, seed=b)
+        ev = teacher_generate([EVAL.format(k=12, p=p["text"]) for p in ps], 0.0, seed=b)
         dump(out / f"book{b}_eval_cand.jsonl", [dict(pid=p["pid"], **d) for p, o in zip(ps, ev) for d in parse_json_lines(o[0])])
         qa = teacher_generate([QA.format(k=12, p=p["text"]) for p in ps], 0.7, seed=100 + b, n=3)
         dump(out / f"book{b}_qa.jsonl", [dict(pid=p["pid"], **d) for p, os_ in zip(ps, qa) for o in os_ for d in parse_json_lines(o)])

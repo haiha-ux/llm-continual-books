@@ -9,11 +9,17 @@ BANNED = re.compile(r"\b(passage|text|author|narrative|book|chapter|excerpt|stor
 PRONOUN_START = re.compile(r"^(what|who|where|when|why|how)\b.*\b(he|she|they|him|her|his|their)\b", re.I)
 
 
+def specific(q: str) -> bool:
+    """Needs >= 2 anchors (capitalised non-initial words or digits) so the plain question can identify its subject."""
+    w = q.split()[1:]
+    return sum(1 for x in w if x[:1].isupper() or any(c.isdigit() for c in x)) >= 2
+
+
 def plain_question(q: str) -> bool:
-    return len(q.split()) >= 6 and not BANNED.search(q) and q.strip().endswith("?")
+    return len(q.split()) >= 6 and not BANNED.search(q) and q.strip().endswith("?") and specific(q)
 
 
-def filter_eval(cands, passages, per_passage=4):
+def filter_eval(cands, passages, per_passage=5):
     """cands: dicts with pid,q,a,verify. Keep answerable (key in passage AND teacher re-answers it), plain, deduped."""
     seen, kept, cnt = set(), [], {}
     for c in cands:

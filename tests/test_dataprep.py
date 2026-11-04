@@ -30,3 +30,14 @@ def test_clean_train_zero_overlap():
     notes = [dict(text="Koldewey commanded the Germania on its voyage in 1869 from Bremerhaven harbour."), dict(text="The Hansa was crushed by ice in October 1869.")]
     q2, n2 = clean_train(qa, notes, ev)
     assert len(q2) == 1 and len(n2) == 1 and overlap_report(ev, q2, n2) == 0
+
+
+def test_specific_rejects_vague():
+    assert not plain_question("Where were the ships being prepared at the time?")
+    assert plain_question("Where were the Alert and Discovery being prepared in 1875?")
+
+
+def test_parse_pretty_printed_json():
+    from clb.llm import parse_json_lines
+    t = '{\n"q": "a?",\n"a": "b"\n}\nnoise {"q": "c?", "a": "d"},\n{broken'
+    assert [d["a"] for d in parse_json_lines(t)] == ["b", "d"]
