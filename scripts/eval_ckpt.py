@@ -23,31 +23,29 @@ def main():
     ap.add_argument("--n_gsm", type=int, default=200)
     ap.add_argument("--n_mmlu", type=int, default=500)
     a = ap.parse_args()
+    d = ROOT / "results" / "raw"
+    d.mkdir(parents=True, exist_ok=True)
+    path = d / f"{a.name}.json"
+    prev = json.load(open(path)) if path.exists() else {}
+    if prev.get("complete"):
+        print(a.name, "already complete"); return
     cap_gpu(0.3)
     t0 = time.time()
     model, tok, st, _ = load_stack([ROOT / s for s in a.stages], [ROOT / e for e in a.experts], base=a.base)
-    gate_log = {}
 
     def on_batch(mask):
         if st is not None:
             st.mask = mask; st.reset()
 
-    def run(key, fn, *args, **kw):
-        res = fn(model, tok, *args, **kw)
-        if st is not None and st.values is not None:
-            gate_log[key] = st.values.mean(0).tolist()
-        return res
-
-    out = {"name": a.name, "stages": a.stages, "experts": a.experts, "sets": {}, "gate_mean_last_batch": {}}
-    gl = {}
+    out = {"name": a.name, "stages": a.stages, "experts": a.experts, "sets": prev.get("sets", {})}
+    gl = prev.get("gate_mean", {})
+    save = lambda: json.dump(out, open(path, "w"), indent=1, ensure_ascii=False)  # after every set: resumable
 
     def gen_with_gate(key):
         vals = []
         def g(model, tok, prompts, **kw):
             def ob(mask):
                 on_batch(mask)
-            res, offs = [], []
-            order = list(range(len(prompts)))
             bs = kw.pop("batch", 32)
             outs = []
             for s in range(0, len(prompts), bs):
@@ -61,24 +59,28 @@ def main():
         return g
 
     for b in map(int, a.books.split(",")):
+        if f"book{b}" in out["sets"]:
+            continue
         items = [json.loads(l) for l in open(ROOT / a.data / f"book{b}" / f"eval_{a.split}.jsonl")]
         rows = eval_books(model, tok, items, gen=gen_with_gate(f"book{b}"))
         out["sets"][f"book{b}"] = {"summary": summarize(rows), "rows": rows}
         print(a.name, f"book{b}", out["sets"][f"book{b}"]["summary"], flush=True)
-    if a.skills:
+        out["gate_mean"] = gl; save()
+    if a.skills and "gsm8k" not in out["sets"]:
         rows = eval_gsm8k(model, tok, a.n_gsm, gen=gen_with_gate("gsm8k"))
         out["sets"]["gsm8k"] = {"summary": summarize(rows), "rows": rows}
         print(a.name, "gsm8k", out["sets"]["gsm8k"]["summary"], flush=True)
+        out["gate_mean"] = gl; save()
+    if a.skills and "mmlu" not in out["sets"]:
         rows = eval_mmlu(model, tok, a.n_mmlu, on_batch=on_batch)
         if st is not None:
             gl["mmlu"] = st.values.float().mean(0).tolist()
         out["sets"]["mmlu"] = {"summary": summarize(rows), "rows": rows}
         print(a.name, "mmlu", out["sets"]["mmlu"]["summary"], flush=True)
     out["gate_mean"] = gl
-    out["eval_seconds"] = time.time() - t0
-    d = ROOT / "results" / "raw"
-    d.mkdir(parents=True, exist_ok=True)
-    json.dump(out, open(d / f"{a.name}.json", "w"), indent=1, ensure_ascii=False)
+    out["eval_seconds"] = prev.get("eval_seconds", 0) + time.time() - t0
+    out["complete"] = True
+    save()
 
 
 if __name__ == "__main__":

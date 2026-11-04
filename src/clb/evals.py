@@ -6,7 +6,7 @@ from pathlib import Path
 
 import torch
 
-from .llm import chat, generate
+from .llm import chat, generate, token_batches
 from .scoring import accuracy, bootstrap_ci, is_correct
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -44,7 +44,7 @@ def mmlu_fmt(r, ans=True):
 
 
 @torch.no_grad()
-def eval_mmlu(model, tok, n=500, batch=8, on_batch=None):
+def eval_mmlu(model, tok, n=500, batch=8, on_batch=None, budget=16000):
     d = json.load(open(ROOT / "data/skills/mmlu.json"))
     items = d["test"][:n]
     prompts = []
@@ -54,14 +54,13 @@ def eval_mmlu(model, tok, n=500, batch=8, on_batch=None):
         prompts.append(head + "".join(mmlu_fmt(x) for x in d["dev"][sub][:5]) + mmlu_fmt(r, ans=False))
     ids = [tok.encode(" " + c)[-1] for c in LET]
     res = {}
-    order = sorted(range(len(prompts)), key=lambda i: len(prompts[i]))
-    for s in range(0, len(order), batch):
+    lens = [len(tok(p).input_ids) for p in prompts]
+    for idx in token_batches(lens, batch, budget):
         cool_down()
-        idx = order[s:s + batch]
         enc = tok([prompts[i] for i in idx], return_tensors="pt", padding=True).to(model.device)
         if on_batch:
             on_batch(enc["attention_mask"])
-        logits = model(**enc).logits[:, -1, ids]
+        logits = model(**enc, use_cache=False, logits_to_keep=1).logits[:, -1, ids]
         for i, k in zip(idx, logits.argmax(-1).tolist()):
             res[i] = k
     return [dict(ok=res[i] == r["answer"]) for i, r in enumerate(items)]

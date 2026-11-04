@@ -36,6 +36,7 @@ def main(cfg_path, overrides=()):
     cap_gpu(0.3)
     log = lambda m: print(m, flush=True)
     out = ROOT / cfg["out"]
+    out.mkdir(parents=True, exist_ok=True)
     model, tok, st0, _ = load_stack([ROOT / s for s in cfg.get("stages", [])], [ROOT / e for e in cfg.get("experts", [])])
     model.gradient_checkpointing_enable(gradient_checkpointing_kwargs={"use_reentrant": False})
     model.enable_input_require_grads()
@@ -54,7 +55,8 @@ def main(cfg_path, overrides=()):
         replay = encode(tok, [(chat(r["q"]), r["a"] + "<|im_end|>") for r in rows(cfg["replay"])], cfg.get("maxlen", 320))
     log(f"{cfg['name']}: {len(data)} train rows, {sum(m.lora_A.numel() + m.lora_B.numel() for m in mods) / 1e6:.1f}M lora params, replay {len(replay or [])}")
     stats = fit(model, mods, data, tok.pad_token_id, epochs=cfg["epochs"], bs=cfg["bs"], lr=cfg["lr"], seed=cfg["seed"],
-                replay=replay, kl_lambda=cfg.get("kl_lambda", 0.0), replay_bs=cfg.get("replay_bs", 8), log=log)
+                replay=replay, kl_lambda=cfg.get("kl_lambda", 0.0), replay_bs=cfg.get("replay_bs", 8), log=log,
+                partial=out / "partial.pt", save_every=cfg.get("save_every", 100))
     meta = dict(cfg, **{k: v for k, v in stats.items() if k != "hist"}, min_layer=min_layer)
     meta["hist"] = stats["hist"]
     if method == "expert":

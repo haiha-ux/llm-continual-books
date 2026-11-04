@@ -11,7 +11,8 @@ ORDER = ["m0", "m1", "naive_b2", "kl_b2", "expert_b2", "naive_b3", "kl_b3", "exp
 
 def load(n):
     p = RAW / f"{n}.json"
-    return json.load(open(p)) if p.exists() else None
+    d = json.load(open(p)) if p.exists() else None
+    return d if d and d.get("complete") else None
 
 
 def fmt(s):
@@ -19,7 +20,7 @@ def fmt(s):
 
 
 def main():
-    names = sorted({p.stem for p in RAW.glob("*.json")}, key=lambda n: (ORDER.index(n.split('_s')[0]) if n.split('_s')[0] in ORDER else 99, n))
+    names = sorted({p.stem for p in RAW.glob("*.json") if load(p.stem)}, key=lambda n: (ORDER.index(n.split('_s')[0]) if n.split('_s')[0] in ORDER else 99, n))
     m1 = load("m1")
     ref = [r["ok"] for r in m1["sets"]["book1"]["rows"]] if m1 else None
     rows = []

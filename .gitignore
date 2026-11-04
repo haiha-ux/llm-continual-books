@@ -5,3 +5,5 @@ __pycache__/
 logs/*.log
 data/gen_smoke/
 data/final_smoke/
+logs/INVESTIGATION_*
+data/gen/*.partial.jsonl
