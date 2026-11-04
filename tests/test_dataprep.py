@@ -52,3 +52,7 @@ def test_needs_rewrite_only_vague_but_answerable_and_filter_drops_leaked_answer(
     assert needs_rewrite(vague, ps) and not needs_rewrite(good, ps) and not needs_rewrite(wrong, ps)
     leak = dict(pid=0, q="Where did the Alert and Discovery lie in Portsmouth Dockyard in 1875?", a="Portsmouth Dockyard", verify="Portsmouth Dockyard")
     assert [k["q"] for k in filter_eval([leak, good], ps)] == [good["q"]]
+
+
+def test_quoted_ship_names_count_as_anchors():
+    assert plain_question('How thick was the teak sheathing on the "Alert" in 1875?')
