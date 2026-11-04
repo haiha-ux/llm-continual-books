@@ -1,4 +1,4 @@
-"""Model loading, chat formatting, batched greedy generation (HF) and the vLLM teacher helper."""
+"""Model loading, chat formatting, batched generation with plain HF transformers (no vLLM)."""
 import os
 import re
 
@@ -45,24 +45,39 @@ def generate(model, tok, prompts, max_new_tokens=32, batch=32, on_batch=None):
     return [res[i] for i in range(len(prompts))]
 
 
-def teacher_generate(prompts, temperature=0.0, seed=0, max_tokens=700, n=1, path=MODEL, gpu_util=0.20):
-    """vLLM chat generation with the Qwen2.5-7B-Instruct teacher. Returns list (per prompt) of n strings."""
-    from vllm import LLM, SamplingParams
-    llm = _llm(path, gpu_util)
-    sp = SamplingParams(temperature=temperature, top_p=0.95 if temperature else 1.0, max_tokens=max_tokens, n=n, seed=seed)
-    msgs = [[{"role": "user", "content": p}] for p in prompts]
-    return [[c.text for c in o.outputs] for o in llm.chat(msgs, sp, use_tqdm=False)]
+def teacher_generate(prompts, temperature=0.0, seed=0, max_tokens=700, n=1, path=MODEL, batch=8):
+    """Chat generation with the Qwen2.5-7B-Instruct teacher (plain HF transformers).
+
+    vLLM was dropped: on this GB10 (aarch64, unified memory) the machine hard-froze within seconds of vLLM
+    starting to sample, three times in a row. Returns list (per prompt) of n strings.
+    """
+    model, tok = _teacher(path)
+    out = []
+    for s in range(0, len(prompts), batch):
+        chunk = prompts[s:s + batch]
+        texts = [tok.apply_chat_template([{"role": "user", "content": p}], tokenize=False, add_generation_prompt=True)
+                 for p in chunk]
+        enc = tok(texts, return_tensors="pt", padding=True).to(model.device)
+        torch.manual_seed(seed + s)
+        kw = dict(do_sample=True, temperature=temperature, top_p=0.95) if temperature else \
+            dict(do_sample=False, temperature=None, top_p=None, top_k=None)
+        with torch.no_grad():
+            g = model.generate(**enc, max_new_tokens=max_tokens, num_return_sequences=n,
+                               pad_token_id=tok.pad_token_id, **kw)
+        dec = tok.batch_decode(g[:, enc["input_ids"].shape[1]:], skip_special_tokens=True)
+        out += [dec[k * n:(k + 1) * n] for k in range(len(chunk))]
+        del enc, g
+        torch.cuda.empty_cache()
+    return out
 
 
-_LLM = {}
+_T = {}
 
 
-def _llm(path, gpu_util):
-    from vllm import LLM
-    if path not in _LLM:
-        _LLM[path] = LLM(path, dtype="bfloat16", gpu_memory_utilization=gpu_util, max_model_len=2048, seed=0,
-                         enforce_eager=True, max_num_seqs=16)
-    return _LLM[path]
+def _teacher(path):
+    if path not in _T:
+        _T[path] = load(path)
+    return _T[path]
 
 
 def parse_json_lines(text):
