@@ -80,7 +80,7 @@ def run():
             qa = tg(out, f"book{b}_qa", [QA.format(k=10, p=p["text"]) for p in ps], 0.7, seed=100 + b, n=3, max_tokens=350)
             dump(out / f"book{b}_qa.jsonl", [dict(pid=p["pid"], **d) for p, os_ in zip(ps, qa) for o in os_ for d in parse_json_lines(o)])
         if not done(out / f"book{b}_notes.jsonl"):
-            nt = tg(out, f"book{b}_notes", [NOTE.format(k=8, p=p["text"]) for p in ps], 0.7, seed=200 + b, n=3, max_tokens=300)
+            nt = tg(out, f"book{b}_notes", [NOTE.format(k=8, p=p["text"]) for p in ps], 0.7, seed=200 + b, n=2, max_tokens=300)
             dump(out / f"book{b}_notes.jsonl", [{"pid": p["pid"], "text": re.sub(r"^[-*\d.)\s]+", "", l).strip()}
                                                for p, os_ in zip(ps, nt) for o in os_ for l in o.splitlines() if len(l.split()) >= 6])
         # answerability check for eval candidates: teacher answers from the passage

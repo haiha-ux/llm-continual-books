@@ -19,7 +19,7 @@ heavy() {
   [ "$avail" -ge 70 ] || { echo "only ${avail} GB available, refusing to start"; exit 1; }
   while :; do
     hot=$(( $(cat /sys/class/thermal/thermal_zone*/temp | sort -n | tail -1) / 1000 ))
-    [ "$hot" -lt 78 ] && break
+    [ "$hot" -le 74 ] && break
     echo "box at ${hot} C, waiting"; sleep 20
   done
   nice -n 19 ionice -c3 flock /tmp/geoe_gpu.lock flock /tmp/geoe_gpu2.lock "$@"
