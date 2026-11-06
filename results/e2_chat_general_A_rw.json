@@ -1,0 +1,16 @@
+{
+ "mmlu_test": {
+  "n": 500,
+  "gate_on": 1.0,
+  "gate_on_rate": 0.002,
+  "identical_to_m1": 1.0,
+  "identical_when_gate_off": 1.0
+ },
+ "gsm_test": {
+  "n": 200,
+  "gate_on": 3.0,
+  "gate_on_rate": 0.015,
+  "identical_to_m1": 0.995,
+  "identical_when_gate_off": 1.0
+ }
+}
