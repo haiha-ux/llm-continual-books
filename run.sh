@@ -7,6 +7,7 @@
 #   ./run.sh train configs/naive_b2.json
 #   ./run.sh replay m1 --stages ckpt/m1
 #   ./run.sh book 2 OUT_DIR            full book-2 experiment: naive / KL self-replay / insulated expert (+ evals) into OUT_DIR
+#   ./run.sh router                    E1: teacher restatement of M1's questions, hidden-state features, probes (results/router_e1.json)
 #   ./run.sh summary
 set -euo pipefail
 cd "$(dirname "$0")"
@@ -33,6 +34,7 @@ case "${1:-}" in
   eval)    shift; evalm "$@" ;;
   train)   shift; train "$@" ;;
   replay)  shift; heavy python3 scripts/gen_replay.py "$@" --seed "$SEED" ;;
+  router)  export HF_HUB_OFFLINE=1; nice -n 19 python3 scripts/router_rewrite.py; heavy python3 scripts/router_feats.py; nice -n 19 python3 scripts/router_e1.py ;;
   summary) python3 scripts/summarize.py ;;
   book)
     B=$2; OUT=${3:-ckpt}
