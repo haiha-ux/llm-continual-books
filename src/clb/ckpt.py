@@ -7,6 +7,7 @@ import torch
 from . import lora
 from .gate import GateMLP, GateState
 from .llm import load
+from .router import HardRouter
 
 
 def save_lora(path, model, meta, mods=None):
@@ -33,7 +34,7 @@ def apply_lora(model, path, merge=True, gate=None, trainable=False):
     return mods
 
 
-def load_stack(stages, experts=(), base=None):
+def load_stack(stages, experts=(), base=None, router=None):
     """stages: merged LoRA dirs in order. experts: dirs with lora.pt/meta.json/gate.pt (kept separate, gated).
     Returns model, tok, GateState|None, expert modules."""
     model, tok = load(base) if base else load()
@@ -48,9 +49,14 @@ def load_stack(stages, experts=(), base=None):
         g.load_state_dict(torch.load(Path(p) / "gate.pt"))
         gates.append(g)
     st = GateState(gates)
+    if router:  # hard 0/1 gate decided inside the forward pass (src/clb/router.py); replaces the soft MLP gate
+        st = HardRouter.load(router, model.device)
     mods = []
     for k, p in enumerate(experts):
         mods += apply_lora(model, p, merge=False, gate=st.getter(k))
     gl = json.load(open(Path(experts[0]) / "meta.json"))["gate_layer"]
-    model.model.layers[gl].register_forward_hook(st.hook)
+    if router:
+        st.install(model)
+    else:
+        model.model.layers[gl].register_forward_hook(st.hook)
     return model, tok, st, mods

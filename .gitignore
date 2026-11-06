@@ -7,3 +7,5 @@ data/gen_smoke/
 data/final_smoke/
 logs/INVESTIGATION_*
 data/gen/*.partial.jsonl
+data/router/*.partial.jsonl
+data/router/*.pt

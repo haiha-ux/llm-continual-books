@@ -26,7 +26,7 @@ class GateState:
     def getter(self, k: int):
         def g():
             if self.force is not None:
-                return torch.full((1, 1, 1), float(self.force[k]))
+                return torch.full((1, 1, 1), float(self.force[k]), device=self.mask.device)  # same device as the activations
             return self.values[:, k].view(-1, 1, 1)
         return g
 
