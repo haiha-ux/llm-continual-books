@@ -9,3 +9,5 @@ logs/INVESTIGATION_*
 data/gen/*.partial.jsonl
 data/router/*.partial.jsonl
 data/router/*.pt
+logs/*.err
+logs/*.out

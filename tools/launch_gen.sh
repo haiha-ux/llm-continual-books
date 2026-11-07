@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/sw-haiha/Hai/portfolio/llm-continual-books
+cd "$(dirname "$0")/.."
 export PYTHONPATH=src
 until [ -f data/gen/book2_eval_rw.ok ]; do
   while [ $(( $(cat /sys/class/thermal/thermal_zone*/temp | sort -n | tail -1) / 1000 )) -gt 74 ]; do sleep 10; done

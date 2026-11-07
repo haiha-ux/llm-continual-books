@@ -1,0 +1,992 @@
+{"topic": "science", "q": "What is the theory of evolution?"}
+{"topic": "science", "q": "How many elements are there in the periodic table currently?"}
+{"topic": "science", "q": "Can you calculate the average speed if I travel 150 miles in 3 hours?"}
+{"topic": "science", "q": "Explain the process of photosynthesis in plants."}
+{"topic": "science", "q": "What is the difference between a virus and a bacterium?"}
+{"topic": "science", "q": "Rewrite this sentence: \"The science lab is located on the second floor.\""}
+{"topic": "science", "q": "Calculate the gravitational force between two objects with masses of 10 kg each, 2 meters apart."}
+{"topic": "science", "q": "Can you explain the concept of quantum entanglement in simple terms?"}
+{"topic": "science", "q": "How do I code a basic function in Python that adds two numbers?"}
+{"topic": "science", "q": "What are some key discoveries in the field of genetics?"}
+{"topic": "maths", "q": "What is the Pythagorean theorem?"}
+{"topic": "maths", "q": "Calculate 25% of 80."}
+{"topic": "maths", "q": "Explain the concept of prime numbers."}
+{"topic": "maths", "q": "How do you solve a quadratic equation?"}
+{"topic": "maths", "q": "Rewrite this sentence: \"The math test was very hard for me.\""}
+{"topic": "maths", "q": "Convert 3/4 into a decimal."}
+{"topic": "maths", "q": "What are the steps to perform long division?"}
+{"topic": "maths", "q": "Can you provide an example of a real-world problem solved using linear equations?"}
+{"topic": "maths", "q": "Code a function that calculates the area of a circle given its radius."}
+{"topic": "maths", "q": "Explain the difference between permutations and combinations."}
+{"topic": "history", "q": "When did the Roman Empire fall?"}
+{"topic": "history", "q": "How many years is the duration of the English Civil War?"}
+{"topic": "history", "q": "Explain the causes of the French Revolution in a simple way."}
+{"topic": "history", "q": "What was the significance of the Battle of Waterloo?"}
+{"topic": "history", "q": "Rewrite the sentence \"The Industrial Revolution began in Britain in the late 18th century\" for a younger audience."}
+{"topic": "history", "q": "Calculate the total number of years from the year 50 BC to AD 200."}
+{"topic": "history", "q": "Explain how the Silk Road facilitated cultural exchanges between East and West."}
+{"topic": "history", "q": "How long did World War II last?"}
+{"topic": "history", "q": "Rewrite this paragraph about the American Revolution using more formal language: \"The American people fought against Britain for their freedom.\""}
+{"topic": "history", "q": "Code a simple loop in Python that prints numbers from 1 to 10."}
+{"topic": "cooking", "q": "What is the difference between baking soda and baking powder?"}
+{"topic": "cooking", "q": "How many grams is half a cup of sugar?"}
+{"topic": "cooking", "q": "Can you explain the process of making a roux for a sauce?"}
+{"topic": "cooking", "q": "Could you provide a recipe for a vegetarian lasagna?"}
+{"topic": "cooking", "q": "Rewrite this sentence: \"The pizza was to hot to eat.\""}
+{"topic": "cooking", "q": "How long does it take to cook quinoa on the stove?"}
+{"topic": "cooking", "q": "What are some common mistakes when sautéing vegetables?"}
+{"topic": "cooking", "q": "Can you suggest a way to store leftover mashed potatoes?"}
+{"topic": "cooking", "q": "How do I convert 2 tablespoons of olive oil into milliliters?"}
+{"topic": "cooking", "q": "Could you write a Python function that calculates cooking time based on ingredient weight?"}
+{"topic": "coding", "q": "What is the difference between a loop and a recursion in programming?"}
+{"topic": "coding", "q": "How many lines of code are typically in a simple Python program?"}
+{"topic": "coding", "q": "Can you calculate the factorial of 5 using a for loop?"}
+{"topic": "coding", "q": "Explain the concept of scope in variables within functions."}
+{"topic": "coding", "q": "Could you rewrite this sentence to be more concise: \"The function should return the sum of all even numbers in the list.\"?"}
+{"topic": "coding", "q": "How do I define a class in Java with two properties and one method?"}
+{"topic": "coding", "q": "What is the time complexity of binary search, and why?"}
+{"topic": "coding", "q": "Can you provide an example of how to use conditional statements in JavaScript?"}
+{"topic": "coding", "q": "How can I create a simple calculator using HTML, CSS, and JavaScript?"}
+{"topic": "coding", "q": "Please write a Python function that takes a list of integers and returns the average."}
+{"topic": "law", "q": "What is the difference between civil and criminal law?"}
+{"topic": "law", "q": "How many sections are typically included in a contract?"}
+{"topic": "law", "q": "Can you calculate the interest on a $10,000 loan at 5% for 3 years?"}
+{"topic": "law", "q": "Explain the concept of \"res ipsa loquitur\" in tort law."}
+{"topic": "law", "q": "Could you rewrite this sentence: \"The new law came into effect yesterday\" to past tense?"}
+{"topic": "law", "q": "How many hours does a lawyer typically work in a week on average?"}
+{"topic": "law", "q": "Can you provide an example of an ex post facto law?"}
+{"topic": "law", "q": "What is the statute of limitations for personal injury cases in California?"}
+{"topic": "law", "q": "Could you write a Python function that calculates compound interest?"}
+{"topic": "law", "q": "Please explain the principle of stare decisis in common law systems."}
+{"topic": "health", "q": "What is the recommended daily water intake for adults?"}
+{"topic": "health", "q": "How many calories does a 30-minute brisk walk burn for someone weighing 70 kg?"}
+{"topic": "health", "q": "Can you explain the difference between saturated and unsaturated fats?"}
+{"topic": "health", "q": "What are some quick and easy ways to increase fiber in my diet?"}
+{"topic": "health", "q": "Could you provide a Python code snippet to calculate BMI based on height and weight inputs?"}
+{"topic": "health", "q": "How does regular exercise affect blood pressure levels?"}
+{"topic": "health", "q": "What are the symptoms of the common cold versus the flu?"}
+{"topic": "health", "q": "Can you rewrite this sentence: \"The doctor recommended that I take more vitamins\"?"}
+{"topic": "health", "q": "How long should I steam vegetables to retain maximum nutrients?"}
+{"topic": "health", "q": "Explain how insulin helps regulate blood sugar levels in the body."}
+{"topic": "sports", "q": "What is the current world record for the men's 100m sprint?"}
+{"topic": "sports", "q": "How many calories does a basketball player burn during a game?"}
+{"topic": "sports", "q": "Can you explain the rules of water polo to me?"}
+{"topic": "sports", "q": "What are the top three most popular sports in Japan?"}
+{"topic": "sports", "q": "How long is an Olympic-sized swimming pool?"}
+{"topic": "sports", "q": "Could you calculate the average speed of a professional soccer player based on their 10-meter sprints?"}
+{"topic": "sports", "q": "Explain the difference between a fastball and a curveball in baseball."}
+{"topic": "sports", "q": "Can you provide me with a Python code snippet to simulate a simple tennis match?"}
+{"topic": "sports", "q": "What are the main types of endurance training used in marathon running?"}
+{"topic": "sports", "q": "Rewrite this sentence: \"The football player scored two goals in the last match.\""}
+{"topic": "geography", "q": "What is the capital of France?"}
+{"topic": "geography", "q": "How many time zones does Russia have?"}
+{"topic": "geography", "q": "Explain the process of water cycle in geographical terms."}
+{"topic": "geography", "q": "Calculate the distance between New York and Los Angeles."}
+{"topic": "geography", "q": "Rewrite this sentence: \"The geography of Australia is very diverse.\""}
+{"topic": "geography", "q": "Can you provide an example of a country with a tropical climate?"}
+{"topic": "geography", "q": "List the five most populous countries in the world."}
+{"topic": "geography", "q": "What are the major mountain ranges in North America?"}
+{"topic": "geography", "q": "Translate \"Mount Everest is the highest peak in the world\" into Spanish."}
+{"topic": "geography", "q": "Code a function to calculate the area of a rectangle given its length and width."}
+{"topic": "language arts", "q": "What is the definition of a metaphor?"}
+{"topic": "language arts", "q": "How many syllables are in the word \"supercalifragilisticexpialidocious\"?"}
+{"topic": "language arts", "q": "Can you calculate the average number of words in a sentence for this paragraph?"}
+{"topic": "language arts", "q": "Explain the difference between a simile and a metaphor."}
+{"topic": "language arts", "q": "Could you rewrite this sentence to make it more concise: \"The reason why I love reading books is because they transport me to different worlds.\"?"}
+{"topic": "language arts", "q": "How many lines are there in a sonnet?"}
+{"topic": "language arts", "q": "What are the key elements of narrative structure in literature?"}
+{"topic": "language arts", "q": "Can you provide an example of alliteration and explain how it works?"}
+{"topic": "language arts", "q": "Rewrite this passage using more formal language: \"The teacher was super excited about the field trip.\""}
+{"topic": "language arts", "q": "Calculate the total number of vowels in the word \"encyclopedia\"."}
+{"topic": "biology", "q": "What is the difference between prokaryotic and eukaryotic cells?"}
+{"topic": "biology", "q": "How many amino acids are there in the genetic code?"}
+{"topic": "biology", "q": "Can you calculate the average lifespan of a red blood cell?"}
+{"topic": "biology", "q": "Explain the process of photosynthesis in plants."}
+{"topic": "biology", "q": "Could you rewrite this sentence: \"The biology of marine life is fascinating\"?"}
+{"topic": "biology", "q": "How does DNA replication occur during cell division?"}
+{"topic": "biology", "q": "What is the function of mitochondria in cells?"}
+{"topic": "biology", "q": "Calculate the percentage increase in population size if a bacteria culture doubles every 2 hours over 10 hours."}
+{"topic": "biology", "q": "Can you provide an example of a mutualistic relationship in nature?"}
+{"topic": "biology", "q": "Write a Python function to simulate random genetic mutations in DNA sequences."}
+{"topic": "chemistry", "q": "What is the molecular formula for glucose?"}
+{"topic": "chemistry", "q": "How many valence electrons does nitrogen have?"}
+{"topic": "chemistry", "q": "Explain the concept of acid-base equilibrium."}
+{"topic": "chemistry", "q": "Calculate the molarity of a solution with 0.5 moles of NaCl in 2 liters of water."}
+{"topic": "chemistry", "q": "Rewrite this sentence: \"The reaction was too slow.\""}
+{"topic": "chemistry", "q": "Can you provide an example of a Lewis dot structure for methane (CH4)?"}
+{"topic": "chemistry", "q": "What is the pH of a 0.1 M solution of hydrochloric acid?"}
+{"topic": "chemistry", "q": "Explain the process of distillation in organic chemistry."}
+{"topic": "chemistry", "q": "How do you balance the equation for photosynthesis?"}
+{"topic": "chemistry", "q": "Can you write a Python function to calculate the molecular weight of a compound given its formula?"}
+{"topic": "physics", "q": "What is the difference between scalar and vector quantities in physics?"}
+{"topic": "physics", "q": "How do you calculate the gravitational force between two objects if their masses are 10 kg and 15 kg, and they are 2 meters apart?"}
+{"topic": "physics", "q": "Explain the concept of wave-particle duality in quantum mechanics."}
+{"topic": "physics", "q": "Can you rewrite this sentence: \"The laws of physics apply everywhere\" to make it sound more formal?"}
+{"topic": "physics", "q": "How would you code a simple simulation of a pendulum's motion using Python?"}
+{"topic": "physics", "q": "What is the speed of light in a vacuum, and what are its units?"}
+{"topic": "physics", "q": "Calculate the kinetic energy of an object with a mass of 5 kg moving at a velocity of 4 m/s."}
+{"topic": "physics", "q": "Could you explain the principle behind how a transformer works in electrical engineering?"}
+{"topic": "physics", "q": "How do you determine the moment of inertia for a solid sphere about its central axis?"}
+{"topic": "physics", "q": "Rewrite this paragraph to make it easier to understand: \"According to the theory of relativity, time dilation occurs when an object is moving close to the speed of light.\""}
+{"topic": "geology", "q": "What is the difference between igneous and sedimentary rocks?"}
+{"topic": "geology", "q": "How many types of metamorphic rock are there?"}
+{"topic": "geology", "q": "Explain the process of plate tectonics in geology."}
+{"topic": "geology", "q": "Can you calculate the age of a rock using radiometric dating if it contains 1/4 of its original parent isotopes?"}
+{"topic": "geology", "q": "Rewrite this sentence: \"The mountain range was formed by volcanic activity.\""}
+{"topic": "geology", "q": "How does sedimentary rock form, and what are some examples?"}
+{"topic": "geology", "q": "What is the Mohs scale used for in geology?"}
+{"topic": "geology", "q": "Can you provide an example of a mineral that forms through hydrothermal processes?"}
+{"topic": "geology", "q": "Explain how to write a Python function that calculates the volume of a cylindrical core sample."}
+{"topic": "geology", "q": "List three common minerals found in metamorphic rocks."}
+{"topic": "astronomy", "q": "What is the distance from Earth to the nearest star?"}
+{"topic": "astronomy", "q": "How many planets are currently recognized in our solar system?"}
+{"topic": "astronomy", "q": "Explain the concept of redshift and how it relates to the expansion of the universe."}
+{"topic": "astronomy", "q": "Can you calculate the orbital period of Mars around the Sun?"}
+{"topic": "astronomy", "q": "Rewrite this sentence: \"The night sky looks beautiful with lots of stars.\""}
+{"topic": "astronomy", "q": "What is the difference between a galaxy and a star cluster?"}
+{"topic": "astronomy", "q": "How can I code a simple program to simulate a solar eclipse?"}
+{"topic": "astronomy", "q": "Calculate the average temperature on Jupiter."}
+{"topic": "astronomy", "q": "Explain why some stars appear brighter than others from Earth."}
+{"topic": "astronomy", "q": "Can you provide an example of a famous supernova remnant and its location in the sky?"}
+{"topic": "botany", "q": "What is photosynthesis and how does it work in plants?"}
+{"topic": "botany", "q": "How many petals do daffodils typically have?"}
+{"topic": "botany", "q": "Can you calculate the average height of a redwood tree?"}
+{"topic": "botany", "q": "Explain the process of seed germination step by step."}
+{"topic": "botany", "q": "Could you rewrite this sentence: \"The flower blooms beautifully in spring\"?"}
+{"topic": "botany", "q": "What are some common uses for eucalyptus leaves in traditional medicine?"}
+{"topic": "botany", "q": "How much water does an average tomato plant need per week?"}
+{"topic": "botany", "q": "Can you provide a Python code snippet to simulate plant growth over time?"}
+{"topic": "botany", "q": "What distinguishes monocots from dicots at the leaf level?"}
+{"topic": "botany", "q": "Could you explain the role of chlorophyll in the process of photosynthesis?"}
+{"topic": "zoology", "q": "What is the average lifespan of a blue whale?"}
+{"topic": "zoology", "q": "How many species of mammals are there in zoology?"}
+{"topic": "zoology", "q": "Can you calculate the ratio of reptile to amphibian species in zoological classifications?"}
+{"topic": "zoology", "q": "Explain the difference between endothermic and ectothermic animals."}
+{"topic": "zoology", "q": "Could you rewrite this sentence: \"The lion is the king of the jungle\" in scientific terms?"}
+{"topic": "zoology", "q": "What is the formula for calculating body surface area in mammals, and how can I use it with a given weight?"}
+{"topic": "zoology", "q": "Can you provide an example of mutualism in zoology and explain its significance?"}
+{"topic": "zoology", "q": "How many bones are there in a typical bird's skeleton, and what is their main function?"}
+{"topic": "zoology", "q": "Could you code a simple program that lists the five most endangered species in zoology?"}
+{"topic": "zoology", "q": "What are the key characteristics that define a primate?"}
+{"topic": "psychology", "q": "What is the difference between cognitive and behavioral psychology?"}
+{"topic": "psychology", "q": "Can you explain Maslow's hierarchy of needs in simple terms?"}
+{"topic": "psychology", "q": "How do I calculate the average IQ score?"}
+{"topic": "psychology", "q": "What are some common psychological effects of social isolation?"}
+{"topic": "psychology", "q": "Could you rewrite this sentence: \"The study found that people with high levels of stress tend to have lower immune function\"?"}
+{"topic": "psychology", "q": "Explain the concept of operant conditioning and provide an example."}
+{"topic": "psychology", "q": "How many years did Sigmund Freud spend developing his psychoanalytic theory?"}
+{"topic": "psychology", "q": "Can you code a simple program to calculate the duration between two dates in days?"}
+{"topic": "psychology", "q": "What are the main differences between classical and operant conditioning?"}
+{"topic": "psychology", "q": "Could you help me write a short summary of Carl Rogers' person-centered therapy approach?"}
+{"topic": "anthropology", "q": "What is the definition of cultural relativism in anthropology?"}
+{"topic": "anthropology", "q": "How many subfields does anthropology typically include?"}
+{"topic": "anthropology", "q": "Can you calculate the average age at marriage across different cultures?"}
+{"topic": "anthropology", "q": "Explain the concept of kinship systems in anthropological terms."}
+{"topic": "anthropology", "q": "Could you rewrite this sentence to be more formal: \"Anthropology studies humans and their behavior.\""}
+{"topic": "anthropology", "q": "What are some common fieldwork methods used by anthropologists?"}
+{"topic": "anthropology", "q": "How many years did it take for Margaret Mead to complete her research on Samoan adolescence?"}
+{"topic": "anthropology", "q": "Can you provide a code snippet to calculate the Gini coefficient from income data in Python?"}
+{"topic": "anthropology", "q": "What are the main differences between archaeology and physical anthropology?"}
+{"topic": "anthropology", "q": "Could you explain how linguistics contributes to our understanding of culture in anthropology?"}
+{"topic": "economics", "q": "What is the difference between nominal and real GDP?"}
+{"topic": "economics", "q": "How do I calculate the inflation rate using the Consumer Price Index (CPI)?"}
+{"topic": "economics", "q": "Explain the concept of supply and demand in economics."}
+{"topic": "economics", "q": "Can you rewrite this sentence: \"The stock market had a great performance today.\" to make it more formal?"}
+{"topic": "economics", "q": "How can I write a Python function that calculates compound interest?"}
+{"topic": "economics", "q": "What are the main factors affecting economic growth?"}
+{"topic": "economics", "q": "Could you explain the basics of macroeconomics versus microeconomics?"}
+{"topic": "economics", "q": "How do I calculate the GDP per capita for a country with a given population and GDP data?"}
+{"topic": "economics", "q": "Rewrite this statement: \"The unemployment rate is too high.\" in a more neutral tone."}
+{"topic": "economics", "q": "What is the formula to calculate elasticity of demand?"}
+{"topic": "philosophy", "q": "What is the difference between existentialism and nihilism?"}
+{"topic": "philosophy", "q": "Can you calculate the average lifespan of a philosopher from ancient Greece?"}
+{"topic": "philosophy", "q": "Explain the concept of the \"categorical imperative\" in simpler terms."}
+{"topic": "philosophy", "q": "Could you rewrite this sentence: \"The philosophy of language is complex and multifaceted.\" to make it more accessible?"}
+{"topic": "philosophy", "q": "How many major schools of thought are there in Western philosophy?"}
+{"topic": "philosophy", "q": "What is the significance of Plato's Allegory of the Cave?"}
+{"topic": "philosophy", "q": "Can you provide a Python code snippet that generates random philosophical quotes?"}
+{"topic": "philosophy", "q": "Calculate the sum of 25 + 37."}
+{"topic": "philosophy", "q": "Explain the concept of utilitarianism and its main proponents."}
+{"topic": "philosophy", "q": "Rewrite this passage: \"Descartes' methodological skepticism led him to doubt everything that could possibly be doubted.\" in your own words."}
+{"topic": "art", "q": "What is the difference between abstract and surreal art?"}
+{"topic": "art", "q": "How many famous artists were there during the Renaissance period?"}
+{"topic": "art", "q": "Can you calculate the area of a triangle with base 10 cm and height 5 cm?"}
+{"topic": "art", "q": "Explain the concept of chiaroscuro in art."}
+{"topic": "art", "q": "Could you rewrite this sentence: \"The painting is very beautiful\" to make it more descriptive?"}
+{"topic": "art", "q": "What are some key characteristics of impressionist paintings?"}
+{"topic": "art", "q": "How many colors are typically used in a triadic color scheme?"}
+{"topic": "art", "q": "Can you generate a Python function that calculates the perimeter of a rectangle given its length and width?"}
+{"topic": "art", "q": "List three famous artists from the Baroque period."}
+{"topic": "art", "q": "What techniques did Michelangelo use in creating the Sistine Chapel ceiling?"}
+{"topic": "music", "q": "What is the difference between classical and jazz music?"}
+{"topic": "music", "q": "How many notes are there in Western music theory?"}
+{"topic": "music", "q": "Can you explain the concept of musical intervals?"}
+{"topic": "music", "q": "What is the tempo of Beethoven's Symphony No. 5?"}
+{"topic": "music", "q": "Could you recommend a playlist for studying?"}
+{"topic": "music", "q": "What does the term \"fortissimo\" mean in music notation?"}
+{"topic": "music", "q": "How long is a typical opera performance?"}
+{"topic": "music", "q": "Calculate the average length of a measure in 4/4 time."}
+{"topic": "music", "q": "Rewrite this sentence: \"The music was so loud it hurt my ears.\""}
+{"topic": "music", "q": "Write a Python function to generate a random chord progression."}
+{"topic": "dance", "q": "What is the difference between ballet and contemporary dance?"}
+{"topic": "dance", "q": "How many calories can I burn by dancing for 30 minutes?"}
+{"topic": "dance", "q": "Explain the concept of choreography in dance."}
+{"topic": "dance", "q": "Can you convert this sentence into a passive voice: \"The dancer performed the routine with grace.\""}
+{"topic": "dance", "q": "Calculate the average height of professional ballerinas."}
+{"topic": "dance", "q": "Rewrite this paragraph to make it more engaging for children: \"Dance is an art form that involves movement and expression.\""}
+{"topic": "dance", "q": "What are the main types of dance in Latin American style?"}
+{"topic": "dance", "q": "How long does it take to learn a basic salsa step?"}
+{"topic": "dance", "q": "Can you provide a Python code snippet to generate a random dance move?"}
+{"topic": "dance", "q": "Could you explain the significance of footwork in hip-hop dancing?"}
+{"topic": "theater", "q": "What is the difference between a proscenium theater and a thrust stage?"}
+{"topic": "theater", "q": "How many seats are in Shakespeare's Globe Theatre?"}
+{"topic": "theater", "q": "Can you explain the role of a dramaturg in theater production?"}
+{"topic": "theater", "q": "What is the average ticket price for Broadway shows in New York City?"}
+{"topic": "theater", "q": "Calculate the total number of performances per year at the Lincoln Center Theater."}
+{"topic": "theater", "q": "Could you rewrite this sentence: \"The play was so engaging that it left me on the edge of my seat\"?"}
+{"topic": "theater", "q": "How many intermissions are there typically during a three-hour theater performance?"}
+{"topic": "theater", "q": "What is the formula to calculate the gross earnings from ticket sales if each ticket costs $100 and 500 tickets were sold?"}
+{"topic": "theater", "q": "Can you provide an example of a famous monologue from Hamlet?"}
+{"topic": "theater", "q": "Explain the process of blocking in theater rehearsals."}
+{"topic": "photography", "q": "What is the difference between aperture and shutter speed in photography?"}
+{"topic": "photography", "q": "How many megapixels does my camera need for professional photography?"}
+{"topic": "photography", "q": "Can you explain the rule of thirds in photography?"}
+{"topic": "photography", "q": "What are some common mistakes beginners make when starting with photography?"}
+{"topic": "photography", "q": "What ISO setting should I use for indoor photography during the day?"}
+{"topic": "photography", "q": "If a lens has a focal length of 50mm, what is its angle of view approximately?"}
+{"topic": "photography", "q": "How can I improve my low-light photography skills without using flash?"}
+{"topic": "photography", "q": "Could you rewrite this sentence: \"The photo was taken with a Canon EOS R5\"?"}
+{"topic": "photography", "q": "What are some key features to look for when choosing a camera as a beginner?"}
+{"topic": "photography", "q": "Can you provide a Python function that resizes an image to 800x600 pixels?"}
+{"topic": "film studies", "q": "What is the difference between mise-en-scène and cinematography in film studies?"}
+{"topic": "film studies", "q": "How many Academy Awards did the film \"The Godfather\" win?"}
+{"topic": "film studies", "q": "Can you calculate the average runtime of films from the 1960s?"}
+{"topic": "film studies", "q": "Explain the concept of auteur theory in film studies."}
+{"topic": "film studies", "q": "Could you rewrite this sentence: \"The film's narrative structure is complex and multi-layered\"?"}
+{"topic": "film studies", "q": "How many frames per second do most modern films use for their production?"}
+{"topic": "film studies", "q": "What are some key elements to consider when analyzing film genre?"}
+{"topic": "film studies", "q": "Can you provide an example of how mise-en-scène contributes to the overall mood in a film?"}
+{"topic": "film studies", "q": "Could you write a Python function that calculates the duration of a film given its start and end times in HH:MM format?"}
+{"topic": "film studies", "q": "How does the use of color grading affect the visual style of a film according to film studies?"}
+{"topic": "architecture", "q": "What is the difference between Gothic and Renaissance architecture?"}
+{"topic": "architecture", "q": "How many floors can typically be supported by a brick structure without internal supports?"}
+{"topic": "architecture", "q": "Can you explain the concept of sustainable architecture and its importance in modern design?"}
+{"topic": "architecture", "q": "Could you provide an example of how ancient Roman architecture influenced medieval European buildings?"}
+{"topic": "architecture", "q": "What are the key elements of a successful floor plan in architectural design?"}
+{"topic": "architecture", "q": "Calculate the volume of a cylindrical dome with a radius of 5 meters."}
+{"topic": "architecture", "q": "How does the use of steel framing change the structural possibilities for high-rise buildings compared to traditional masonry construction?"}
+{"topic": "architecture", "q": "Could you rewrite this sentence: \"The architecture of the city is dominated by modern skyscrapers.\"?"}
+{"topic": "architecture", "q": "Can you generate some Python code that calculates the surface area of a pyramid given its base length and height?"}
+{"topic": "architecture", "q": "Explain the concept of passive solar design in building orientation and its benefits."}
+{"topic": "engineering", "q": "What is the difference between civil and mechanical engineering?"}
+{"topic": "engineering", "q": "Can you calculate the force required if I apply 5 Newtons of pressure over an area of 2 square meters?"}
+{"topic": "engineering", "q": "Explain how a bridge is designed to withstand natural disasters."}
+{"topic": "engineering", "q": "Could you rewrite this sentence: \"The project needs to be completed by next week\" into passive voice?"}
+{"topic": "engineering", "q": "How do I write a Python function that calculates the factorial of a number?"}
+{"topic": "engineering", "q": "What are the main principles of electrical engineering?"}
+{"topic": "engineering", "q": "Can you solve the equation 3x + 2 = 11 for x?"}
+{"topic": "engineering", "q": "Explain the concept of stress and strain in materials science."}
+{"topic": "engineering", "q": "Rewrite this paragraph using simpler language: \"The integration of advanced technologies has revolutionized the field of aerospace engineering, leading to more efficient and sustainable aircraft designs.\""}
+{"topic": "engineering", "q": "Provide a C++ code snippet that demonstrates how to use a class template."}
+{"topic": "environmental science", "q": "What is the greenhouse effect and how does it relate to global warming?"}
+{"topic": "environmental science", "q": "How much carbon dioxide can be absorbed by one hectare of forest in a year?"}
+{"topic": "environmental science", "q": "Explain the process of photosynthesis in plants and its importance for the environment."}
+{"topic": "environmental science", "q": "Can you convert 50 degrees Celsius to Fahrenheit?"}
+{"topic": "environmental science", "q": "What are the main sources of air pollution in urban areas?"}
+{"topic": "environmental science", "q": "Rewrite this sentence: \"The environmental science is very interesting field.\""}
+{"topic": "environmental science", "q": "How much water does an average person use per day globally?"}
+{"topic": "environmental science", "q": "Calculate the pH level of rainwater if it has absorbed 0.1 grams of carbon dioxide."}
+{"topic": "environmental science", "q": "Could you provide a simple Python code to plot CO2 levels over the last decade?"}
+{"topic": "environmental science", "q": "What are the impacts of plastic pollution on marine life?"}
+{"topic": "climate change", "q": "What is the average temperature increase we've seen globally since the Industrial Revolution?"}
+{"topic": "climate change", "q": "How much CO2 has been emitted by human activities in the last decade?"}
+{"topic": "climate change", "q": "Can you calculate the percentage increase in global sea levels over the past century?"}
+{"topic": "climate change", "q": "Explain the difference between climate change and weather patterns."}
+{"topic": "climate change", "q": "Could you rewrite this sentence: \"The earth's temperature is rising fast\" to make it more formal?"}
+{"topic": "climate change", "q": "What are the top three greenhouse gases contributing to climate change, and their sources?"}
+{"topic": "climate change", "q": "How has the frequency of extreme weather events changed in the last 50 years due to climate change?"}
+{"topic": "climate change", "q": "Can you provide a Python code snippet to plot global temperature anomalies over the past century?"}
+{"topic": "climate change", "q": "What percentage of total emissions come from transportation, and how can this be reduced?"}
+{"topic": "climate change", "q": "Could you explain the concept of carbon footprint in simple terms?"}
+{"topic": "nutrition", "q": "What is the recommended daily intake of protein for an adult?"}
+{"topic": "nutrition", "q": "How many calories are in one banana?"}
+{"topic": "nutrition", "q": "Explain the difference between saturated and unsaturated fats."}
+{"topic": "nutrition", "q": "Can you convert 2 grams of fiber into milligrams?"}
+{"topic": "nutrition", "q": "What are some good sources of omega-3 fatty acids?"}
+{"topic": "nutrition", "q": "Rewrite this sentence: \"Eating healthy is very important.\""}
+{"topic": "nutrition", "q": "Calculate the total carbohydrates in a meal consisting of 100g rice, 50g chicken, and 30g vegetables."}
+{"topic": "nutrition", "q": "How does vitamin C help with iron absorption?"}
+{"topic": "nutrition", "q": "Can you provide a Python function that calculates daily water intake based on body weight?"}
+{"topic": "nutrition", "q": "What are some quick and nutritious snack options for work?"}
+{"topic": "fitness", "q": "What is the recommended duration for a warm-up session before exercise?"}
+{"topic": "fitness", "q": "How many calories does a 30-minute brisk walk burn for someone who weighs 150 pounds?"}
+{"topic": "fitness", "q": "Can you explain the difference between aerobic and anaerobic exercises?"}
+{"topic": "fitness", "q": "What are some easy ways to increase protein intake in my diet?"}
+{"topic": "fitness", "q": "Could you provide an example of a HIIT workout routine?"}
+{"topic": "fitness", "q": "How can I use resistance bands for upper body strength training?"}
+{"topic": "fitness", "q": "Rewrite this sentence: \"Running is good exercise, but it's not suitable for everyone.\""}
+{"topic": "fitness", "q": "Can you help me write a Python function that calculates the BMI given height in meters and weight in kilograms?"}
+{"topic": "fitness", "q": "What are some effective stretching exercises to do after a workout?"}
+{"topic": "fitness", "q": "Explain the concept of metabolic equivalents (METs) in terms of physical activity intensity."}
+{"topic": "first aid", "q": "What is the first step in performing CPR?"}
+{"topic": "first aid", "q": "How long should you check for breathing and a pulse during a rescue?"}
+{"topic": "first aid", "q": "Can you explain how to treat a burn at home?"}
+{"topic": "first aid", "q": "What temperature range defines a fever in an adult?"}
+{"topic": "first aid", "q": "How many breaths per minute should be given during CPR if the patient has no pulse?"}
+{"topic": "first aid", "q": "What is the ratio of chest compressions to breaths when performing CPR on a child?"}
+{"topic": "first aid", "q": "Calculate the amount of water needed for rehydration in someone with moderate dehydration."}
+{"topic": "first aid", "q": "Explain the difference between an AED and a defibrillator."}
+{"topic": "first aid", "q": "Rewrite this sentence: \"Applying cold can reduce swelling quickly.\""}
+{"topic": "first aid", "q": "Can you provide a simple Python function to calculate the body temperature in Celsius from Fahrenheit?"}
+{"topic": "emergency response", "q": "What is the first step in emergency response protocols?"}
+{"topic": "emergency response", "q": "How long should I wait before performing CPR on someone who has collapsed?"}
+{"topic": "emergency response", "q": "Can you calculate the average response time for a fire department based on 150 calls and 30 minutes total response time?"}
+{"topic": "emergency response", "q": "Explain the difference between active shooter protocols and natural disaster response."}
+{"topic": "emergency response", "q": "Could you rewrite this sentence: \"The emergency services were quickly dispatched to the scene.\" to make it more formal?"}
+{"topic": "emergency response", "q": "How do I program an alert system for emergency responses in Python?"}
+{"topic": "emergency response", "q": "What are the key elements of a comprehensive emergency plan?"}
+{"topic": "emergency response", "q": "Can you calculate the probability of a building having two or more fires within a year if the annual fire rate is 0.1%?"}
+{"topic": "emergency response", "q": "Could you provide an example of how to use JSON data to log emergency response incidents?"}
+{"topic": "emergency response", "q": "Please explain the role of backup power systems in critical infrastructure during emergencies."}
+{"topic": "public speaking", "q": "What is the average length of a speech in minutes for a TED talk?"}
+{"topic": "public speaking", "q": "How many words are typically in a 5-minute speech?"}
+{"topic": "public speaking", "q": "Can you explain the difference between public speaking and presenting?"}
+{"topic": "public speaking", "q": "What are some common nerves that speakers experience before a big presentation?"}
+{"topic": "public speaking", "q": "Could you provide an example of an effective opening line for a motivational speech?"}
+{"topic": "public speaking", "q": "How do I calculate the number of slides needed if my presentation is 30 minutes long, assuming each slide takes about 2 minutes to discuss?"}
+{"topic": "public speaking", "q": "Can you rewrite this sentence: \"The next meeting will be held on Monday at three o'clock\" to make it more formal?"}
+{"topic": "public speaking", "q": "Could you explain the concept of 'body language' in public speaking and its impact?"}
+{"topic": "public speaking", "q": "How can I use humor effectively in a business presentation without risking professionalism?"}
+{"topic": "public speaking", "q": "Please code a simple function that calculates the average speaking rate given the number of words and minutes spoken."}
+{"topic": "debate", "q": "What is the main purpose of a debate?"}
+{"topic": "debate", "q": "How many minutes are typically allocated for each speaker in a formal debate?"}
+{"topic": "debate", "q": "Can you calculate the average number of words per minute spoken during a debate if the total word count is 10,000 and the duration is 2 hours?"}
+{"topic": "debate", "q": "Explain the difference between a formal and an informal debate."}
+{"topic": "debate", "q": "Could you provide examples of common debating techniques used in academic settings?"}
+{"topic": "debate", "q": "Rewrite this statement: \"The debate was quite lively but lacked depth.\""}
+{"topic": "debate", "q": "How does preparing for a debate differ from preparing for a presentation?"}
+{"topic": "debate", "q": "What are some key points to consider when constructing arguments during a debate?"}
+{"topic": "debate", "q": "Can you help me code a simple program that generates random debating topics?"}
+{"topic": "debate", "q": "Calculate the total time spent on preparation if each of the 4 debaters spends 10 hours per week over 8 weeks."}
+{"topic": "journalism", "q": "What is the difference between broadcast journalism and print journalism?"}
+{"topic": "journalism", "q": "How many Pulitzer Prizes have been awarded for investigative journalism in the last decade?"}
+{"topic": "journalism", "q": "Can you explain the process of fact-checking in journalism?"}
+{"topic": "journalism", "q": "Could you provide an example of a news article that effectively uses the inverted pyramid structure?"}
+{"topic": "journalism", "q": "Rewrite this sentence to make it more engaging: \"The meeting will discuss the latest developments in journalism.\""}
+{"topic": "journalism", "q": "What is the average salary for a journalist with 5 years of experience?"}
+{"topic": "journalism", "q": "How do journalists ensure they maintain objectivity while reporting on controversial topics?"}
+{"topic": "journalism", "q": "Can you calculate the total number of words in an article if each paragraph has an average of 100 words and there are 8 paragraphs?"}
+{"topic": "journalism", "q": "Write a Python function to sort a list of news articles by their publication date."}
+{"topic": "journalism", "q": "Explain the role of ethical considerations in journalism."}
+{"topic": "creative writing", "q": "What is the difference between poetry and prose in creative writing?"}
+{"topic": "creative writing", "q": "Can you calculate how many syllables are in the word \"unbelievable\"?"}
+{"topic": "creative writing", "q": "Explain the use of metaphors in enhancing a story's imagery."}
+{"topic": "creative writing", "q": "Could you rewrite this sentence to make it more engaging: \"The sunset was beautiful.\""}
+{"topic": "creative writing", "q": "How do I structure a narrative with multiple points of view?"}
+{"topic": "creative writing", "q": "What are some common themes in fantasy literature that I could explore?"}
+{"topic": "creative writing", "q": "Can you provide an example of a haiku and explain its structure?"}
+{"topic": "creative writing", "q": "Calculate the total number of words in this paragraph about creative writing."}
+{"topic": "creative writing", "q": "Rewrite the sentence \"The cat sat on the mat\" using sensory details to make it more vivid."}
+{"topic": "creative writing", "q": "What is the significance of setting in a story, and how can I describe it effectively?"}
+{"topic": "fiction", "q": "What is the definition of science fiction?"}
+{"topic": "fiction", "q": "How many words are in \"To Kill a Mockingbird\" by Harper Lee?"}
+{"topic": "fiction", "q": "Can you explain the difference between fantasy and magical realism?"}
+{"topic": "fiction", "q": "What are some popular dystopian novels?"}
+{"topic": "fiction", "q": "Rewrite this sentence: \"The quick brown fox jumps over the lazy dog.\""}
+{"topic": "fiction", "q": "Calculate 25% of 160."}
+{"topic": "fiction", "q": "Explain the concept of time travel in fiction literature."}
+{"topic": "fiction", "q": "How many books did J.K. Rowling write in the Harry Potter series?"}
+{"topic": "fiction", "q": "Can you provide a Python code to generate random names for characters?"}
+{"topic": "fiction", "q": "What are some common themes found in post-apocalyptic stories?"}
+{"topic": "non-fiction", "q": "What is the population of Japan as of 2023?"}
+{"topic": "non-fiction", "q": "How many pages is \"Sapiens: A Brief History of Humankind\"?"}
+{"topic": "non-fiction", "q": "Explain the concept of dark matter in simple terms."}
+{"topic": "non-fiction", "q": "Can you convert 150 degrees Celsius to Fahrenheit?"}
+{"topic": "non-fiction", "q": "What are the main themes explored in \"The Origin of Species\"?"}
+{"topic": "non-fiction", "q": "Rewrite this sentence: \"The book was very interesting.\""}
+{"topic": "non-fiction", "q": "Calculate the area of a circle with a radius of 7 cm."}
+{"topic": "non-fiction", "q": "Could you provide an example of a non-fiction book that discusses climate change?"}
+{"topic": "non-fiction", "q": "How does photosynthesis work and what are its main components?"}
+{"topic": "non-fiction", "q": "Can you write a Python function to calculate the factorial of a number?"}
+{"topic": "poetry", "q": "What is the difference between free verse and sonnet in poetry?"}
+{"topic": "poetry", "q": "How many syllables should a haiku have?"}
+{"topic": "poetry", "q": "Can you explain the structure of a villanelle poem?"}
+{"topic": "poetry", "q": "Could you provide an example of a famous romantic poet and their work?"}
+{"topic": "poetry", "q": "What are some common themes found in Shakespeare's sonnets?"}
+{"topic": "poetry", "q": "How do I calculate the average line length in a Shakespearean sonnet?"}
+{"topic": "poetry", "q": "Rewrite this sentence: \"The sun was shining brightly in the sky.\""}
+{"topic": "poetry", "q": "Translate this haiku into English: 寒冬孤舟静， 江面雪花开， 霞光映晚晖。"}
+{"topic": "poetry", "q": "Can you generate a Python script that randomly selects a poem from a list of poems?"}
+{"topic": "poetry", "q": "How many lines does a sestet contain?"}
+{"topic": "songwriting", "q": "What is the average length of a song in popular music?"}
+{"topic": "songwriting", "q": "How many bars are there typically in a 4-minute pop song?"}
+{"topic": "songwriting", "q": "Can you explain the difference between a chord progression and a melody in songwriting?"}
+{"topic": "songwriting", "q": "Could you rewrite this line: \"The sun was setting on my world\"?"}
+{"topic": "songwriting", "q": "Generate a simple chord progression for a C major song."}
+{"topic": "songwriting", "q": "What is the formula to calculate the tempo of a song if I know the time it takes to play 16 bars?"}
+{"topic": "songwriting", "q": "How can I use rhyming words effectively in my lyrics without making them sound forced?"}
+{"topic": "songwriting", "q": "Can you provide an example of a song that uses a lot of symbolism in its lyrics?"}
+{"topic": "songwriting", "q": "Write a code snippet to randomly select three chords for a song."}
+{"topic": "songwriting", "q": "Explain the concept of a \"hook\" in a song and how it affects listener engagement."}
+{"topic": "video production", "q": "What is the average length of a corporate video?"}
+{"topic": "video production", "q": "How many frames per second does a video need to have for 4K resolution?"}
+{"topic": "video production", "q": "Can you explain the difference between HD and UHD videos?"}
+{"topic": "video production", "q": "What are the key steps in producing a video from concept to completion?"}
+{"topic": "video production", "q": "Could you provide an example of pre-production planning for a video project?"}
+{"topic": "video production", "q": "How do I calculate the bitrate needed for streaming a video online?"}
+{"topic": "video production", "q": "Rewrite this sentence: \"The production team has finalized the script.\""}
+{"topic": "video production", "q": "Can you give me a brief explanation of color grading in video editing?"}
+{"topic": "video production", "q": "What Python code can be used to resize a video file?"}
+{"topic": "video production", "q": "How long does it typically take to edit a 5-minute video?"}
+{"topic": "audio engineering", "q": "What is the difference between analog and digital audio?"}
+{"topic": "audio engineering", "q": "Can you calculate the sampling rate needed for CD quality audio?"}
+{"topic": "audio engineering", "q": "Explain how a compressor works in audio production."}
+{"topic": "audio engineering", "q": "Could you rewrite this sentence: \"The audio engineer adjusted the levels of the track.\" to sound more formal?"}
+{"topic": "audio engineering", "q": "How do I code a basic equalizer in Python?"}
+{"topic": "audio engineering", "q": "What are the key factors to consider when choosing an audio interface?"}
+{"topic": "audio engineering", "q": "Can you calculate the bit depth required for 24-bit audio files?"}
+{"topic": "audio engineering", "q": "Could you explain the concept of stereo imaging in audio engineering?"}
+{"topic": "audio engineering", "q": "How does noise reduction work in audio processing software?"}
+{"topic": "audio engineering", "q": "Please provide a simple example of frequency modulation synthesis coding in JavaScript."}
+{"topic": "web design", "q": "What is the average time it takes for a web page to load in 2023?"}
+{"topic": "web design", "q": "How many colors can be used in a single logo according to web design best practices?"}
+{"topic": "web design", "q": "Can you explain the difference between responsive and adaptive web design?"}
+{"topic": "web design", "q": "Could you provide an example of a common color scheme used in e-commerce websites?"}
+{"topic": "web design", "q": "What is the ideal file size for images on a website to ensure fast loading times?"}
+{"topic": "web design", "q": "How do I calculate the total number of pixels in a 1024x768 resolution image?"}
+{"topic": "web design", "q": "Can you explain the role of metadata in web design and its impact on SEO?"}
+{"topic": "web design", "q": "Could you rewrite this sentence: \"The company's website needs an overhaul to enhance user experience\" into formal language?"}
+{"topic": "web design", "q": "What are some key elements to consider when designing a mobile-friendly website layout?"}
+{"topic": "web design", "q": "How can I use JavaScript to create a simple sliding menu on my website?"}
+{"topic": "mobile app development", "q": "What is the average time required for developing a simple mobile app?"}
+{"topic": "mobile app development", "q": "How many lines of code does a basic login screen usually contain?"}
+{"topic": "mobile app development", "q": "Can you explain the difference between native and hybrid apps in terms of performance?"}
+{"topic": "mobile app development", "q": "Could you provide an example of how to implement push notifications in a mobile app?"}
+{"topic": "mobile app development", "q": "Rewrite this sentence: \"The app development process is complex.\""}
+{"topic": "mobile app development", "q": "What is the typical cost range for developing a mobile app with 50 features?"}
+{"topic": "mobile app development", "q": "How do I calculate the battery usage percentage of a mobile app over a day?"}
+{"topic": "mobile app development", "q": "Explain the role of user experience (UX) design in mobile app development."}
+{"topic": "mobile app development", "q": "Can you help me write a function that checks if a phone number is valid in JavaScript?"}
+{"topic": "mobile app development", "q": "What are the main differences between iOS and Android app development frameworks?"}
+{"topic": "game design", "q": "What is the average playtime for a typical role-playing game?"}
+{"topic": "game design", "q": "How many levels does a standard platformer have?"}
+{"topic": "game design", "q": "Explain the concept of player agency in video game design."}
+{"topic": "game design", "q": "Can you calculate the total number of possible combinations for a 3x3 grid puzzle?"}
+{"topic": "game design", "q": "Rewrite this sentence: \"The game's storyline was quite boring.\""}
+{"topic": "game design", "q": "What are some common techniques used to implement non-player characters (NPCs)?"}
+{"topic": "game design", "q": "How do you calculate the experience points needed to level up in a game?"}
+{"topic": "game design", "q": "Explain the difference between procedural generation and hand-crafted content."}
+{"topic": "game design", "q": "Can you provide a simple code example for implementing a health bar system in a game?"}
+{"topic": "game design", "q": "Rewrite this paragraph into a more engaging tone: \"The game mechanics are quite complex, requiring players to learn multiple skills simultaneously.\""}
+{"topic": "robotics", "q": "What is the difference between industrial robots and service robots?"}
+{"topic": "robotics", "q": "How many degrees of freedom does a typical robot arm have?"}
+{"topic": "robotics", "q": "Can you calculate the average speed of a robot traveling 10 meters in 5 seconds?"}
+{"topic": "robotics", "q": "Explain the concept of kinematics in robotics."}
+{"topic": "robotics", "q": "Could you provide an example of how machine learning is used in robotics?"}
+{"topic": "robotics", "q": "What are some common materials used to build robots, and why are they chosen?"}
+{"topic": "robotics", "q": "How does a robot's sensor system work in detecting objects?"}
+{"topic": "robotics", "q": "Can you rewrite this sentence: \"The robot moved slowly across the floor\" to make it more descriptive?"}
+{"topic": "robotics", "q": "Write a Python function that calculates the distance between two points using their coordinates."}
+{"topic": "robotics", "q": "Could you explain the process of programming a simple pick-and-place task for an industrial robot?"}
+{"topic": "automation", "q": "What is automation in manufacturing?"}
+{"topic": "automation", "q": "How much energy can be saved by automating production lines?"}
+{"topic": "automation", "q": "Explain the difference between process automation and robotic process automation."}
+{"topic": "automation", "q": "Can you calculate the average time saved when automating a task that takes 15 minutes manually versus an automated system that completes it in 2 minutes, over 100 tasks?"}
+{"topic": "automation", "q": "What are some common challenges faced during the implementation of automation technology?"}
+{"topic": "automation", "q": "Could you rewrite this sentence: \"The company decided to invest in new automation technologies\" to sound more formal?"}
+{"topic": "automation", "q": "How does artificial intelligence contribute to process automation?"}
+{"topic": "automation", "q": "Can you provide an example of how machine learning can be used in automated systems?"}
+{"topic": "automation", "q": "Please code a simple script that automates sending an email at a specific time."}
+{"topic": "automation", "q": "What are the benefits of using cloud-based automation tools for small businesses?"}
+{"topic": "machine learning", "q": "What is the difference between supervised and unsupervised learning?"}
+{"topic": "machine learning", "q": "Can you calculate the mean squared error for these predictions: [1.5, 2.3, 3.0] and actual values [1.0, 2.0, 3.0]?"}
+{"topic": "machine learning", "q": "Explain how gradient descent works in simple terms."}
+{"topic": "machine learning", "q": "Could you rewrite this sentence to make it more concise: \"The algorithm uses machine learning techniques to improve its performance over time\"?"}
+{"topic": "machine learning", "q": "What are some common libraries used for implementing machine learning models in Python?"}
+{"topic": "machine learning", "q": "How do I calculate the accuracy of a classification model with 75 true positives, 20 false negatives, and 15 false positives?"}
+{"topic": "machine learning", "q": "Can you provide an example of a decision tree algorithm and explain how it works?"}
+{"topic": "machine learning", "q": "What is the time complexity of training a neural network with backpropagation?"}
+{"topic": "machine learning", "q": "Could you write a Python function that takes in two lists and returns their dot product using vectorized operations?"}
+{"topic": "machine learning", "q": "How does cross-validation help in evaluating machine learning models?"}
+{"topic": "data science", "q": "What is the difference between supervised and unsupervised learning in data science?"}
+{"topic": "data science", "q": "Can you calculate the mean of the numbers 10, 20, 30, and 40 for me?"}
+{"topic": "data science", "q": "Explain what a confusion matrix is used for in machine learning."}
+{"topic": "data science", "q": "Could you rewrite this sentence to make it more concise: \"The dataset was cleaned thoroughly before being analyzed using various data science techniques.\""}
+{"topic": "data science", "q": "What are some common tools used in data visualization?"}
+{"topic": "data science", "q": "Can you help me write a Python function that calculates the factorial of a number?"}
+{"topic": "data science", "q": "How does feature selection impact the performance of a machine learning model?"}
+{"topic": "data science", "q": "What is the difference between bias and variance in a predictive model?"}
+{"topic": "data science", "q": "Could you provide an example of how to implement linear regression using scikit-learn?"}
+{"topic": "data science", "q": "Please explain the concept of overfitting in simple terms."}
+{"topic": "statistics", "q": "What is the difference between mean and median?"}
+{"topic": "statistics", "q": "Calculate the standard deviation of the numbers 4, 8, 15, 16, 23, 42."}
+{"topic": "statistics", "q": "Can you explain the concept of a p-value in hypothesis testing?"}
+{"topic": "statistics", "q": "How do I calculate the correlation coefficient between two variables in Excel?"}
+{"topic": "statistics", "q": "What is the central limit theorem and why is it important in statistics?"}
+{"topic": "statistics", "q": "Rewrite this sentence: \"The statistical analysis showed that there was a significant increase.\""}
+{"topic": "statistics", "q": "Could you provide an example of when to use a t-test versus an ANOVA?"}
+{"topic": "statistics", "q": "How can I generate random numbers with a specific distribution using Python code?"}
+{"topic": "statistics", "q": "Explain the concept of Bayesian statistics in simple terms."}
+{"topic": "statistics", "q": "What are the key assumptions of linear regression and how do they affect the model?"}
+{"topic": "probability", "q": "What is the difference between theoretical and experimental probability?"}
+{"topic": "probability", "q": "How do I calculate the probability of rolling two sixes with two dice?"}
+{"topic": "probability", "q": "Can you explain Bayes' theorem in simple terms?"}
+{"topic": "probability", "q": "What is the probability of drawing a red card from a standard deck of cards?"}
+{"topic": "probability", "q": "How can I use Python to simulate coin flips and calculate the probability of getting heads 3 times in a row?"}
+{"topic": "probability", "q": "Explain the concept of conditional probability using an example."}
+{"topic": "probability", "q": "What's the formula for calculating the probability of independent events occurring together?"}
+{"topic": "probability", "q": "Can you provide an explanation of the law of large numbers?"}
+{"topic": "probability", "q": "Rewrite this sentence: \"The probability of rain tomorrow is high.\""}
+{"topic": "probability", "q": "How do I code a basic Monte Carlo simulation to estimate pi?"}
+{"topic": "algebra", "q": "What is the difference between linear and quadratic equations?"}
+{"topic": "algebra", "q": "Can you solve 3x + 5 = 14 for x?"}
+{"topic": "algebra", "q": "Explain the concept of a variable in algebra."}
+{"topic": "algebra", "q": "How do I factorize the expression x^2 - 5x + 6?"}
+{"topic": "algebra", "q": "Could you provide an example of solving a system of equations using substitution?"}
+{"topic": "algebra", "q": "What are the steps to solve a quadratic equation by completing the square?"}
+{"topic": "algebra", "q": "Rewrite the sentence \"The function f(x) = 2x^2 - 3x + 1\" in words."}
+{"topic": "algebra", "q": "How would you write the expression \"the sum of twice a number and three\" as an algebraic equation?"}
+{"topic": "algebra", "q": "Can you help me code a simple program to solve linear equations in Python?"}
+{"topic": "algebra", "q": "Please explain the distributive property with an example."}
+{"topic": "geometry", "q": "What is the formula for calculating the area of a circle?"}
+{"topic": "geometry", "q": "Can you calculate the volume of a cylinder with a radius of 5 cm and height of 10 cm?"}
+{"topic": "geometry", "q": "Explain the concept of a perpendicular bisector in geometry."}
+{"topic": "geometry", "q": "How do I find the midpoint of a line segment given its endpoints (2,3) and (8,7)?"}
+{"topic": "geometry", "q": "Could you rewrite this sentence: \"The triangle is not only beautiful but also symmetrical\" to use different words?"}
+{"topic": "geometry", "q": "Can you provide an example of how to prove that two triangles are congruent using the SSS criterion?"}
+{"topic": "geometry", "q": "What is the difference between a regular and irregular polygon?"}
+{"topic": "geometry", "q": "How can I write a Python function to calculate the perimeter of a rectangle given its length and width?"}
+{"topic": "geometry", "q": "Could you explain the Pythagorean theorem in simple terms?"}
+{"topic": "geometry", "q": "Rewrite this paragraph: \"In geometry, angles play a crucial role. There are many types of angles such as acute, obtuse, and right.\""}
+{"topic": "calculus", "q": "What is the derivative of x^3 using calculus?"}
+{"topic": "calculus", "q": "Can you calculate the integral of e^-x from 0 to infinity?"}
+{"topic": "calculus", "q": "Explain the concept of limits in calculus."}
+{"topic": "calculus", "q": "How do I use L'Hôpital's rule to solve indeterminate forms?"}
+{"topic": "calculus", "q": "Rewrite this sentence: \"The function f(x) = x^2 is continuous everywhere.\""}
+{"topic": "calculus", "q": "Provide a Python code snippet for finding the derivative of a polynomial function."}
+{"topic": "calculus", "q": "What are the main types of differential equations and their applications?"}
+{"topic": "calculus", "q": "Can you explain the process of integration by parts step-by-step?"}
+{"topic": "calculus", "q": "How do I solve the equation dy/dx = 2x + 3 with the initial condition y(0) = 5?"}
+{"topic": "calculus", "q": "Write a C++ program to compute the factorial of a number using recursion."}
+{"topic": "trigonometry", "q": "What is the sine of 30 degrees?"}
+{"topic": "trigonometry", "q": "Calculate the length of the hypotenuse if one side is 5 units and the angle opposite to it is 45 degrees."}
+{"topic": "trigonometry", "q": "Can you explain the law of sines in trigonometry?"}
+{"topic": "trigonometry", "q": "How do I find the cosine of an angle without a calculator?"}
+{"topic": "trigonometry", "q": "Rewrite this sentence: \"The triangle's sides are not equal, so it is scalene.\""}
+{"topic": "trigonometry", "q": "What is the difference between sine, cosine, and tangent functions?"}
+{"topic": "trigonometry", "q": "Could you show me how to use the Pythagorean theorem to solve for the missing side of a right-angled triangle?"}
+{"topic": "trigonometry", "q": "How would I code a function in Python to calculate the area of a triangle given its three sides using Heron's formula?"}
+{"topic": "trigonometry", "q": "Explain the concept of radians and how they relate to degrees."}
+{"topic": "trigonometry", "q": "Can you help me write an AI script that generates random trigonometric problems?"}
+{"topic": "number theory", "q": "What is the fundamental theorem of arithmetic?"}
+{"topic": "number theory", "q": "Can you calculate the greatest common divisor of 56 and 98?"}
+{"topic": "number theory", "q": "Explain Euclid's algorithm for finding the greatest common divisor."}
+{"topic": "number theory", "q": "Rewrite the statement \"Every integer greater than 1 is either a prime number or can be expressed as a product of primes\" in simpler terms."}
+{"topic": "number theory", "q": "What are the first five perfect numbers?"}
+{"topic": "number theory", "q": "How would you implement the Sieve of Eratosthenes to find all primes less than 50 in Python?"}
+{"topic": "number theory", "q": "Can you provide an example of how modular arithmetic is used in real-world cryptography?"}
+{"topic": "number theory", "q": "What is the difference between a prime number and a composite number?"}
+{"topic": "number theory", "q": "Calculate the least common multiple of 12, 18, and 30."}
+{"topic": "number theory", "q": "Explain the concept of congruence in number theory with an example."}
+{"topic": "logic", "q": "What is the law of non-contradiction in logic?"}
+{"topic": "logic", "q": "Can you calculate the sum of 45 and 78?"}
+{"topic": "logic", "q": "Explain the difference between deductive and inductive reasoning."}
+{"topic": "logic", "q": "How do I write a logical argument with premises and a conclusion?"}
+{"topic": "logic", "q": "What are some common fallacies in logical reasoning?"}
+{"topic": "logic", "q": "Calculate the factorial of 6 for me."}
+{"topic": "logic", "q": "Rewrite this sentence: \"The quick brown fox jumps over the lazy dog\" using more formal language."}
+{"topic": "logic", "q": "Can you provide an example of a valid syllogism?"}
+{"topic": "logic", "q": "How would you implement a basic if-else statement in Python to check if a number is even or odd?"}
+{"topic": "logic", "q": "Explain the concept of logical conjunction and disjunction with examples."}
+{"topic": "astronomy", "q": "What is the distance from Earth to the nearest star?"}
+{"topic": "astronomy", "q": "How many planets are currently recognized in our solar system?"}
+{"topic": "astronomy", "q": "Explain the concept of redshift and how it relates to the expansion of the universe."}
+{"topic": "astronomy", "q": "Can you calculate the orbital period of Mars around the Sun?"}
+{"topic": "astronomy", "q": "Rewrite this sentence: \"The night sky looks beautiful with lots of stars.\""}
+{"topic": "astronomy", "q": "What is the difference between a galaxy and a star cluster?"}
+{"topic": "astronomy", "q": "How can I code a simple program to simulate a solar eclipse?"}
+{"topic": "astronomy", "q": "Calculate the average temperature on Jupiter."}
+{"topic": "astronomy", "q": "Explain why some stars appear brighter than others from Earth."}
+{"topic": "astronomy", "q": "Can you provide an example of a famous supernova remnant and its location in the sky?"}
+{"topic": "geography", "q": "What is the capital of France?"}
+{"topic": "geography", "q": "How many time zones does Russia have?"}
+{"topic": "geography", "q": "Explain the process of water cycle in geographical terms."}
+{"topic": "geography", "q": "Calculate the distance between New York and Los Angeles."}
+{"topic": "geography", "q": "Rewrite this sentence: \"The geography of Australia is very diverse.\""}
+{"topic": "geography", "q": "Can you provide an example of a country with a tropical climate?"}
+{"topic": "geography", "q": "List the five most populous countries in the world."}
+{"topic": "geography", "q": "What are the major mountain ranges in North America?"}
+{"topic": "geography", "q": "Translate \"Mount Everest is the highest peak in the world\" into Spanish."}
+{"topic": "geography", "q": "Code a function to calculate the area of a rectangle given its length and width."}
+{"topic": "topology", "q": "What is the difference between a topology and a geometry?"}
+{"topic": "topology", "q": "Can you calculate the Euler characteristic for a torus?"}
+{"topic": "topology", "q": "Explain how a mesh network uses topology to enhance reliability."}
+{"topic": "topology", "q": "How can I rewrite this sentence: \"The network's structure was topologically complex\"?"}
+{"topic": "topology", "q": "Provide an example of a real-world application where topological data analysis is used."}
+{"topic": "topology", "q": "What are the basic types of topologies in computer networks?"}
+{"topic": "topology", "q": "Can you help me code a function that checks if two graphs are isomorphic?"}
+{"topic": "topology", "q": "Rewrite this statement into simpler terms: \"A topology defines the arrangement of nodes and links in a network.\""}
+{"topic": "topology", "q": "How does the concept of connectedness apply to topological spaces?"}
+{"topic": "topology", "q": "Could you generate a Python script that visualizes a simple graph using Matplotlib?"}
+{"topic": "cryptography", "q": "What is symmetric key cryptography?"}
+{"topic": "cryptography", "q": "How many bits does AES-256 use for key length?"}
+{"topic": "cryptography", "q": "Explain the difference between RSA and ECC encryption."}
+{"topic": "cryptography", "q": "Can you calculate the SHA-256 hash of the word \"password\"?"}
+{"topic": "cryptography", "q": "What are some common uses of homomorphic encryption?"}
+{"topic": "cryptography", "q": "Could you provide a brief explanation of quantum cryptography?"}
+{"topic": "cryptography", "q": "Rewrite this sentence: \"The new cryptographic protocol enhances security.\""}
+{"topic": "cryptography", "q": "How many rounds does AES use for encryption with a 128-bit key?"}
+{"topic": "cryptography", "q": "Can you show me how to implement a basic Caesar cipher in Python?"}
+{"topic": "cryptography", "q": "What is the main purpose of hashing in cryptography?"}
+{"topic": "criminology", "q": "What is the definition of criminology?"}
+{"topic": "criminology", "q": "Can you calculate the average age of offenders in major crimes over the past decade?"}
+{"topic": "criminology", "q": "Explain the difference between white-collar crime and violent crime."}
+{"topic": "criminology", "q": "How many types of criminological theories are there, and can you name a few?"}
+{"topic": "criminology", "q": "What percentage of crimes go unsolved according to recent statistics?"}
+{"topic": "criminology", "q": "Rewrite this sentence: \"The study of criminal behavior is known as criminology.\""}
+{"topic": "criminology", "q": "Can you provide an example of how statistical analysis is used in criminology research?"}
+{"topic": "criminology", "q": "How does the concept of recidivism relate to criminological studies?"}
+{"topic": "criminology", "q": "What are some common methods used by criminologists to collect data?"}
+{"topic": "criminology", "q": "Could you write a Python function that calculates the frequency distribution of crime types in a dataset?"}
+{"topic": "forensic science", "q": "What is the difference between DNA profiling and DNA fingerprinting?"}
+{"topic": "forensic science", "q": "How many types of forensic science are there?"}
+{"topic": "forensic science", "q": "Can you calculate the time it takes for a body to cool down using the rule of thumb?"}
+{"topic": "forensic science", "q": "Explain how trace evidence can be used in criminal investigations."}
+{"topic": "forensic science", "q": "What are the main components of a forensic investigation process?"}
+{"topic": "forensic science", "q": "Could you rewrite this sentence: \"The crime scene was thoroughly examined by the forensic team\"?"}
+{"topic": "forensic science", "q": "How does infrared spectroscopy help in forensic science?"}
+{"topic": "forensic science", "q": "Can you provide an example of how digital forensics is used in solving crimes?"}
+{"topic": "forensic science", "q": "Calculate the probability of two people having the same blood type."}
+{"topic": "forensic science", "q": "Write a Python function to convert temperature from Fahrenheit to Celsius for forensic evidence storage temperatures."}
+{"topic": "linguistics", "q": "What is the difference between syntax and semantics in linguistics?"}
+{"topic": "linguistics", "q": "Can you calculate the average word length in Shakespeare's plays?"}
+{"topic": "linguistics", "q": "Explain the concept of phonetics in simple terms."}
+{"topic": "linguistics", "q": "How many languages are there in the world according to Ethnologue?"}
+{"topic": "linguistics", "q": "Could you rewrite this sentence: \"The cat sat on the mat,\" using more formal language?"}
+{"topic": "linguistics", "q": "What is the frequency of consonants and vowels in the English language?"}
+{"topic": "linguistics", "q": "Can you provide an example of a linguistic relativity principle in action?"}
+{"topic": "linguistics", "q": "How many languages use the Latin alphabet?"}
+{"topic": "linguistics", "q": "Rewrite this code to print the first 10 prime numbers: [Python code]"}
+{"topic": "linguistics", "q": "What are the main branches of linguistics?"}
+{"topic": "communication studies", "q": "What is the main focus of communication studies?"}
+{"topic": "communication studies", "q": "Can you calculate the average number of words in a tweet if the maximum length is 280 characters?"}
+{"topic": "communication studies", "q": "Explain the concept of semiotics in communication studies."}
+{"topic": "communication studies", "q": "How has social media changed interpersonal communication according to recent studies?"}
+{"topic": "communication studies", "q": "Could you rewrite this sentence: \"The effects of communication on relationships are profound\"?"}
+{"topic": "communication studies", "q": "What are the key components of non-verbal communication?"}
+{"topic": "communication studies", "q": "Can you provide an example of how feedback loops work in a communication context?"}
+{"topic": "communication studies", "q": "Calculate the percentage increase in global internet usage from 2010 to 2020."}
+{"topic": "communication studies", "q": "Could you explain the difference between verbal and non-verbal communication?"}
+{"topic": "communication studies", "q": "Rewrite this code snippet to calculate the average word length in a string:"}
+{"topic": "communication studies", "q": "total_length = sum(len(word) for word in words)"}
+{"topic": "communication studies", "q": "return total_length / len(words)"}
+{"topic": "sociology", "q": "What is the difference between primary and secondary data in sociology?"}
+{"topic": "sociology", "q": "How many sociologists are there globally as of 2023?"}
+{"topic": "sociology", "q": "Can you explain the concept of social stratification with examples?"}
+{"topic": "sociology", "q": "What is the average age range for a sociology student?"}
+{"topic": "sociology", "q": "Calculate the population density of a city with an area of 500 square kilometers and a population of 100,000."}
+{"topic": "sociology", "q": "How does the sociological imagination relate to personal troubles according to C. Wright Mills?"}
+{"topic": "sociology", "q": "Rewrite this sentence: \"Sociology is about studying society.\" to make it more engaging."}
+{"topic": "sociology", "q": "Could you provide a Python code snippet for calculating the Gini coefficient from a list of incomes?"}
+{"topic": "sociology", "q": "What are the main functions of a social institution like religion in society?"}
+{"topic": "sociology", "q": "Explain the concept of symbolic interactionism using examples from everyday life."}
+{"topic": "anthropology", "q": "What is the definition of cultural relativism in anthropology?"}
+{"topic": "anthropology", "q": "How many subfields does anthropology typically include?"}
+{"topic": "anthropology", "q": "Can you calculate the average age at marriage across different cultures?"}
+{"topic": "anthropology", "q": "Explain the concept of kinship systems in anthropological terms."}
+{"topic": "anthropology", "q": "Could you rewrite this sentence to be more formal: \"Anthropology studies humans and their behavior.\""}
+{"topic": "anthropology", "q": "What are some common fieldwork methods used by anthropologists?"}
+{"topic": "anthropology", "q": "How many years did it take for Margaret Mead to complete her research on Samoan adolescence?"}
+{"topic": "anthropology", "q": "Can you provide a code snippet to calculate the Gini coefficient from income data in Python?"}
+{"topic": "anthropology", "q": "What are the main differences between archaeology and physical anthropology?"}
+{"topic": "anthropology", "q": "Could you explain how linguistics contributes to our understanding of culture in anthropology?"}
+{"topic": "human rights", "q": "What is the Universal Declaration of Human Rights?"}
+{"topic": "human rights", "q": "How many articles are in the International Covenant on Civil and Political Rights?"}
+{"topic": "human rights", "q": "Can you calculate the percentage increase in global awareness of human rights from 2010 to 2020 based on available data?"}
+{"topic": "human rights", "q": "Explain the concept of non-discrimination in the context of human rights."}
+{"topic": "human rights", "q": "Could you rewrite this sentence: \"The right to education is a fundamental human right.\" into passive voice?"}
+{"topic": "human rights", "q": "How does the AI assistant calculate the number of countries that have ratified the Convention on the Rights of the Child?"}
+{"topic": "human rights", "q": "Can you provide an example of how economic, social, and cultural rights are implemented in practice?"}
+{"topic": "human rights", "q": "What is the difference between civil and political rights versus socio-economic rights?"}
+{"topic": "human rights", "q": "Could you code a simple program to display the first three articles of the Universal Declaration of Human Rights?"}
+{"topic": "human rights", "q": "How many countries have signed but not ratified the International Covenant on Economic, Social and Cultural Rights as of 2023?"}
+{"topic": "international relations", "q": "What is the current status of the United Nations Security Council?"}
+{"topic": "international relations", "q": "How many countries are members of the European Union as of 2023?"}
+{"topic": "international relations", "q": "Can you explain the concept of diplomatic immunity and its significance in international relations?"}
+{"topic": "international relations", "q": "What was the outcome of the Iran Nuclear Deal signed in 2015?"}
+{"topic": "international relations", "q": "Could you calculate the average GDP growth rate of the BRICS nations from 2010 to 2020?"}
+{"topic": "international relations", "q": "Explain the role of the International Court of Justice in resolving disputes between states."}
+{"topic": "international relations", "q": "How has China's Belt and Road Initiative impacted international trade relations?"}
+{"topic": "international relations", "q": "Rewrite this sentence: \"The United States and Russia are in a constant state of tension over nuclear weapons.\""}
+{"topic": "international relations", "q": "Can you provide a Python code snippet to plot the population growth of major countries from 1950 to 2020 using a bar chart?"}
+{"topic": "international relations", "q": "What are the main principles of the Non-Aligned Movement and how many member states does it currently have?"}
+{"topic": "politics", "q": "What is the current unemployment rate in the United States?"}
+{"topic": "politics", "q": "How many countries are members of the European Union?"}
+{"topic": "politics", "q": "Explain the concept of democratic socialism."}
+{"topic": "politics", "q": "Can you calculate the GDP growth rate for Japan from 2019 to 2020?"}
+{"topic": "politics", "q": "What was the outcome of the 2020 U.S. presidential election?"}
+{"topic": "politics", "q": "Rewrite this sentence: \"The politics of the region have been volatile.\""}
+{"topic": "politics", "q": "How many seats does the Green Party currently hold in the German Bundestag?"}
+{"topic": "politics", "q": "Could you provide an example of a non-democratic government system?"}
+{"topic": "politics", "q": "What is the difference between primary and general elections in the U.S.?"}
+{"topic": "politics", "q": "Can you write a Python function to calculate the average age of a list of politicians based on their birth years?"}
+{"topic": "law enforcement", "q": "What is the average response time for police departments in major U.S. cities?"}
+{"topic": "law enforcement", "q": "How many law enforcement officers are there in the United States?"}
+{"topic": "law enforcement", "q": "Can you explain the differences between a felony and a misdemeanor?"}
+{"topic": "law enforcement", "q": "What is the maximum fine for a traffic violation in New York City?"}
+{"topic": "law enforcement", "q": "Could you calculate the total number of arrests made by local law enforcement in 2021 if each department reported an average of 5,000 arrests per year?"}
+{"topic": "law enforcement", "q": "Explain the role of body cameras on police officers during patrols."}
+{"topic": "law enforcement", "q": "How does the Miranda warning work in criminal investigations?"}
+{"topic": "law enforcement", "q": "Rewrite this sentence: \"The police arrested the suspect without any evidence.\""}
+{"topic": "law enforcement", "q": "Can you provide a brief history of the FBI from its founding to present day?"}
+{"topic": "law enforcement", "q": "Write a Python function that calculates the average arrest rate per 10,000 residents for different cities."}
+{"topic": "firefighting", "q": "What is the average response time for firefighters in urban areas?"}
+{"topic": "firefighting", "q": "How many liters of water can a standard fire hose deliver per minute?"}
+{"topic": "firefighting", "q": "Explain the role of thermal imaging cameras in firefighting operations."}
+{"topic": "firefighting", "q": "Can you convert 120 volts to amps if the resistance is 10 ohms?"}
+{"topic": "firefighting", "q": "What are the three main types of fire extinguishers and their uses?"}
+{"topic": "firefighting", "q": "Rewrite this sentence: \"The firefighters bravely fought the blaze all night.\""}
+{"topic": "firefighting", "q": "Write a Python function that calculates the water pressure needed for a given flow rate."}
+{"topic": "firefighting", "q": "How do smoke detectors work to alert firefighters during a fire?"}
+{"topic": "firefighting", "q": "Can you provide an example of when a foam extinguisher would be used over another type?"}
+{"topic": "firefighting", "q": "Explain the difference between wet and dry chemical fire suppression methods."}
+{"topic": "paramedic", "q": "What is the average age of paramedics in the United States?"}
+{"topic": "paramedic", "q": "How many hours do paramedics typically work in a week?"}
+{"topic": "paramedic", "q": "Explain the difference between EMT and paramedic."}
+{"topic": "paramedic", "q": "Can you calculate the total distance covered by a paramedic who travels 15 miles per day for 6 days?"}
+{"topic": "paramedic", "q": "Rewrite this sentence: \"Paramedics are crucial first responders.\""}
+{"topic": "paramedic", "q": "What are the main responsibilities of a paramedic during an emergency?"}
+{"topic": "paramedic", "q": "How long does it typically take to become a licensed paramedic?"}
+{"topic": "paramedic", "q": "Could you provide a Python code snippet that calculates body mass index (BMI)?"}
+{"topic": "paramedic", "q": "Explain the process of triage in paramedic practice."}
+{"topic": "paramedic", "q": "Can you help me find the average salary of a paramedic in New York City?"}
+{"topic": "nutritionist", "q": "What is the difference between macronutrients and micronutrients?"}
+{"topic": "nutritionist", "q": "How many calories should I consume daily if I weigh 70 kg and am moderately active?"}
+{"topic": "nutritionist", "q": "Can you explain the role of fiber in a diet?"}
+{"topic": "nutritionist", "q": "Could you provide me with a list of foods high in calcium?"}
+{"topic": "nutritionist", "q": "What are some quick and healthy meal ideas for someone on a budget?"}
+{"topic": "nutritionist", "q": "How much water should I drink each day based on my weight?"}
+{"topic": "nutritionist", "q": "Can you help me calculate the total protein content if I mix 100g of chicken breast and 50g of quinoa?"}
+{"topic": "nutritionist", "q": "Explain the concept of a calorie deficit in weight loss."}
+{"topic": "nutritionist", "q": "What are some common symptoms of iron deficiency anemia, and how can diet help?"}
+{"topic": "nutritionist", "q": "Could you rewrite this sentence to make it more concise: \"Eating a balanced diet is essential for maintaining good health, as it provides all the necessary nutrients required by the body.\""}
+{"topic": "physical therapist", "q": "What is the average duration of a physical therapy session?"}
+{"topic": "physical therapist", "q": "How many calories can I expect to burn during 30 minutes of moderate-intensity physical therapy exercises?"}
+{"topic": "physical therapist", "q": "Can you explain the difference between passive and active range of motion in physical therapy?"}
+{"topic": "physical therapist", "q": "What are some common physical therapist tools used during sessions?"}
+{"topic": "physical therapist", "q": "Rewrite this sentence: \"The physical therapist recommended me to do more stretching.\""}
+{"topic": "physical therapist", "q": "Calculate the total number of hours a physical therapist might work in a week, given they work 8 hours a day for 5 days."}
+{"topic": "physical therapist", "q": "How does heat therapy benefit patients according to physical therapists?"}
+{"topic": "physical therapist", "q": "Can you provide an example of a physical therapy exercise routine for lower back pain relief?"}
+{"topic": "physical therapist", "q": "Explain how aquatic therapy can help in physical rehabilitation."}
+{"topic": "physical therapist", "q": "Could you write a Python function that calculates the number of weeks needed for a patient to complete 100 physical therapy sessions if they attend 2 sessions per week?"}
+{"topic": "occupational therapist", "q": "What is the average salary for an occupational therapist in the United States?"}
+{"topic": "occupational therapist", "q": "How many years of education are typically required to become an occupational therapist?"}
+{"topic": "occupational therapist", "q": "Can you explain the role of sensory integration therapy in occupational therapy?"}
+{"topic": "occupational therapist", "q": "What are some common tools or devices used by occupational therapists during sessions?"}
+{"topic": "occupational therapist", "q": "How much does a session with an occupational therapist usually cost on average?"}
+{"topic": "occupational therapist", "q": "Calculate the percentage increase in demand for occupational therapists from 2019 to 2029."}
+{"topic": "occupational therapist", "q": "Could you rewrite this sentence: \"Occupational therapists help patients improve their ability to perform daily activities.\""}
+{"topic": "occupational therapist", "q": "Please provide a Python code snippet that generates a random schedule for an occupational therapist's week."}
+{"topic": "occupational therapist", "q": "Explain the difference between an occupational therapist and a physical therapist in simple terms."}
+{"topic": "occupational therapist", "q": "What are some key skills required for an effective occupational therapist?"}
+{"topic": "speech therapist", "q": "What is the average duration of a speech therapy session?"}
+{"topic": "speech therapist", "q": "How many sessions are typically needed for mild stuttering improvement?"}
+{"topic": "speech therapist", "q": "Can you calculate the percentage increase in lung capacity after 12 weeks of speech therapy exercises?"}
+{"topic": "speech therapist", "q": "Explain how speech therapists use visual aids to help patients with articulation disorders."}
+{"topic": "speech therapist", "q": "Could you rewrite this sentence: \"The patient needs intensive speech therapy\"?"}
+{"topic": "speech therapist", "q": "How do speech therapists assess swallowing abilities in patients?"}
+{"topic": "speech therapist", "q": "What is the difference between a speech therapist and an audiologist?"}
+{"topic": "speech therapist", "q": "Can you provide a Python code snippet for generating random speech therapy exercises?"}
+{"topic": "speech therapist", "q": "How often should someone practice their speech therapy exercises outside of sessions?"}
+{"topic": "speech therapist", "q": "Could you explain the role of breathing techniques in speech therapy?"}
+{"topic": "dietitian", "q": "What is the average calorie intake for someone following a balanced diet?"}
+{"topic": "dietitian", "q": "How many grams of protein should I aim for daily if I weigh 70 kg and am moderately active?"}
+{"topic": "dietitian", "q": "Can you explain the difference between macronutrients and micronutrients in simple terms?"}
+{"topic": "dietitian", "q": "What are some quick and healthy snack options that a dietitian would recommend?"}
+{"topic": "dietitian", "q": "Could you calculate the total carbohydrate content of a meal consisting of 150g of rice, 100g of chicken breast, and a small salad?"}
+{"topic": "dietitian", "q": "How does hydration affect our overall health according to dietary guidelines?"}
+{"topic": "dietitian", "q": "Can you rewrite this sentence: \"I need to eat more fruits and vegetables for better nutrition\"?"}
+{"topic": "dietitian", "q": "What is the recommended daily intake of fiber for someone trying to improve their digestive health?"}
+{"topic": "dietitian", "q": "Could you provide an example code snippet in Python to log daily food intake?"}
+{"topic": "dietitian", "q": "How does a dietitian approach meal planning for individuals with diabetes?"}
+{"topic": "pharmacist", "q": "What is the average salary for a pharmacist in the United States?"}
+{"topic": "pharmacist", "q": "How many years of education are typically required to become a pharmacist?"}
+{"topic": "pharmacist", "q": "Can you explain the difference between a compounding and retail pharmacist?"}
+{"topic": "pharmacist", "q": "What is the typical work schedule for a hospital pharmacist?"}
+{"topic": "pharmacist", "q": "Could you calculate the total cost of 500 mg ibuprofen tablets if each costs $0.25?"}
+{"topic": "pharmacist", "q": "How do pharmacists ensure medication safety for patients with multiple prescriptions?"}
+{"topic": "pharmacist", "q": "Can you provide an example of how a pharmacist might interpret drug interactions in patient care?"}
+{"topic": "pharmacist", "q": "Rewrite this sentence: \"Pharmacists are the experts who dispense medications.\""}
+{"topic": "pharmacist", "q": "What programming language is commonly used by pharmacists to manage inventory systems?"}
+{"topic": "pharmacist", "q": "Could you write a function that calculates the daily dosage based on body weight and medication strength?"}
+{"topic": "psychologist", "q": "What is the average duration of a therapy session with a psychologist?"}
+{"topic": "psychologist", "q": "How many years of education does someone need to become a licensed psychologist?"}
+{"topic": "psychologist", "q": "Can you calculate the percentage increase in demand for psychologists from 2015 to 2023 based on given data points?"}
+{"topic": "psychologist", "q": "Explain the difference between a clinical psychologist and a counseling psychologist."}
+{"topic": "psychologist", "q": "Could you rewrite this sentence: \"The psychologist recommended daily exercise as part of my treatment plan\"?"}
+{"topic": "psychologist", "q": "How many sessions are typically required to see improvement in therapy, according to research?"}
+{"topic": "psychologist", "q": "What is the average salary for a clinical psychologist in the United States?"}
+{"topic": "psychologist", "q": "Can you provide an example of cognitive-behavioral therapy techniques used by psychologists?"}
+{"topic": "psychologist", "q": "Rewrite this paragraph using simpler language: \"The therapeutic alliance between the psychologist and client plays a critical role in the success of psychotherapy.\""}
+{"topic": "psychologist", "q": "How can I calculate the standard deviation of therapist ratings if I have a dataset with multiple ratings per therapist?"}
+{"topic": "social worker", "q": "What is the average salary for a social worker in the United States?"}
+{"topic": "social worker", "q": "How many years of education are required to become a licensed social worker?"}
+{"topic": "social worker", "q": "Can you explain the difference between a child welfare social worker and a mental health social worker?"}
+{"topic": "social worker", "q": "What are the top challenges faced by social workers today?"}
+{"topic": "social worker", "q": "Could you calculate the percentage increase in demand for social work services over the past decade?"}
+{"topic": "social worker", "q": "Explain the role of case management in social work practice."}
+{"topic": "social worker", "q": "How do I write a cover letter for a social work position?"}
+{"topic": "social worker", "q": "Can you provide an example of how to code a simple algorithm that tracks client caseloads?"}
+{"topic": "social worker", "q": "What are some key skills needed to be an effective social worker?"}
+{"topic": "social worker", "q": "Rewrite this sentence: \"Social workers help individuals and families navigate through various life challenges.\""}
+{"topic": "teacher", "q": "What is the average class size for a teacher in elementary schools?"}
+{"topic": "teacher", "q": "How many years of education are required to become a teacher in most countries?"}
+{"topic": "teacher", "q": "Can you calculate the total number of students if 5 teachers each have 28 students?"}
+{"topic": "teacher", "q": "Explain the difference between a mentor and a tutor in an educational context."}
+{"topic": "teacher", "q": "Could you rewrite this sentence: \"The teacher is very knowledgeable\" using a synonym for 'knowledgeable'?"}
+{"topic": "teacher", "q": "How many subjects can a typical high school teacher teach simultaneously?"}
+{"topic": "teacher", "q": "What is the formula to calculate student-teacher ratio, and how would I apply it if I have 150 students and 10 teachers?"}
+{"topic": "teacher", "q": "Can you provide examples of both traditional and modern teaching methods?"}
+{"topic": "teacher", "q": "Could you explain the role of a special education teacher compared to a regular classroom teacher?"}
+{"topic": "teacher", "q": "How do I write a function in Python that checks if a given string is 'teacher'?"}
+{"topic": "nurse", "q": "What is the average salary for a registered nurse in the United States?"}
+{"topic": "nurse", "q": "How many hours does a typical nurse work in a week?"}
+{"topic": "nurse", "q": "Can you explain the difference between a registered nurse and a licensed practical nurse?"}
+{"topic": "nurse", "q": "What are the top skills a nurse should have according to industry standards?"}
+{"topic": "nurse", "q": "How many patients can an average nurse typically care for at one time?"}
+{"topic": "nurse", "q": "Calculate the total number of hours in a 24-hour day if a nurse works 8-hour shifts."}
+{"topic": "nurse", "q": "Could you provide an example of a nurse's shift schedule for a week?"}
+{"topic": "nurse", "q": "Explain the process of becoming a licensed practical nurse, step by step."}
+{"topic": "nurse", "q": "Rewrite this sentence: \"The nurse is responsible for patient care.\" to make it more formal."}
+{"topic": "nurse", "q": "Can you write a Python function that calculates the number of days between two given dates?"}
+{"topic": "doctor", "q": "What is the average duration of a doctor's appointment?"}
+{"topic": "doctor", "q": "How many types of doctors are there in medicine?"}
+{"topic": "doctor", "q": "Can you explain the difference between a primary care physician and a specialist?"}
+{"topic": "doctor", "q": "What are the top three symptoms that might indicate a need to see a doctor immediately?"}
+{"topic": "doctor", "q": "If a doctor sees 15 patients per day, how many hours would they spend seeing patients assuming an average appointment lasts 30 minutes?"}
+{"topic": "doctor", "q": "Could you rewrite this sentence: \"The doctor prescribed me medicine for my cold.\" to make it more formal?"}
+{"topic": "doctor", "q": "How can I write a Python function that calculates the BMI given height in meters and weight in kilograms?"}
+{"topic": "doctor", "q": "What are some key skills a good doctor should have according to medical professionals?"}
+{"topic": "doctor", "q": "Can you explain how telemedicine works and its benefits compared to traditional in-person visits?"}
+{"topic": "doctor", "q": "How many hours of sleep does an average doctor get per night, based on studies?"}
+{"topic": "engineer", "q": "What is the difference between a mechanical engineer and an electrical engineer?"}
+{"topic": "engineer", "q": "How many hours of education are typically required to become a professional engineer?"}
+{"topic": "engineer", "q": "Can you explain Ohm's Law in simple terms?"}
+{"topic": "engineer", "q": "What is the formula for calculating the strength of materials in engineering?"}
+{"topic": "engineer", "q": "Could you rewrite this sentence: \"The engineer designed the bridge\"?"}
+{"topic": "engineer", "q": "Please provide an example of a Python function that calculates the area of a circle."}
+{"topic": "engineer", "q": "How does fluid dynamics apply to the design of aircraft engines?"}
+{"topic": "engineer", "q": "Explain the concept of stress-strain relationship in metals."}
+{"topic": "engineer", "q": "What are the main types of bridges, and which ones do engineers use most frequently?"}
+{"topic": "engineer", "q": "Can you show me how to calculate the power output of a simple machine given its efficiency and input work?"}
+{"topic": "architect", "q": "What is the difference between an architect and an engineer?"}
+{"topic": "architect", "q": "How many floors can a typical residential building designed by an architect have in the US?"}
+{"topic": "architect", "q": "Can you explain the role of a sustainability architect in modern construction projects?"}
+{"topic": "architect", "q": "What are some famous architectural styles throughout history?"}
+{"topic": "architect", "q": "Could you help me calculate the total area of a rectangular room that's 12 meters long and 8 meters wide?"}
+{"topic": "architect", "q": "How does an architect incorporate user experience into building design?"}
+{"topic": "architect", "q": "Rewrite this sentence: \"The architect designed the building with unique features.\""}
+{"topic": "architect", "q": "Please provide three examples of ancient architectural marvels."}
+{"topic": "architect", "q": "Can you explain how green roofs can contribute to sustainable architecture?"}
+{"topic": "architect", "q": "Could you write a Python function that calculates the volume of a cylinder given its radius and height?"}
+{"topic": "artist", "q": "What is the full name of Pablo Picasso?"}
+{"topic": "artist", "q": "How many paintings did Vincent van Gogh create in his lifetime?"}
+{"topic": "artist", "q": "Explain how impressionist artists differ from realist artists."}
+{"topic": "artist", "q": "Can you rewrite this sentence to make it more formal: \"The artist really loves painting.\""}
+{"topic": "artist", "q": "Calculate the total earnings if an artist sells 100 prints at $50 each and 50 sculptures at $200 each."}
+{"topic": "artist", "q": "What are some famous works by Frida Kahlo?"}
+{"topic": "artist", "q": "How did the digital art movement start in the 20th century?"}
+{"topic": "artist", "q": "Can you provide a Python code snippet to generate a random portrait image using a neural network?"}
+{"topic": "artist", "q": "List three major influences on Andy Warhol's artistic style."}
+{"topic": "artist", "q": "Explain the process of creating a digital painting, step by step."}
+{"topic": "chef", "q": "What is the difference between a chef and a head chef?"}
+{"topic": "chef", "q": "How many calories are in a typical chef's salad?"}
+{"topic": "chef", "q": "Can you explain the process of sautéing vegetables?"}
+{"topic": "chef", "q": "Could you rewrite this sentence: \"The chef prepared the meal quickly.\" to make it more formal?"}
+{"topic": "chef", "q": "What are some popular cooking techniques used by chefs?"}
+{"topic": "chef", "q": "How much does a professional chef earn on average per year?"}
+{"topic": "chef", "q": "Can you calculate the total cost if 50 chefs each buy a $20 ingredient?"}
+{"topic": "chef", "q": "Explain the role of a sous chef in a kitchen."}
+{"topic": "chef", "q": "Rewrite this recipe instruction: \"Season the meat with salt and pepper.\""}
+{"topic": "chef", "q": "What are some common knife cuts used by chefs?"}
+{"topic": "baker", "q": "What is the average height of a baker's oven?"}
+{"topic": "baker", "q": "How many calories are in a typical slice of cake baked by a professional?"}
+{"topic": "baker", "q": "Can you explain the process of making bread from start to finish?"}
+{"topic": "baker", "q": "What is the difference between a cake and a loaf of bread in baking terms?"}
+{"topic": "baker", "q": "Could you calculate the total sugar content if I add 200g of sugar for every 500g of flour?"}
+{"topic": "baker", "q": "How does kneading affect the texture of bread dough?"}
+{"topic": "baker", "q": "Can you rewrite this sentence: \"The baker was making cookies.\" to use past perfect tense?"}
+{"topic": "baker", "q": "Please provide a Python code snippet that generates a random baking recipe."}
+{"topic": "baker", "q": "What are some common ingredients used in baking that contain gluten?"}
+{"topic": "baker", "q": "Explain how fermentation affects the rise of bread."}
+{"topic": "barista", "q": "What is the average salary for a barista in the United States?"}
+{"topic": "barista", "q": "How many ounces are in a standard cup of coffee served by a barista?"}
+{"topic": "barista", "q": "Can you explain the difference between espresso and brewed coffee preparation methods?"}
+{"topic": "barista", "q": "What are some common latte art designs that a barista might create?"}
+{"topic": "barista", "q": "Calculate the tip amount if a customer orders 2 lattes at $3.50 each and leaves a 15% tip."}
+{"topic": "barista", "q": "Could you rewrite this sentence: \"The barista made a delicious cappuccino for me today.\" to make it more formal?"}
+{"topic": "barista", "q": "How would you code a simple program that calculates the total cost of a coffee order with tax included?"}
+{"topic": "barista", "q": "What are the primary responsibilities of a barista in a cafe setting?"}
+{"topic": "barista", "q": "Can you explain the process a barista follows when making an Americano?"}
+{"topic": "barista", "q": "Rewrite this recipe for a classic mocha into steps a barista could follow: mix 1 oz chocolate syrup, 4 oz hot milk, and 1 shot of espresso."}
+{"topic": "waiter", "q": "What is the average salary for a waiter in the United States?"}
+{"topic": "waiter", "q": "How many calories are in a typical restaurant waiter's uniform?"}
+{"topic": "waiter", "q": "Explain the difference between a busboy and a waiter."}
+{"topic": "waiter", "q": "Can you calculate the tip if the service charge is 15% on a $75 bill?"}
+{"topic": "waiter", "q": "What are some common tips for being an effective waiter?"}
+{"topic": "waiter", "q": "Rewrite this sentence: \"The waiter brought the food late.\""}
+{"topic": "waiter", "q": "How do you code a function that checks if a restaurant is open based on its hours?"}
+{"topic": "waiter", "q": "Can you explain the role of a sommelier in relation to waiters?"}
+{"topic": "waiter", "q": "What is the average tip percentage that waiters receive per meal?"}
+{"topic": "waiter", "q": "Show me how to calculate the total cost including tax and tip for a $40 bill with 8% tax and 20% tip."}
+{"topic": "bartender", "q": "What is the average tip percentage that bartenders expect in the United States?"}
+{"topic": "bartender", "q": "How many cocktails can a professional bartender make in an hour?"}
+{"topic": "bartender", "q": "Can you calculate the total cost of 3 Manhattan cocktails if each costs $8?"}
+{"topic": "bartender", "q": "Explain the difference between shaken and stirred cocktails."}
+{"topic": "bartender", "q": "Could you rewrite this sentence: \"The bartender mixed the ingredients well.\" to sound more formal?"}
+{"topic": "bartender", "q": "Write a Python function that generates a random cocktail name based on predefined lists of ingredients."}
+{"topic": "bartender", "q": "How does a bartender determine the appropriate ice-to-liquid ratio for a drink?"}
+{"topic": "bartender", "q": "What are some common techniques bartenders use to make drinks look visually appealing?"}
+{"topic": "bartender", "q": "Can you provide an example of how to adjust a recipe for a classic Martini to accommodate a guest with a preference for less gin?"}
+{"topic": "bartender", "q": "Calculate the total sales if a bartender sells 25 Margaritas at $5 each and 15 Mojitos at $4.50 each in one shift."}
+{"topic": "salesperson", "q": "What is the average salary for a salesperson in the technology industry?"}
+{"topic": "salesperson", "q": "How many sales calls should a typical salesperson make daily?"}
+{"topic": "salesperson", "q": "Can you calculate the commission if a salesperson earns 5% on $20,000 in sales?"}
+{"topic": "salesperson", "q": "Explain the difference between inside and outside sales."}
+{"topic": "salesperson", "q": "Could you rewrite this sentence: \"The sales team exceeded their targets by 10%\" to sound more formal?"}
+{"topic": "salesperson", "q": "How can I write a function that calculates total sales based on individual item prices and quantities sold?"}
+{"topic": "salesperson", "q": "What are the key skills a successful salesperson should possess?"}
+{"topic": "salesperson", "q": "Can you provide an example of a cold calling script for a salesperson?"}
+{"topic": "salesperson", "q": "How do performance metrics like MRR (Monthly Recurring Revenue) impact a salesperson's role?"}
+{"topic": "salesperson", "q": "Could you explain how CRM software helps salespeople manage their contacts and deals?"}
+{"topic": "customer service representative", "q": "What qualifications should a customer service representative have?"}
+{"topic": "customer service representative", "q": "How many hours of work experience does a typical customer service rep need?"}
+{"topic": "customer service representative", "q": "Can you calculate the average response time for a customer service ticket if 50 tickets were handled in 8 hours?"}
+{"topic": "customer service representative", "q": "Explain the role of active listening in customer service."}
+{"topic": "customer service representative", "q": "Could you rewrite this sentence: \"The customer service team resolved my issue promptly.\" to make it more formal?"}
+{"topic": "customer service representative", "q": "How do I code a basic chatbot response to acknowledge receipt of a customer's message?"}
+{"topic": "customer service representative", "q": "What are some common challenges faced by customer service representatives?"}
+{"topic": "customer service representative", "q": "Can you provide an example of a script for greeting a customer and addressing their inquiry effectively?"}
+{"topic": "customer service representative", "q": "What skills are essential for a customer service representative to handle complaints professionally?"}
+{"topic": "customer service representative", "q": "Could you show me how to integrate sentiment analysis into a chatbot to improve customer satisfaction ratings?"}
+{"topic": "manager", "q": "What are the key responsibilities of a project manager?"}
+{"topic": "manager", "q": "How many hours is 45 minutes in decimal form?"}
+{"topic": "manager", "q": "Explain the difference between a team leader and a manager."}
+{"topic": "manager", "q": "Can you convert the sentence \"The manager needs to review the budget\" into passive voice?"}
+{"topic": "manager", "q": "Calculate the average of 23, 45, and 67."}
+{"topic": "manager", "q": "What are some common challenges faced by managers in remote teams?"}
+{"topic": "manager", "q": "Rewrite the statement \"Managers should focus on employee development\" using more formal language."}
+{"topic": "manager", "q": "How many minutes are there in 3 hours and 15 minutes?"}
+{"topic": "manager", "q": "Can you provide a Python code snippet to calculate the number of days between two dates?"}
+{"topic": "manager", "q": "Explain the concept of delegation in management terms."}
+{"topic": "entrepreneur", "q": "What is the average age of entrepreneurs when they start their first business?"}
+{"topic": "entrepreneur", "q": "How many hours do successful entrepreneurs spend on planning versus executing their ideas?"}
+{"topic": "entrepreneur", "q": "Can you explain the difference between a startup and an established business in terms of resources?"}
+{"topic": "entrepreneur", "q": "What are some key metrics that investors look for in a startup pitch?"}
+{"topic": "entrepreneur", "q": "Could you calculate the total revenue if a product sells 500 units at $20 each, with a 10% discount applied?"}
+{"topic": "entrepreneur", "q": "How does diversification affect risk management in a small business portfolio?"}
+{"topic": "entrepreneur", "q": "Rewrite this sentence: \"Starting a business requires a lot of hard work and determination.\""}
+{"topic": "entrepreneur", "q": "What are some common challenges faced by entrepreneurs during the initial phase of their venture?"}
+{"topic": "entrepreneur", "q": "Can you provide an example of a successful entrepreneur who overcame significant adversity?"}
+{"topic": "entrepreneur", "q": "Could you write a Python function that calculates compound interest given principal, rate, time, and number of times interest is compounded per year?"}

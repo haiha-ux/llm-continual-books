@@ -3,9 +3,9 @@
 # (after the box cools) when the guard killed it.   tools/pipeline.sh   (log: logs/pipeline.log)
 cd "$(dirname "$0")/.."
 ok() { [ -e "$1" ] || return 1; case $1 in results/raw/*) grep -q '"complete": true' "$1" ;; esac; }
-step() {  # step OUTPUT_FILE cmd...   retry up to 6 times
+step() {  # step OUTPUT_FILE cmd...   retry up to 30 times, 4 min apart
   local out=$1; shift
-  for i in 1 2 3 4 5 6; do ok "$out" && return 0; echo "$(date '+%F %T') run: $*"; "$@"; ok "$out" && return 0; sleep 60; done
+  for i in $(seq 30); do ok "$out" && return 0; echo "$(date '+%F %T') run: $*"; "$@"; ok "$out" && return 0; sleep 240; done
   echo "$(date '+%F %T') GAVE UP: $*"; exit 1
 }
 until [ -f data/gen/book2_eval_rw.ok ]; do sleep 60; done          # teacher stage (launched separately) must be done

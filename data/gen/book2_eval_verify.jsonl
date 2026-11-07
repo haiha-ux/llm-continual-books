@@ -1,0 +1,597 @@
+{"pid": "b2p000", "q": "When did the expedition depart?", "a": "15th of June, 1869", "verify": "The expedition departed on June 15, 1869."}
+{"pid": "b2p000", "q": "Who was present at the departure?", "a": "His Majesty the King of Prussia", "verify": "His Majesty the King of Prussia, Grand Duke, Count Bismarck, von Roon, General Moltke, Vice-Admiral Jachman."}
+{"pid": "b2p000", "q": "What was the name of the king's representative?", "a": "Count Bismarck", "verify": "The king himself was the representative."}
+{"pid": "b2p000", "q": "Where did the ships lie at the start?", "a": "At the entrance of the new harbour just outside the sluice", "verify": "At the entrance of the new harbour."}
+{"pid": "b2p000", "q": "Who requested permission to speak?", "a": "Herr A. G. Mosle", "verify": "Herr A. G. Mosle requested."}
+{"pid": "b2p000", "q": "What was the name of the steam-tug towing the Germania?", "a": "Simson", "verify": "The Simson towed the Germania."}
+{"pid": "b2p000", "q": "How many ships were in the expedition?", "a": "Two", "verify": "Two ships: Germania and Hansa."}
+{"pid": "b2p000", "q": "What body of water did they enter first?", "a": "The Weser", "verify": "They entered the North Sea first."}
+{"pid": "b2p000", "q": "Who inspected the preparations?", "a": "His Majesty", "verify": "The king inspected the preparations."}
+{"pid": "b2p000", "q": "What was the weather like as they left?", "a": "A clear night", "verify": "First storm and fog as they departed."}
+{"pid": "b2p001", "q": "What was the name of the ship?", "a": "Hansa", "verify": "The Hansa"}
+{"pid": "b2p001", "q": "Who were two friends staying on board?", "a": "Mr. von Freeden, Professor Klinkerfues", "verify": "Mr. von Freeden and Professor Klinkerfues."}
+{"pid": "b2p001", "q": "Where did the lighthouse become visible as they sailed away?", "a": "From a long distance", "verify": "The lighthouse became visible as they passed flat green banks."}
+{"pid": "b2p001", "q": "What was in the cabin that surprised them?", "a": "A magnificent bouquet", "verify": "A magnificent bouquet with poetical words."}
+{"pid": "b2p001", "q": "Who left them after the tug stopped?", "a": "The pilot", "verify": "The pilot left them."}
+{"pid": "b2p001", "q": "How many sea-marks were mentioned by name?", "a": "1", "verify": "Flat green banks, lighthouse, \"Schlüsseltonne\"."}
+{"pid": "b2p001", "q": "What did they pass to leave the harbor behind?", "a": "Schlüsseltonne", "verify": "The \"Schlüsseltonne\" sea-mark."}
+{"pid": "b2p001", "q": "What broke, causing a bad augury for some?", "a": "towing cable", "verify": "The Hansa's towing cable broke."}
+{"pid": "b2p001", "q": "Who was not superstitious about the break in the towing cable?", "a": "Their community", "verify": "Our community was not superstitious."}
+{"pid": "b2p001", "q": "How did they leave their friends?", "a": "A hearty shake of the hand", "verify": "A boat came alongside; they took leave with handshakes."}
+{"pid": "b2p002", "q": "What ship had a small mainsail?", "a": "Germania", "verify": "The Germania had a small mainsail."}
+{"pid": "b2p002", "q": "How many captains met to consult?", "a": "two", "verify": "Two captains met to consult."}
+{"pid": "b2p002", "q": "At what hour did the gentlemen sit down for breakfast?", "a": "seven o'clock", "verify": "Punctually at seven o'clock."}
+{"pid": "b2p002", "q": "What was added to the usual breakfast of bread and butter?", "a": "cold meat", "verify": "Cold meat of some kind or other."}
+{"pid": "b2p002", "q": "When did they have their first meal together on the ship?", "a": "eight o'clock", "verify": "At eight o'clock, they had their first meal together."}
+{"pid": "b2p002", "q": "What landmark did they pass at midnight?", "a": "beacon off Heligoland", "verify": "They passed the beacon off Heligoland."}
+{"pid": "b2p002", "q": "How many smokers were there among the gentlemen?", "a": "three", "verify": "Three inveterate smokers."}
+{"pid": "b2p002", "q": "What was the agreed smoking time in the cabin?", "a": "from twelve until an hour before the evening meal", "verify": "From midnight until an hour before dinner."}
+{"pid": "b2p002", "q": "What could someone do if they wanted to smoke during the day but were not allowed in the cabin?", "a": "go on deck", "verify": "Go to the deck for smoking."}
+{"pid": "b2p002", "q": "How many hours of sleep did they aim for at night?", "a": "four", "verify": "Between ten and twelve o'clock."}
+{"pid": "b2p003", "q": "What was the duration of time when longer walks were missed?", "a": "In the first part of the time", "verify": "In the first part of the voyage."}
+{"pid": "b2p003", "q": "Who took part in the watches for a certain period?", "a": "Dr. Pansch", "verify": "Dr. Pansch took part."}
+{"pid": "b2p003", "q": "What did the wind direction change to on the second day?", "a": "north-west", "verify": "The wind veered to the north-west."}
+{"pid": "b2p003", "q": "How was the atmosphere inside the cabin described?", "a": "moist and vapoury", "verify": "Moist, vapoury due to newness."}
+{"pid": "b2p003", "q": "Why were doors and skylight kept shut?", "a": "on account of the sea", "verify": "To prevent sea water from entering."}
+{"pid": "b2p003", "q": "What made seasickness worse according to the passage?", "a": "newness of everything on board", "verify": "New smells mixed with moisture."}
+{"pid": "b2p003", "q": "How did the ship's seams affect the cabin?", "a": "water was constantly dropping into the cabin", "verify": "Water dropped into the cabin, making it moist."}
+{"pid": "b2p003", "q": "Who were some of the passengers who had never been near the sea before?", "a": "some of whom had come from the interior", "verify": "Some from interior had never smelt sea-water."}
+{"pid": "b2p003", "q": "What kind of food was described as very greasy?", "a": "the very greasy food", "verify": "Very greasy food on the ship."}
+{"pid": "b2p003", "q": "What happened to those lying on the leeward side in their berths?", "a": "were obliged every evening to prop it up with heaps of books", "verify": "They had to prop up the board with books."}
+{"pid": "b2p004", "q": "What ship was mentioned first?", "a": "Hansa", "verify": "The Hansa was mentioned first."}
+{"pid": "b2p004", "q": "On which date did they try their machinery?", "a": "19th", "verify": "On the 19th."}
+{"pid": "b2p004", "q": "How many nautical miles did they travel on the 19th?", "a": "88", "verify": "About eighty-eight nautical miles."}
+{"pid": "b2p004", "q": "What direction was the breeze from on the 19th?", "a": "north-east", "verify": "From the north."}
+{"pid": "b2p004", "q": "What was the steam pressure used to tow the Hansa?", "a": "forty pounds", "verify": "Forty pounds蒸汽压力为四十磅。"}
+{"pid": "b2p004", "q": "How many knots did they manage to tow the Hansa at?", "a": "two and a half", "verify": "Two and a half knots against the breeze."}
+{"pid": "b2p004", "q": "What kind of weather did they have on the 19th?", "a": "calm with fine weather", "verify": "Calm with fine weather, slight sea-roll."}
+{"pid": "b2p004", "q": "Which direction was the sea-roll from on the 19th?", "a": "north", "verify": "From north to windward."}
+{"pid": "b2p004", "q": "How many days of north-west wind followed?", "a": "more than a week", "verify": "More than a week of north-west wind."}
+{"pid": "b2p004", "q": "What did Dr. Pansch say about the delay?", "a": "we thoroughly learnt all the qualities of our vessel", "verify": "They thoroughly learnt all the qualities of their vessel."}
+{"pid": "b2p005", "q": "What was the name of the ship behind the Hansa?", "a": "The Hansa", "verify": "The Hansa in this respect was far behind us."}
+{"pid": "b2p005", "q": "How many degrees north latitude did they come to on June 26th?", "a": "57° N.L.", "verify": "57° N.L."}
+{"pid": "b2p005", "q": "What kind of vessel did they encounter on June 26th?", "a": "fishing-smack", "verify": "A small fishing-smack."}
+{"pid": "b2p005", "q": "What was the name of the doctor on board?", "a": "Dr. Pansch", "verify": "Dr. Pansch was the doctor."}
+{"pid": "b2p005", "q": "What items did the fishermen bring back as payment for the doctor's services?", "a": "second basketful of fish", "verify": "A second basketful of fish."}
+{"pid": "b2p005", "q": "What were the names of the types of fish mentioned in the passage?", "a": "turbot and soles", "verify": "turbot and soles."}
+{"pid": "b2p005", "q": "How many degrees east longitude was their position on June 26th?", "a": "2° 43′ E.L.", "verify": "2° 43′ E.L."}
+{"pid": "b2p005", "q": "What did the Dutchmen think the expedition was doing?", "a": "whale-fishers", "verify": "They thought it was whale-fishing."}
+{"pid": "b2p005", "q": "What did the Dutchmen call the ship's captain when they were well-disposed?", "a": "worthy old Dutchman", "verify": "They called him \"worthy old Dutchman.\""}
+{"pid": "b2p005", "q": "Where did the captain enter his meeting with the Germania according to the passage?", "a": "_Shipping News_", "verify": "in the _Shipping News_"}
+{"pid": "b2p006", "q": "What was Captain Hegemann's ship called?", "a": "Hansa", "verify": "Captain Hegemann's ship was called Hansa."}
+{"pid": "b2p006", "q": "Who joined the narrator on board?", "a": "Captain Hegemann and Dr. Laube", "verify": "Captain Hegemann and Dr. Laube joined."}
+{"pid": "b2p006", "q": "Where did Mr. Sengstacke go?", "a": "to the Hansa", "verify": "Mr. Sengstacke went over to the Hansa."}
+{"pid": "b2p006", "q": "What did Dr. Pansch write about seeing from another ship?", "a": "Germania under sail", "verify": "Saw Germania's unique build and space."}
+{"pid": "b2p006", "q": "How many people were in Dr. Buchholz's cabin?", "a": "five", "verify": "Five people were in his cabin."}
+{"pid": "b2p006", "q": "What was special about the deck-space on the Hansa?", "a": "not encroached upon by stores", "verify": "Not encroached upon by stores, offered accommodation for work."}
+{"pid": "b2p006", "q": "What did they agree to do regarding their future work?", "a": "carrying out of our future work amongst the ice Fauna", "verify": "They agreed on attacking ice Fauna together."}
+{"pid": "b2p006", "q": "How were the cigars on board the Hansa affected by the storm?", "a": "made too intimate an acquaintance with sea-water", "verify": "Cigars made intimate acquaintance with sea-water."}
+{"pid": "b2p006", "q": "What did everyone try to do at noon?", "a": "dry all their wet things", "verify": "Everyone tried to dry wet things."}
+{"pid": "b2p006", "q": "Who was the captain of the Germania?", "a": "Captain Hegemann", "verify": "Captain Hegemann was the captain of the Germania."}
+{"pid": "b2p007", "q": "What was the duration of the last storm?", "a": "two-days’", "verify": "The last storm ended on the 28th of June."}
+{"pid": "b2p007", "q": "At what latitude did the influence of the north wind end?", "a": "59° N.L.", "verify": "Upon nearing 59° N.L."}
+{"pid": "b2p007", "q": "On which date did the last storm end?", "a": "28th of June", "verify": "The last storm ended on June 28th."}
+{"pid": "b2p007", "q": "What was the temperature when a fog rose about noon?", "a": "50° F. ", "verify": "As long as the temperature stood at 50° F."}
+{"pid": "b2p007", "q": "How long had they been on this voyage by July 1st?", "a": "sixteen days", "verify": "They had been on the voyage for about sixteen days."}
+{"pid": "b2p007", "q": "Which ship is mentioned in the passage?", "a": "Hansa", "verify": "The Hansa is mentioned."}
+{"pid": "b2p007", "q": "In which direction did the Norwegian coast run?", "a": "north-east", "verify": "Norwegian coast ran somewhat to the north-east."}
+{"pid": "b2p007", "q": "What was the weather like when they opened and aired every place on June 29th?", "a": "clear, warm day", "verify": "Clear, warm day with no fog."}
+{"pid": "b2p007", "q": "How long did each ship blow the fog-horn alternately?", "a": "sixteen hours", "verify": "for sixteen hours"}
+{"pid": "b2p007", "q": "What body of water were they entering by July 1st?", "a": "open sea", "verify": "They entered the open sea by July 1st."}
+{"pid": "b2p008", "q": "What was the latitude they reached?", "a": "Drontheim", "verify": "They reached the latitude of Drontheim."}
+{"pid": "b2p008", "q": "When did the sun set on July 1st?", "a": "about a quarter past ten", "verify": "About a quarter past ten."}
+{"pid": "b2p008", "q": "How many toed were the sea-gulls?", "a": "three-toed", "verify": "Three-toed sea-gull."}
+{"pid": "b2p008", "q": "What is the scientific name of the three-toed sea-gull?", "a": "Larus tridactylus", "verify": "Larus tridactylus"}
+{"pid": "b2p008", "q": "What did the gulls do in the dead-water?", "a": "spying for prey", "verify": "They spied for prey in the dead-water."}
+{"pid": "b2p008", "q": "How many robbers chased the small gull?", "a": "three", "verify": "One robber chased the small gull."}
+{"pid": "b2p008", "q": "What is the scientific name of the robber gull?", "a": "Lestris", "verify": "Lestris"}
+{"pid": "b2p008", "q": "How did the robber gull catch its prey?", "a": "darts swiftly down", "verify": "Darted down, caught flying gull, seized fish."}
+{"pid": "b2p008", "q": "What did the small gull drop when it opened its beak?", "a": "the booty", "verify": "The little fish fell out."}
+{"pid": "b2p008", "q": "What was the color of the tips of the robber gull's wings?", "a": "jet black", "verify": "jet black"}
+{"pid": "b2p009", "q": "What bird did Dr. Copeland shoot?", "a": "gulls", "verify": "Dr. Copeland shot a gull."}
+{"pid": "b2p009", "q": "On what date did this event occur?", "a": "4th of July", "verify": "The 4th of July."}
+{"pid": "b2p009", "q": "What was the temperature of the water in Fahrenheit?", "a": "47½° F", "verify": "47½° F"}
+{"pid": "b2p009", "q": "Who jumped into the water without thinking?", "a": "sailor", "verify": "A sailor dressed into the water."}
+{"pid": "b2p009", "q": "What was thrown out to help the sailor?", "a": "life-buoy", "verify": "The life-buoy was thrown out."}
+{"pid": "b2p009", "q": "Who called together the rest of the watch?", "a": "Mr. Tramnitz", "verify": "Mr. Tramnitz had called together."}
+{"pid": "b2p009", "q": "How many men climbed into the boat?", "a": "two", "verify": "Two men climbed into the boat."}
+{"pid": "b2p009", "q": "What did Dr. Copeland use to cut the ropes?", "a": "knife", "verify": "Another man used a knife."}
+{"pid": "b2p009", "q": "What was the name of the ship?", "a": "Germania", "verify": "The ship was Germania."}
+{"pid": "b2p009", "q": "What kind of bird is mentioned at the beginning?", "a": "stormy petrel", "verify": "Stormy petrel or Mother Carey's Chicken."}
+{"pid": "b2p010", "q": "What was the name of the bird involved in the incident?", "a": "gull", "verify": "The gull or _corpus delicti_."}
+{"pid": "b2p010", "q": "How long might the dolphins be seen above water?", "a": "three to half-a-dozen times", "verify": "From three to half-a-dozen times."}
+{"pid": "b2p010", "q": "What is another name for 'Nordkaper'?", "a": "Killer", "verify": "Killer, Whale-catcher."}
+{"pid": "b2p010", "q": "Which month did the zoologist take a drawing of the dolphin's back?", "a": "July", "verify": "In July, our zoologist took a drawing."}
+{"pid": "b2p010", "q": "How long might the dolphins be when fully grown?", "a": "twenty-five feet", "verify": "Sometimes twenty-five feet long."}
+{"pid": "b2p010", "q": "What is the name of the captain who gave the lecture?", "a": "captain", "verify": "The captain gave the lecture."}
+{"pid": "b2p010", "q": "What did they lose in the boat?", "a": "basket containing flower bulbs", "verify": "They lost a basket of flower bulbs."}
+{"pid": "b2p010", "q": "Who took charge of the gull?", "a": "doctor", "verify": "The doctor took the gull."}
+{"pid": "b2p010", "q": "How many feet long was the back-fin of the dolphin?", "a": "long", "verify": "The back-fin is sometimes twenty-five feet long."}
+{"pid": "b2p010", "q": "What is another name for 'sword fish'?", "a": "Nordkaper", "verify": "Killer or Nordkaper."}
+{"pid": "b2p011", "q": "What date did they observe dolphins?", "a": "10th of July", "verify": "10th of July"}
+{"pid": "b2p011", "q": "How many dolphins did they see?", "a": "three or four", "verify": "Three or four dolphins."}
+{"pid": "b2p011", "q": "What kind of fin do these dolphins lack?", "a": "upright back-fin", "verify": "Without any upright back-fin."}
+{"pid": "b2p011", "q": "How long were the dolphins observed to be?", "a": "fifteen feet long", "verify": "For a day, specifically July 10th."}
+{"pid": "b2p011", "q": "What did the shots from man disturb?", "a": "the dolphins", "verify": "The shots disturbed the dolphins."}
+{"pid": "b2p011", "q": "In which degree north latitude was 65 fathoms recorded?", "a": "60° 45′ North lat.", "verify": "60° 45′ North lat."}
+{"pid": "b2p011", "q": "On what date was 700 fathoms recorded?", "a": "7th of July", "verify": "7th of July, 700 fathoms."}
+{"pid": "b2p011", "q": "What was the temperature taken daily?", "a": "daily", "verify": "The temperature of the sea was taken daily."}
+{"pid": "b2p011", "q": "What did they see in the distance on July 4th?", "a": "some rorquals", "verify": "They saw blowing rorquals in the distance."}
+{"pid": "b2p011", "q": "What kind of calm weather did they experience on July 4th?", "a": "that sort of calm", "verify": "Calm with gusty breezes, disagreeable to sailors."}
+{"pid": "b2p012", "q": "What was the name of the ship that was far astern?", "a": "The Hansa", "verify": "The Hansa was far astern."}
+{"pid": "b2p012", "q": "Who approached in a whale-boat?", "a": "Captain Hegemann’s men", "verify": "Captain Hegemann's party approached in a whale-boat."}
+{"pid": "b2p012", "q": "How many people boarded the ship from the whale-boat?", "a": "Four", "verify": "Messrs. Hegemann, Hildebrandt, Buchholz, and Laube."}
+{"pid": "b2p012", "q": "What did they catch during their hunting party?", "a": "Some gulls", "verify": "They caught some gulls."}
+{"pid": "b2p012", "q": "Which direction did the ship take after setting sail?", "a": "Nor’-nor’-westerly course", "verify": "She took a nor’-nor’-westerly course."}
+{"pid": "b2p012", "q": "To which island was the ship heading?", "a": "The island of Jan Mayen", "verify": "To the island of Jan Mayen."}
+{"pid": "b2p012", "q": "On what date did they pass the Arctic circle?", "a": "5th of July", "verify": "On July 5th, at fifty minutes past eleven."}
+{"pid": "b2p012", "q": "At what time did they pass the Arctic circle?", "a": "Eleven fifty minutes past eleven", "verify": "At eleven past five minutes on July 5th."}
+{"pid": "b2p012", "q": "How many degrees north did they make each day?", "a": "Two degrees N.", "verify": "They made two degrees N. each day."}
+{"pid": "b2p012", "q": "What was the speed of their ship in knots?", "a": "Nine knots", "verify": "The ship's speed was nine knots."}
+{"pid": "b2p013", "q": "Who carried out the christening with great earnestness?", "a": "Peter Iversen and Peter Ellinger", "verify": "Peter Iversen and Peter Ellinger."}
+{"pid": "b2p013", "q": "What ship had a more scrupulous proceeding?", "a": "Hansa", "verify": "The Hansa had a more scrupulous proceeding."}
+{"pid": "b2p013", "q": "Who asked 'Any green hands on board'?", "a": "Neptune", "verify": "Neptune asked 'Any green hands on board'."}
+{"pid": "b2p013", "q": "Which captain was questioned about green hands?", "a": "Captain Hegemann", "verify": "Captain Hegemann was questioned."}
+{"pid": "b2p013", "q": "How many people were examined by Neptune?", "a": "4", "verify": "Drs. Buchholz and Laube, sailors Max Schmidt and Konrad Gierke."}
+{"pid": "b2p013", "q": "What did Dr. Laube say about the sailors?", "a": "decent fellows", "verify": "Dr. Laube thought sailors were decent fellows."}
+{"pid": "b2p013", "q": "Where did Drs. Buchholz and Laube enter on the ship's books?", "a": "Bremen", "verify": "In Bremen, according to the passage."}
+{"pid": "b2p013", "q": "Who went about with a sly, laughing face all day?", "a": "The carpenter", "verify": "The carpenter went about with a sly, laughing face."}
+{"pid": "b2p013", "q": "What was Neptune's first attire?", "a": "Esquimaux’s dress", "verify": "Neptune wore an Esquimaux's dress."}
+{"pid": "b2p013", "q": "How did Neptune christen Dr. Laube?", "a": "throat and stomach", "verify": "Neptune soaped, shaved and splashed water on Dr. Laube's throat and stomach."}
+{"pid": "b2p014", "q": "What ceremony was brought to a close?", "a": "Universal grog on board both ships.", "verify": "Universal grog on board both ships."}
+{"pid": "b2p014", "q": "Which island did they see on July 9th?", "a": "the island of Jan Mayen.", "verify": "The island of Jan Mayen."}
+{"pid": "b2p014", "q": "When could they read and write without a lamp in the cabin?", "a": "at twelve o'clock at night.", "verify": "When midnight hours grew lighter."}
+{"pid": "b2p014", "q": "What was the duration of the midnight sun spectacle?", "a": "short duration.", "verify": "The spectacle lasted just one night."}
+{"pid": "b2p014", "q": "What fell suddenly on July 6th to 7th?", "a": "a sudden fall, as shown by our table of daily temperatures.", "verify": "Snowfell suddenly on July 6th to 7th."}
+{"pid": "b2p014", "q": "What began its rule of terror on July 8th?", "a": "the fog.", "verify": "Fog began its rule of terror."}
+{"pid": "b2p014", "q": "How long did they suffer from the fog?", "a": "for four weeks.", "verify": "For four weeks until landing."}
+{"pid": "b2p014", "q": "Which bird was well-known in the icy sea?", "a": "the Auk.", "verify": "The Auk was well-known."}
+{"pid": "b2p014", "q": "What is another name for the Mallemock?", "a": "peculiar bird called the Mallemock.", "verify": "The Mallemock is also called the grey petrel."}
+{"pid": "b2p015", "q": "What was the expedition's main task?", "a": "to follow the coast of East Greenland as far as possible to the north", "verify": "To follow East Greenland's coast northward."}
+{"pid": "b2p015", "q": "How often was the temperature of surface water taken during the voyage?", "a": "every two hours", "verify": "Every two hours."}
+{"pid": "b2p015", "q": "When did soundings begin to be taken every six hours?", "a": "not specified in passage", "verify": "Soundings were taken every six hours from the start."}
+{"pid": "b2p015", "q": "What were Drs. Börgen and Copeland studying?", "a": "quantity of salt in sea water", "verify": "They studied salt content in surface and deep waters."}
+{"pid": "b2p015", "q": "How many times per day was the temperature of greater depths measured after July 1st?", "a": "four times", "verify": "Four times every day."}
+{"pid": "b2p015", "q": "What is another name for the Gulf Stream mentioned?", "a": "warm (so called) Gulf Stream", "verify": "so called Warm Current"}
+{"pid": "b2p015", "q": "What color did the sea appear to be when they left the North Sea?", "a": "beautiful blueness", "verify": "The sea appeared beautiful bluish."}
+{"pid": "b2p015", "q": "How many colors did the sea change from in that part of the ocean?", "a": "seven", "verify": "Dirty blue to clear green."}
+{"pid": "b2p015", "q": "Did they find sharp limits between green and blue water?", "a": "no", "verify": "They never met with sharp limits between green and blue water."}
+{"pid": "b2p015", "q": "What was the relationship between temperature and color of the water according to the passage?", "a": "blue water was warmer", "verify": "Blue water was warmer, colors changed continually."}
+{"pid": "b2p016", "q": "What was the temperature on July 6th at noon?", "a": "42.12° Fahr.", "verify": "42.12° Fahr."}
+{"pid": "b2p016", "q": "How many degrees lower was the temperature on July 7th at noon compared to July 6th?", "a": "2", "verify": "Two degrees lower."}
+{"pid": "b2p016", "q": "At what distance from the ice did they first find a temperature of zero in May, 1868?", "a": "200 miles", "verify": "200 nautical miles distant."}
+{"pid": "b2p016", "q": "What did they use to observe surface currents?", "a": "corked bottles", "verify": "They threw out corked bottles with papers inside."}
+{"pid": "b2p016", "q": "How deep were the soundings on July 2nd?", "a": "80 fathoms", "verify": "180 fathoms (2nd July)."}
+{"pid": "b2p016", "q": "On which date did they record a depth of 1066 fathoms?", "a": "7th of July", "verify": "On the 7th of July."}
+{"pid": "b2p016", "q": "What kind of net did Dr. Pansch construct?", "a": "bag-shaped net", "verify": "A bag-shaped net with boards."}
+{"pid": "b2p016", "q": "Where was the bag-shaped net fastened on the ship?", "a": "to the hind part", "verify": "To the hind part of the ship on the leeside."}
+{"pid": "b2p016", "q": "What were some characteristics of the Calanus hyperboraeus?", "a": "white transparent bodies, articulated red-tipped tails, long fine beautiful red feelers", "verify": "White transparent bodies, red-tipped tails, long fine feelers."}
+{"pid": "b2p016", "q": "What did the Themisto libellula have?", "a": "great oval-shaped black eyes", "verify": "Great oval-shaped black eyes."}
+{"pid": "b2p017", "q": "What was the name of the expedition's ship?", "a": "Hansa", "verify": "The Hansa."}
+{"pid": "b2p017", "q": "On which date did they sight Jan Mayen?", "a": "9th of July", "verify": "The 9th of July."}
+{"pid": "b2p017", "q": "How far eastward from Jan Mayen did the Hansa pass it?", "a": "one and a half German miles", "verify": "The Hansa passed about one and a half German miles to the eastward."}
+{"pid": "b2p017", "q": "What was the name of the highest point on Jan Mayen?", "a": "Beerenberg", "verify": "Beerenberg."}
+{"pid": "b2p017", "q": "Which side of Jan Mayen had thick fog and windward sea-roll?", "a": "eastern side", "verify": "Eastern side of the island."}
+{"pid": "b2p017", "q": "How far away did they see a stretch of coast?", "a": "some miles’ distance", "verify": "At some miles’ distance."}
+{"pid": "b2p017", "q": "What time of day did the fog lift slightly?", "a": "just before breakfast", "verify": "Just before breakfast, the fog lifted."}
+{"pid": "b2p017", "q": "Which direction was the foot of Beerenberg located?", "a": "north-east side", "verify": "The north-east side of the island."}
+{"pid": "b2p017", "q": "What kind of rocks were interspersed with glacier ice?", "a": "dark rocks", "verify": "Dark rocks with long stripes of glacier ice."}
+{"pid": "b2p017", "q": "How did the general appearance of Jan Mayen look due to fog?", "a": "weird", "verify": "Indistinct, misty, weird look."}
+{"pid": "b2p018", "q": "What year did a Dutchman discover Jan Mayen?", "a": "1611", "verify": "1611."}
+{"pid": "b2p018", "q": "How far is Jan Mayen from Greenland's coast?", "a": "about sixty geographical miles", "verify": "About sixty geographical miles."}
+{"pid": "b2p018", "q": "What is the length of Jan Mayen in miles?", "a": "nine miles", "verify": "Nine miles in length."}
+{"pid": "b2p018", "q": "Who reported an eruption on Jan Mayen in 1732?", "a": "Burgomaster Anderson", "verify": "Burgomaster Anderson of Hamburg reported it."}
+{"pid": "b2p018", "q": "In which year did Scoresby see smoke from a volcano?", "a": "1818", "verify": "Scoresby saw smoke in 1818."}
+{"pid": "b2p018", "q": "How much oil did one ship bring home in 1612-1640?", "a": "196,000 gallons", "verify": "196,000 gallons of oil."}
+{"pid": "b2p018", "q": "Who tried to colonize Jan Mayen in 1633–34?", "a": "seven Dutch sailors", "verify": "Seven Dutch sailors attempted colonization."}
+{"pid": "b2p018", "q": "What disease broke out among the settlers?", "a": "scurvy", "verify": "Scurvy broke out among them."}
+{"pid": "b2p018", "q": "How many days did the settlers' diary last?", "a": "30th", "verify": "The diary ended with the 30th."}
+{"pid": "b2p018", "q": "When did the Dutch fleet arrive to find the settlers dead?", "a": "4th of June", "verify": "On the 4th of June."}
+{"pid": "b2p019", "q": "When did Scoresby visit Jan Mayen?", "a": "August, 1817", "verify": "Scoresby visited in August 1817."}
+{"pid": "b2p019", "q": "Who landed on Jan Mayen in 1856?", "a": "Lord Dufferin", "verify": "Lord Dufferin landed in 1856."}
+{"pid": "b2p019", "q": "How long could Lord Dufferin stay on Jan Mayen in 1856?", "a": "one hour", "verify": "Lord Dufferin stayed one hour."}
+{"pid": "b2p019", "q": "Who undertook the expedition in 1861?", "a": "Dr. Berna, of Frankfort", "verify": "Dr. Berna of Frankfort undertook it."}
+{"pid": "b2p019", "q": "What did Karl Vogt describe Dr. Berna's expedition as?", "a": "one of those interested in the “Arctic Expedition”", "verify": "One of those interested in the \"Arctic Expedition.\""}
+{"pid": "b2p019", "q": "How many days did they stay on Jan Mayen in 1861?", "a": "two days", "verify": "They stayed two days."}
+{"pid": "b2p019", "q": "When did the author's landing attempt fail?", "a": "1869", "verify": "In 1869, due to fog."}
+{"pid": "b2p019", "q": "What direction did the ships sail to go around Jan Mayen?", "a": "east-south-easterly direction", "verify": "They sailed east-south-easterly then northwards."}
+{"pid": "b2p019", "q": "How thick was the fog during the 1869 expedition?", "a": "continually getting thicker", "verify": "Our ships could scarcely see each other."}
+{"pid": "b2p019", "q": "What temperature was it when they sailed in 1869?", "a": "about 2½ degrees warmer", "verify": "It was about 2½ degrees warmer."}
+{"pid": "b2p020", "q": "What is the name of the place where they last saw land?", "a": "Eutin", "verify": "Eutin"}
+{"pid": "b2p020", "q": "How many types of birds are mentioned flying before the ship?", "a": "2", "verify": "Auks or divers."}
+{"pid": "b2p020", "q": "What weather phenomenon causes the ship to swing?", "a": "Heavy shower", "verify": "A fresh cold breeze causes it."}
+{"pid": "b2p020", "q": "What kind of clothes do people wear on deck?", "a": "Oilskin", "verify": "High boots, oilskin clothes, sou'westers."}
+{"pid": "b2p020", "q": "What time of year is being contrasted with the current conditions?", "a": "Summer", "verify": "Summer day at Eutin contrasting with Arctic fog."}
+{"pid": "b2p020", "q": "How does the passage describe the masts?", "a": "Swaying", "verify": "The swaying masts bring comfortless impression."}
+{"pid": "b2p020", "q": "What natural phenomenon is compared to a fogbow?", "a": "Sun", "verify": "It is seldom so far visible as to afford us an observation for latitude."}
+{"pid": "b2p020", "q": "What are the sailors wearing on their heads?", "a": "Sou'westers", "verify": "serviceable sou'westers"}
+{"pid": "b2p020", "q": "What emotion do people experience when thinking of home?", "a": "Comfortless", "verify": "Remembrance brings vivid thoughts of home."}
+{"pid": "b2p020", "q": "How does the passage describe the moon rising?", "a": "Dark red", "verify": "The dark red moon rises over distant woods."}
+{"pid": "b2p021", "q": "What expedition's work did they study?", "a": "Scoresby’s works", "verify": "Scoresby’s works, Swedish Expedition."}
+{"pid": "b2p021", "q": "Which ship were they separated from?", "a": "Hansa", "verify": "They were separated from the sister-ship Hansa."}
+{"pid": "b2p021", "q": "On what date did the rye-bread disappear?", "a": "8th of July", "verify": "The rye-bread disappeared on July 8th."}
+{"pid": "b2p021", "q": "What was their water restriction?", "a": "one glassful daily", "verify": "They could have one glassful daily for washing."}
+{"pid": "b2p021", "q": "What temperature rose to on one occasion?", "a": "39½°", "verify": "39½° Fahr."}
+{"pid": "b2p021", "q": "How many days passed with foggy weather?", "a": "five days", "verify": "Day after day passed with fog."}
+{"pid": "b2p021", "q": "What was the lowest temperature recorded?", "a": "33.80°", "verify": "33.80°F"}
+{"pid": "b2p021", "q": "What did they use for navigation in thick nights?", "a": "compass", "verify": "They used compass on open sea."}
+{"pid": "b2p021", "q": "Who fired a cannon-shot to greet them?", "a": "sister-ship", "verify": "The sister-ship fired the cannon-shot."}
+{"pid": "b2p021", "q": "How much had their water store decreased?", "a": "greatly", "verify": "Their water store had greatly decreased."}
+{"pid": "b2p022", "q": "What type of seal preponderated in the bird world?", "a": "stormy petrel", "verify": "The stormy petrel preponderated."}
+{"pid": "b2p022", "q": "Which species of seal is mentioned by its scientific name and common name?", "a": "Greenland seal (Phoca Grönlandica)", "verify": "Greenland seal (Phoca Grönlandica)."}
+{"pid": "b2p022", "q": "Between what latitudes do the 'seal-coasts' range?", "a": "68° and 74° N. Lat.", "verify": "68° to 74° N. Lat."}
+{"pid": "b2p022", "q": "What is the value of a young seal's skin with its fat?", "a": "7_s._ 6_d._ to 9_s._", "verify": "7_s._ 6_d._ to 9_s._"}
+{"pid": "b2p022", "q": "How many seals did one Bremen ship catch in a single season sometimes amount to?", "a": "8 to 10,000", "verify": "from 8 to 10,000 seals."}
+{"pid": "b2p022", "q": "In what year were the numbers of seals caught by European ships recorded?", "a": "1868", "verify": "1868"}
+{"pid": "b2p022", "q": "Which type of seal is mentioned alongside the Greenland seal on the 'Jan Mayen ice'?", "a": "crested seal", "verify": "Crested seal, sometimes bearded seal."}
+{"pid": "b2p022", "q": "What is another name for the crested seal?", "a": "Cystophora cristata", "verify": "The crested seal is also called the Cystophora cristata."}
+{"pid": "b2p022", "q": "How many British ships were in company with other European ships in West Greenland in 1868?", "a": "22", "verify": "Twenty-two British ships."}
+{"pid": "b2p022", "q": "What is the range of longitude where seals come to cast their young ones?", "a": "from 2° to 16° W. Long.", "verify": "from 2° to 16° W. Long."}
+{"pid": "b2p023", "q": "What was the height of the 'crow's-nest'?", "a": "thirty-eight feet", "verify": "Thirty-eight feet."}
+{"pid": "b2p023", "q": "How far could the view extend from the 'crow's-nest'?", "a": "seven and a quarter nautical miles", "verify": "A circle with a radius of seven and a quarter nautical miles."}
+{"pid": "b2p023", "q": "What time was the first piece of ice spotted?", "a": "About eleven at night", "verify": "About eleven at night in the thick fog."}
+{"pid": "b2p023", "q": "On which date did they spot the first piece of ice?", "a": "the 13th", "verify": "On the 13th, at eleven at night."}
+{"pid": "b2p023", "q": "Where was the 'crow's-nest' placed?", "a": "between the top and the top-shrouds", "verify": "Between the top and the top-shrouds."}
+{"pid": "b2p023", "q": "Who commanded the expedition?", "a": "commander", "verify": "The commander looked for the highest steady stand-point."}
+{"pid": "b2p023", "q": "What was used to protect against the wind in the 'crow's-nest'?", "a": "a suitably formed barrel", "verify": "A suitably formed barrel protected against the wind."}
+{"pid": "b2p023", "q": "What was the name of the ship?", "a": "not mentioned", "verify": "Not specified in passage."}
+{"pid": "b2p023", "q": "Who is Scoresby mentioned as?", "a": "Scoresby’s and the late Swedish expeditions", "verify": "Scoresby's expeditions used similar \"crow's-nest.\""}
+{"pid": "b2p023", "q": "How did they feel about hoisting up the 'crow's-nest'?", "a": "with much merriment and many good and bad jokes", "verify": "They felt mixed emotions, with merriment and jokes."}
+{"pid": "b2p024", "q": "What was the date mentioned for the intimation of nearness to ice?", "a": "15th of July", "verify": "On the 14th, we saw ice indicators."}
+{"pid": "b2p024", "q": "Which ship continued its voyage according to the passage?", "a": "Germania", "verify": "The Germania continued its voyage."}
+{"pid": "b2p024", "q": "How many days does the sun not rise in winter within the Polar circle?", "a": "a certain number", "verify": "For a certain number of days together."}
+{"pid": "b2p024", "q": "What is the term for the boundary of the Arctic or Northern Icy Sea?", "a": "Polar circle", "verify": "The Polar circle is the boundary."}
+{"pid": "b2p024", "q": "Which strait is mentioned as being cut through by the Polar circle?", "a": "Behring’s Straits", "verify": "Behring’s Straits or Davis’s Straits."}
+{"pid": "b2p024", "q": "What bird was seen that never strays far from ice according to the passage?", "a": "ivory gull", "verify": "Ivory gull (_Larus eburneus_)."}
+{"pid": "b2p024", "q": "From which direction do waves rush to the west coast of Norway?", "a": "Atlantic", "verify": "From the Atlantic Ocean."}
+{"pid": "b2p024", "q": "Which geographical feature is compared to the Polar circle in terms of its limitations?", "a": "Polar basin", "verify": "The Polar circle limits both physically and geographically."}
+{"pid": "b2p024", "q": "What current drives back floating ice according to the passage?", "a": "north-easterly branch of the Gulf Stream", "verify": "The north-easterly branch of the Gulf Stream."}
+{"pid": "b2p024", "q": "To which place does this branch stretch from the coast of Norway?", "a": "Spitzbergen", "verify": "From Spitzbergen to Nova Zembla."}
+{"pid": "b2p025", "q": "What current runs along the east coast of Greenland?", "a": "Polar current", "verify": "The Polar current runs along the east coast of Greenland."}
+{"pid": "b2p025", "q": "Where are the largest fields of ice found at the beginning of the current?", "a": "Spitzbergen, and much nearer to the coast, as far down as Iceland", "verify": "At the same latitude as Spitzbergen, near Iceland."}
+{"pid": "b2p025", "q": "What are smaller fields called that originate from larger ice fields over time?", "a": "ice-floes", "verify": "Smaller fields called ice-floes."}
+{"pid": "b2p025", "q": "Where is the 'ice-line' located?", "a": "at the eastern boundary of the current", "verify": "At the eastern boundary of the current."}
+{"pid": "b2p025", "q": "What are huge hummocks that float about or cover broken ice called?", "a": "real icebergs", "verify": "huge hummocks, real icebergs."}
+{"pid": "b2p025", "q": "From where do real icebergs seem peculiar to?", "a": "the southern part of the coasts", "verify": "The southern part of the coasts."}
+{"pid": "b2p025", "q": "How thick can the largest fields of ice be?", "a": "more than fifty feet", "verify": "Sometimes more than fifty feet in thickness."}
+{"pid": "b2p025", "q": "What causes smaller pieces from larger ice fields to break up over time?", "a": "breaking up, by thawing, by surrounding driving and pressing, as well as by the waves", "verify": "Breaking up due to thawing, driving, pressing, waves."}
+{"pid": "b2p025", "q": "Where does the Polar current carry heavy ice formed in the extreme north?", "a": "to a great distance", "verify": "On the east coast of Greenland, south-westwards."}
+{"pid": "b2p025", "q": "What prevents the melting of ice in the Polar current?", "a": "coldness of its waters", "verify": "The coldness of its waters prevents melting."}
+{"pid": "b2p026", "q": "What ship was mentioned by name?", "a": "Greenland", "verify": "The Greenland yacht from 1868."}
+{"pid": "b2p026", "q": "In what year did the Greenland expedition occur?", "a": "1868", "verify": "1868"}
+{"pid": "b2p026", "q": "What direction did the southerly breeze come from?", "a": "southerly", "verify": "The southerly breeze came from the south."}
+{"pid": "b2p026", "q": "On which date did they reach the ice-line?", "a": "15th of July", "verify": "On the 15th of July they reached the ice-line."}
+{"pid": "b2p026", "q": "Which direction was the ship moving in?", "a": "north-westerly", "verify": "Between small floes and brashes, north-westerly course."}
+{"pid": "b2p026", "q": "What kind of wind would drive the ice westward?", "a": "easterly and south-easterly", "verify": "An easterly and south-easterly wind."}
+{"pid": "b2p026", "q": "How many days after reaching the ice-line did a breeze get up?", "a": "a foggy day", "verify": "After a foggy day."}
+{"pid": "b2p026", "q": "What was the distant roar that could be heard?", "a": "sea surging", "verify": "Sea surging against hidden ice."}
+{"pid": "b2p026", "q": "What would allow them to remain comfortably near the ice?", "a": "Germania", "verify": "If the ice proved a blockade, they could stay in Germania."}
+{"pid": "b2p026", "q": "What was the name of their ship?", "a": "Greenland", "verify": "The ship's name was Greenland."}
+{"pid": "b2p027", "q": "What was the latitude where the Germania struck the ice?", "a": "74° 47′ N", "verify": "74° 47′ N. Lat."}
+{"pid": "b2p027", "q": "What was the longitude of the spot where the Germania hit the ice?", "a": "11° 50′ W", "verify": "11° 50′ W. Long."}
+{"pid": "b2p027", "q": "When did they set sail towards the ice on July 16th?", "a": "Morning", "verify": "Towards morning, after atmosphere lightened."}
+{"pid": "b2p027", "q": "What was the temperature of the sea’s surface?", "a": "32° Fahr.", "verify": "32° Fahr."}
+{"pid": "b2p027", "q": "In which direction did they steer after passing a point at four in the afternoon?", "a": "Northward", "verify": "Steered northward along the ice."}
+{"pid": "b2p027", "q": "What did they observe to the north on July 16th?", "a": "Compact ice", "verify": "A long chain of closely packed pieces of ice."}
+{"pid": "b2p027", "q": "Which ship was the Germania trying to locate?", "a": "Hansa", "verify": "The Germania was looking for the Hansa."}
+{"pid": "b2p027", "q": "What kind of sky did they study from the crow’s-nest?", "a": "Ice and water sky", "verify": "They studied the \"Ice and water sky.\""}
+{"pid": "b2p027", "q": "How many degrees north of the equator were they sailing?", "a": "74° N", "verify": "74° 57′ N Lat."}
+{"pid": "b2p027", "q": "What was the longitude where the Hansa reached the ice-line?", "a": "9° 41′ W", "verify": "9° 41′ W. Long."}
+{"pid": "b2p028", "q": "What bird was observed today?", "a": "black guillemot", "verify": "A handsome black guillemot."}
+{"pid": "b2p028", "q": "What is the scientific name of the black guillemot?", "a": "Uria grylle", "verify": "Uria grylle"}
+{"pid": "b2p028", "q": "What did they fill with the seal's fat?", "a": "wine-barrel", "verify": "A wine-barrel half full."}
+{"pid": "b2p028", "q": "How many days was the date mentioned in the second paragraph?", "a": "17th", "verify": "The date mentioned is the 17th."}
+{"pid": "b2p028", "q": "What kind of wind was blowing on the 17th?", "a": "south-westerly", "verify": "South-westerly breeze."}
+{"pid": "b2p028", "q": "What did they take from the ice floes?", "a": "water", "verify": "They took up shovelsful of ice."}
+{"pid": "b2p028", "q": "How high did the ice appear in the fog?", "a": "forty-five to fifty feet", "verify": "Forty-five to fifty feet high."}
+{"pid": "b2p028", "q": "What time of day did the ice press closer around them?", "a": "evening", "verify": "Towards evening, the ice pressed closer."}
+{"pid": "b2p028", "q": "What did they see after breaking through the outer chain of floes?", "a": "open sea", "verify": "They saw they were in the open sea."}
+{"pid": "b2p028", "q": "How long did they have to lie by in the open sea?", "a": "in expectation of better weather", "verify": "Towards evening, they had to lie by."}
+{"pid": "b2p029", "q": "What was the name of the ship?", "a": "Germania", "verify": "Germania."}
+{"pid": "b2p029", "q": "How thick were the floes out of the water?", "a": "Four to twelve inches", "verify": "From four to twelve inches out of the water."}
+{"pid": "b2p029", "q": "When do small pools of water usually appear on the surface of the floes?", "a": "About the beginning of July", "verify": "About the beginning of July."}
+{"pid": "b2p029", "q": "What color does the ice turn into after removing the snow?", "a": "Glistening blue", "verify": "Glistening blue ice."}
+{"pid": "b2p029", "q": "What are the miniature mountains between the floes called?", "a": "Hummocks", "verify": "Between the floes are hummocks."}
+{"pid": "b2p029", "q": "What kind of light do crevices and shaded plains shed?", "a": "Beautiful blue light", "verify": "shed the most beautiful blue light."}
+{"pid": "b2p029", "q": "When do small pools of water usually be covered again with ice?", "a": "About the beginning of August", "verify": "About the beginning of August."}
+{"pid": "b2p029", "q": "What are some examples of fantastic shapes formed by melting ice-blocks?", "a": "Swan, eagle, seal, marble table", "verify": "Swan, eagle, seal, marble table."}
+{"pid": "b2p030", "q": "What ship caught birds?", "a": "Hansa", "verify": "The Hansa caught birds."}
+{"pid": "b2p030", "q": "What kind of metal was used to mark the birds?", "a": "small piece", "verify": "A small piece of metal was used."}
+{"pid": "b2p030", "q": "How many degrees north was the latitude marked on the birds?", "a": "73° N.", "verify": "73° N."}
+{"pid": "b2p030", "q": "When did they leave Jan Mayen?", "a": "9th of July", "verify": "On July 9th."}
+{"pid": "b2p030", "q": "What direction was the wind blowing from?", "a": "southerly", "verify": "The wind was blowing from the south."}
+{"pid": "b2p030", "q": "On which day was the weather bright and clear?", "a": "18th", "verify": "On the morning of the 18th."}
+{"pid": "b2p030", "q": "Which ship were they looking for a way for?", "a": "Germania", "verify": "They were looking for a way for the Germania."}
+{"pid": "b2p030", "q": "What kind of birds were swimming like ducks in their wake?", "a": "_Procellaria glacialis_", "verify": "Arctic birds, Procellaria glacialis."}
+{"pid": "b2p030", "q": "What did the sun provide after a long absence?", "a": "warmth and dryness", "verify": "Warmth and dryness after a long time."}
+{"pid": "b2p030", "q": "Which direction was the ice bay opening towards?", "a": "south-east", "verify": "The ice bay opened towards the south-east."}
+{"pid": "b2p031", "q": "What was the name of the lost sister-ship?", "a": "Hansa", "verify": "The lost sister-ship was the Hansa."}
+{"pid": "b2p031", "q": "What was the latitude of the rendezvous point?", "a": "75° N.L.", "verify": "75° N.L."}
+{"pid": "b2p031", "q": "How many knots did they make with a 50lb. pressure?", "a": "5¼ knots", "verify": "They made 5¼ knots."}
+{"pid": "b2p031", "q": "In which direction was the sail discovered?", "a": "E.N.E.", "verify": "From the topmast E.N.E. in the ice."}
+{"pid": "b2p031", "q": "What type of craft was the discovered ship?", "a": "schooner", "verify": "A schooner, not a whale-fishers' craft."}
+{"pid": "b2p031", "q": "Who fired their guns to express joy?", "a": "Hansa", "verify": "The Hansa fired her guns."}
+{"pid": "b2p031", "q": "How did they greet each other initially?", "a": "firing guns", "verify": "By firing guns and returning with fowling-pieces."}
+{"pid": "b2p031", "q": "What were they trying to avoid by finding the Hansa?", "a": "fog", "verify": "To avoid being surrounded by fog again."}
+{"pid": "b2p031", "q": "What was the weather like when they reached the Hansa?", "a": "beautiful and clear", "verify": "Beautiful, clear, with dead calm."}
+{"pid": "b2p031", "q": "What color had the sea assumed due to the reflection?", "a": "almost black", "verify": "Almost black due to sky reflection."}
+{"pid": "b2p032", "q": "What was the name of the ship mentioned first?", "a": "Hansa", "verify": "The Hansa."}
+{"pid": "b2p032", "q": "Who came on board while the ships were stopped?", "a": "Captain Hegemann, Dr. Buchholz, and Dr. Laube", "verify": "Captain Hegemann, Dr. Buchholz, and Dr. Laube."}
+{"pid": "b2p032", "q": "How many days had the Hansa been in the ice?", "a": "Several days", "verify": "The Hansa had been several days in the ice."}
+{"pid": "b2p032", "q": "What was the name of the larger bay reported by Captain Hegemann?", "a": "A larger bay to the westward", "verify": "Farther north, a larger bay to the westward."}
+{"pid": "b2p032", "q": "Where did they agree to meet if separated by ice?", "a": "Sabine Island", "verify": "Sabine Island if separated by ice."}
+{"pid": "b2p032", "q": "What date did they hope not to give up their attempt before?", "a": "middle of September", "verify": "September middle, as per agreement."}
+{"pid": "b2p032", "q": "How many Mallemucke birds were shot and prepared?", "a": "Several", "verify": "Several \"Mallemucke\" shot and properly prepared."}
+{"pid": "b2p032", "q": "Which type of seal was mentioned in the passage?", "a": "Phoca Greenlandica", "verify": "Phoca Greenlandica, L."}
+{"pid": "b2p032", "q": "What is another name for Beroë mentioned in the text?", "a": "_Beroë_", "verify": "Beautiful transparent cucumber-shaped creatures."}
+{"pid": "b2p032", "q": "What are the transparent cucumber-shaped bodies of Beroë called?", "a": "bodies", "verify": "Their beautiful, transparent cucumber-shaped bodies."}
+{"pid": "b2p033", "q": "What was the depth recorded on the 14th?", "a": "930 fathoms", "verify": "930 fathoms."}
+{"pid": "b2p033", "q": "On what date could no longer ground be touched at 1230 fathoms?", "a": "15th", "verify": "On the 15th we could no longer."}
+{"pid": "b2p033", "q": "What was the mean temperature over four days?", "a": "35° Fahr.", "verify": "The mean temperature was 35° Fahr."}
+{"pid": "b2p033", "q": "How many degrees did the water temperature oscillate between?", "a": "34° and 33½°", "verify": "Between 34° and 33½°."}
+{"pid": "b2p033", "q": "Which ship returned to its own vessel at midnight?", "a": "the Hansa", "verify": "The gentlemen from the Hansa returned."}
+{"pid": "b2p033", "q": "In what direction did the ice-line stretch?", "a": "west-south-westerly", "verify": "west-south-westerly direction."}
+{"pid": "b2p033", "q": "How long would they not see their sister-ship again?", "a": "fourteen months’ time", "verify": "After fourteen months."}
+{"pid": "b2p033", "q": "What was used to cool the axle-bed?", "a": "steam", "verify": "Steam was stopped to cool it."}
+{"pid": "b2p033", "q": "What kind of work had been difficult and time-consuming?", "a": "soundings", "verify": "Soundings on the ice boundary."}
+{"pid": "b2p033", "q": "What color was the water mostly?", "a": "clear blue", "verify": "The water was mostly clear blue."}
+{"pid": "b2p034", "q": "What was the date when the breeze freshened on July 19th?", "a": "19th of July", "verify": "On the afternoon of July 19th."}
+{"pid": "b2p034", "q": "How many ships were mentioned in this passage?", "a": "two", "verify": "Two ships were mentioned."}
+{"pid": "b2p034", "q": "Which ship was commanded by Captain Hegemann?", "a": "Hansa", "verify": "The Hansa was commanded by Captain Hegemann."}
+{"pid": "b2p034", "q": "What kind of meat was served for breakfast that day?", "a": "seal liver", "verify": "Seal liver was served for breakfast."}
+{"pid": "b2p034", "q": "In which direction did they sail towards the south-west?", "a": "along the ice-line", "verify": "They sailed along the ice-line towards the south-west."}
+{"pid": "b2p034", "q": "How many days passed from the 19th to the night of the 20th?", "a": "one", "verify": "One day passed."}
+{"pid": "b2p034", "q": "What was the wind direction on that day?", "a": "S.S.W.", "verify": "The wind was S.S.W."}
+{"pid": "b2p034", "q": "Which ship misunderstood the approach signal?", "a": "The Hansa", "verify": "The Hansa misunderstood the signal."}
+{"pid": "b2p034", "q": "How far was the Hansa from the other ship when it disappeared?", "a": "a few miles", "verify": "The Hansa was a few miles ahead."}
+{"pid": "b2p034", "q": "Where did Captain Hegemann leave the Germania to continue his voyage?", "a": "in the coast ice of East Greenland", "verify": "He left her due to a fog and sailed southwest."}
+{"pid": "b2p035", "q": "Which ship signaled to keep farther from the ice?", "a": "Germania", "verify": "The Germania signaled to keep farther from the ice."}
+{"pid": "b2p035", "q": "Who gave the signal that was misunderstood?", "a": "Captain Koldewey", "verify": "Captain Koldewey gave the signal."}
+{"pid": "b2p035", "q": "What did Captain Hegemann think the signal meant?", "a": "Long stay a-peak", "verify": "Captain Hegemann interpreted \"Long stay a-peak.\""}
+{"pid": "b2p035", "q": "What did the signal actually mean?", "a": "Come within hail", "verify": "\"Come within hail,\" to be close by."}
+{"pid": "b2p035", "q": "On which date were the ships separated?", "a": "20th of July", "verify": "On the 20th of July."}
+{"pid": "b2p035", "q": "Which direction did the Hansa push on after the misunderstanding?", "a": "westward", "verify": "The Hansa pushed westward."}
+{"pid": "b2p035", "q": "Who was the captain of the Germania?", "a": "Koldewey", "verify": "Captain Koldewey signaled the Hansa."}
+{"pid": "b2p035", "q": "What kind of weather condition made the signal hard to see?", "a": "hazy weather", "verify": "Hazy weather made the signal hard to see."}
+{"pid": "b2p035", "q": "How many ships were mentioned in total?", "a": "two", "verify": "Two ships: Germania and Hansa."}
+{"pid": "b2p035", "q": "What did they lose sight of on July 20th?", "a": "Germania", "verify": "They lost sight of the Germania."}
+{"pid": "b2p036", "q": "What date did Hildebrandt take a photograph of the Hansa?", "a": "21st of July", "verify": "Before noon on the 21st of July."}
+{"pid": "b2p036", "q": "Who got snow-blindness?", "a": "Philip Heine", "verify": "Philip Heine got snow-blindness."}
+{"pid": "b2p036", "q": "What was used to light fires to attract ice-bears?", "a": "Seal-blubber", "verify": "Seal-blubber was used to feed fires."}
+{"pid": "b2p036", "q": "How many days did the fog last?", "a": "Seven", "verify": "The fog lasted from the 21st to the 28th July."}
+{"pid": "b2p036", "q": "What was the temperature on July 24th?", "a": "31° Fahr.", "verify": "31° Fahr."}
+{"pid": "b2p036", "q": "How far were they blown southward in seven days?", "a": "72 nautical miles", "verify": "About seventy-two nautical miles."}
+{"pid": "b2p036", "q": "Who distributed snow spectacles?", "a": "Not specified, but implied to be someone distributing them immediately", "verify": "Seals and narwhals were seen near the ship, some killed. Snow spectacles were distributed."}
+{"pid": "b2p036", "q": "What animals were seen near the ship initially?", "a": "Seals and narwhals", "verify": "Seals and narwhals were seen initially."}
+{"pid": "b2p036", "q": "What did they kill from these animals?", "a": "Some of which we killed at first", "verify": "Some of the seals and narwhals."}
+{"pid": "b2p036", "q": "How was the ship moved sometimes?", "a": "Towed and pushed by the men", "verify": "Sometimes towed and pushed by men."}
+{"pid": "b2p037", "q": "What was the name of the ship that caught sight of East Greenland?", "a": "Germania", "verify": "The expedition's ship caught sight of East Greenland."}
+{"pid": "b2p037", "q": "On what date did they see the coast of East Greenland?", "a": "28th of July", "verify": "On July 28th, we sighted East Greenland."}
+{"pid": "b2p037", "q": "How many degrees north latitude were they in when they saw the coast?", "a": "72° 56′ N.L.", "verify": "72° 56′ N.L."}
+{"pid": "b2p037", "q": "What was the name of the first illustration mentioned?", "a": "CAPE BROER RUYS", "verify": "CAPE BROER RUYS."}
+{"pid": "b2p037", "q": "Who made the expedition to the North Pole according to Dr. Laube?", "a": "Scoresby", "verify": "Dr. Laube made the expedition."}
+{"pid": "b2p037", "q": "How far away were the two vessels sighted on July 29th and 30th?", "a": "twelve sea miles", "verify": "About twelve sea miles distant."}
+{"pid": "b2p037", "q": "What was the name of the steamer that spoke with the Germania?", "a": "Bienenkorb", "verify": "Bienenkorb, Captain Hagens."}
+{"pid": "b2p037", "q": "Who was the captain of the Bienenkorb?", "a": "Hagens", "verify": "Captain Hagens"}
+{"pid": "b2p037", "q": "In what direction did the Bienenkorb sail after sighting the Hansa?", "a": "south-westerly", "verify": "The Bienenkorb sailed south-westerly."}
+{"pid": "b2p037", "q": "What was the name of the place where the Hansa was beset according to the Bienenkorb?", "a": "about eight miles within the pack", "verify": "about eight miles within the pack."}
+{"pid": "b2p038", "q": "What date did the vessels disappear?", "a": "31st of July", "verify": "The vessels disappeared on July 31st."}
+{"pid": "b2p038", "q": "On what day did the ships appear again?", "a": "1st of August", "verify": "The ships appeared on August 1st."}
+{"pid": "b2p038", "q": "Which ship was mentioned by name?", "a": "Hansa", "verify": "Hansa, Germania."}
+{"pid": "b2p038", "q": "What direction was the wind blowing from at 1 o'clock in the afternoon?", "a": "E.N.E.", "verify": "E.N.E. with a strong west-sou'west wind."}
+{"pid": "b2p038", "q": "How many nautical miles had they moved southward?", "a": "twenty-six", "verify": "Twenty-six nautical miles."}
+{"pid": "b2p038", "q": "On which date did they sail northwards along the ice boundary?", "a": "5th to the 11th of August", "verify": "From the 5th to the 10th of August."}
+{"pid": "b2p038", "q": "What was the temperature range according to the thermometer?", "a": "27° to 36° F", "verify": "27° to 36° F"}
+{"pid": "b2p038", "q": "How many seals were seen swimming together at most?", "a": "twenty", "verify": "Up to twenty seals swimming together."}
+{"pid": "b2p038", "q": "What did the seals' behavior suggest?", "a": "pairing time", "verify": "Seals pairing season approaching."}
+{"pid": "b2p038", "q": "What signal did they fire when hoping to see the Germania?", "a": "signal-gun", "verify": "They fired a signal-gun hoping to be answered."}
+{"pid": "b2p039", "q": "What was the date when they froze in the night?", "a": "9th August", "verify": "Between the 10th and 11th of August."}
+{"pid": "b2p039", "q": "How thick was the ice that froze them in?", "a": "an inch and a half", "verify": "An inch and a half thick."}
+{"pid": "b2p039", "q": "In which direction did they steer from their frozen position?", "a": "north-westerly", "verify": "They steered north-westerly."}
+{"pid": "b2p039", "q": "On what day were they twenty-five nautical miles nearer the coast?", "a": "10th", "verify": "On the 10th August, they were twenty-five nautical miles nearer."}
+{"pid": "b2p039", "q": "What was the latitude on 13th August when they reached navigable water?", "a": "74° 58½′ N.L.", "verify": "74° 58½′ N.L."}
+{"pid": "b2p039", "q": "How many Polar bears did they shoot on 14th August?", "a": "one", "verify": "They shot one Polar bear."}
+{"pid": "b2p039", "q": "What was the temperature on 16th August?", "a": "25° Fahr.", "verify": "25° Fahr."}
+{"pid": "b2p039", "q": "In which direction were they drifting on 18th and 19th August?", "a": "southward", "verify": "Drifting steadily southward."}
+{"pid": "b2p039", "q": "How far was the Shannon I. from them on 14th August?", "a": "forty-eight nautical miles", "verify": "Forty-eight nautical miles."}
+{"pid": "b2p039", "q": "What did the dredge produce on 14th August?", "a": "many beautiful star-fishes and molluscs", "verify": "Many beautiful star-fishes and molluscs."}
+{"pid": "b2p040", "q": "What was the date of the boat excursion?", "a": "August 24th", "verify": "August 24th"}
+{"pid": "b2p040", "q": "Who led the boat excursion?", "a": "captain", "verify": "Captain led the boat excursion."}
+{"pid": "b2p040", "q": "How far did they travel from the ship during the excursion?", "a": "sixteen nautical miles", "verify": "Pressed forward to within sixteen nautical miles."}
+{"pid": "b2p040", "q": "What did they name the icy formation?", "a": "Flower-basket", "verify": "They named it the \"Flower-basket.\""}
+{"pid": "b2p040", "q": "Which flag was hoisted on the hummock?", "a": "German flag", "verify": "The German flag was hoisted."}
+{"pid": "b2p040", "q": "When did the return journey begin?", "a": "quarter past seven in the evening", "verify": "Return journey began at quarter past seven in the evening."}
+{"pid": "b2p040", "q": "How long did it take to return to the ship?", "a": "half-past twelve at night", "verify": "Return journey began at 19:15, back by 23:00."}
+{"pid": "b2p040", "q": "What were the coordinates of Sabine Island on August 25th?", "a": "74° 30′ N.L., 16° 40′ 5″ W.L.", "verify": "74° 30′ N, 16° 40′ 5″ W."}
+{"pid": "b2p040", "q": "How far apart were the Hansa and Germania on August 27th?", "a": "thirty-four nautical miles", "verify": "About 34 nautical miles."}
+{"pid": "b2p040", "q": "What was the temperature range mentioned in the passage?", "a": "23° to 16° F", "verify": "23° to 16° F."}
+{"pid": "b2p041", "q": "What was the name of the ship in the narrative?", "a": "Hansa", "verify": "The Hansa"}
+{"pid": "b2p041", "q": "On what date did they see their last sail?", "a": "September 2nd", "verify": "5th of September."}
+{"pid": "b2p041", "q": "How many nautical miles did they sail on September 5th?", "a": "twenty", "verify": "They sailed twenty nautical miles."}
+{"pid": "b2p041", "q": "What direction did they sail on September 5th?", "a": "north-westerly", "verify": "Partly north-westerly."}
+{"pid": "b2p041", "q": "Who wrote about the mission's failure on August 13th?", "a": "Dr. Laube", "verify": "Dr. Laube wrote about it."}
+{"pid": "b2p041", "q": "How long did it take to free the ship from the ice?", "a": "fourteen hours", "verify": "Fourteen hours of heavy labour."}
+{"pid": "b2p041", "q": "What was their last hope as they sailed into open water?", "a": "open water still before us", "verify": "Open water seemed almost free from ice."}
+{"pid": "b2p041", "q": "Who answered how long they could sail when asked by the author?", "a": "Mr. Bade", "verify": "Mr. Bade thought the whole night through."}
+{"pid": "b2p041", "q": "At what time did they get under weigh on the day of their last attempt to sail?", "a": "Ten minutes before six o'clock", "verify": "Ten minutes before six o'clock."}
+{"pid": "b2p041", "q": "What happened to the wind at ten o'clock in the evening?", "a": "wind died away entirely", "verify": "The breeze dropped entirely by ten o'clock."}
+{"pid": "b2p042", "q": "What date and latitude was a depth of 120 fathoms recorded?", "a": "14th of August, 74° 45.4′ N.L.", "verify": "The 14th of August, 74° 45.4′ N.L."}
+{"pid": "b2p042", "q": "How many fathoms were found at 74° 38′ N.L. on the 16th?", "a": "100 fathoms", "verify": "100 fathoms at 74° 38′ N.L. on the 16th."}
+{"pid": "b2p042", "q": "What did the dredging-nets contain in the first attempt?", "a": "sponges, polythalamias", "verify": "sponges, polythalamias, and amphipoda."}
+{"pid": "b2p042", "q": "How many attempts were made with the dredge?", "a": "three", "verify": "Three attempts were made with the dredge."}
+{"pid": "b2p042", "q": "What did the ice-ground consist of at 74° 38′ N.L. on the 16th?", "a": "brown slime", "verify": "Brown slime according to the passage."}
+{"pid": "b2p042", "q": "Who wrote about seeing land above the ice?", "a": "Dr. Laube", "verify": "Dr. Laube saw land above the ice."}
+{"pid": "b2p042", "q": "How far had they advanced westward by evening?", "a": "three ship’s-lengths", "verify": "Three ship’s-lengths westward."}
+{"pid": "b2p042", "q": "What were the two small birds seen on the 20th doing?", "a": "picking up food", "verify": "Picking up food on the ice."}
+{"pid": "b2p042", "q": "Who took photographs of the ship?", "a": "the first officer, Mr. Hildebrandt", "verify": "The first officer, Mr. Hildebrandt."}
+{"pid": "b2p042", "q": "How far from the coast were the land-birds observed?", "a": "50 nautical miles", "verify": "Fifty nautical miles from the coast."}
+{"pid": "b2p043", "q": "Who wrote the diary entry?", "a": "Dr. Laube", "verify": "Dr. Laube wrote the diary entry."}
+{"pid": "b2p043", "q": "How many people went on the boat journey?", "a": "5", "verify": "Captain, second officer, two sailors, Dr. Laube."}
+{"pid": "b2p043", "q": "What time did they start their journey?", "a": "at two o'clock", "verify": "They started at two o'clock."}
+{"pid": "b2p043", "q": "How long was the ice-field near the Hansa?", "a": "nearly four miles long", "verify": "Nearly four miles long."}
+{"pid": "b2p043", "q": "How far were they from the ship by five o'clock?", "a": "seven to eight nautical miles", "verify": "About seven to eight nautical miles."}
+{"pid": "b2p043", "q": "What did they see surrounding Pendulum and Sabine islands?", "a": "a streak of light", "verify": "A streak of light, taken for open water."}
+{"pid": "b2p043", "q": "What did they plant on their farthest point?", "a": "the flag", "verify": "They planted the flag on the ice."}
+{"pid": "b2p043", "q": "Why was the home journey more difficult?", "a": "the canal was closed up", "verify": "Canal closed up, hard to find openings."}
+{"pid": "b2p043", "q": "What prevented them from making way in some places?", "a": "fresh ice", "verify": "Fresh ice prevented them."}
+{"pid": "b2p043", "q": "How were they able to reach the Hansa?", "a": "we at least brought the hope", "verify": "They reached the Hansa after a difficult journey."}
+{"pid": "b2p044", "q": "What day was the captain's birthday?", "a": "25th of August", "verify": "The 25th of August."}
+{"pid": "b2p044", "q": "Who wrote a poem for the captain's birthday?", "a": "Dr. Laube", "verify": "Dr. Laube wrote the poem."}
+{"pid": "b2p044", "q": "What did the community do to amuse themselves on that day?", "a": "Skating", "verify": "The community skated for amusement."}
+{"pid": "b2p044", "q": "How many mock suns were seen in the phenomenon?", "a": "Two", "verify": "Two side mock suns were seen."}
+{"pid": "b2p044", "q": "What was the shape of the arch between the two side mock suns?", "a": "Elliptical", "verify": "The arch was elliptical."}
+{"pid": "b2p044", "q": "What kind of animal life was poor near the coast?", "a": "Marine animal life", "verify": "Gammarus and amphipoda were lacking."}
+{"pid": "b2p044", "q": "Which bird was often fed from the ship?", "a": "Larus eburneus", "verify": "Larus eburneus, the ivory gull."}
+{"pid": "b2p044", "q": "What did they use to catch birds on the ship?", "a": "Angling", "verify": "Angling was used to catch birds."}
+{"pid": "b2p044", "q": "How many hunting-expeditions were mentioned from August 10th?", "a": "Several", "verify": "From August 10th to blockading of the ship."}
+{"pid": "b2p044", "q": "What kind of bear was caught during the hunting-expeditions?", "a": "Polar bear", "verify": "One young polar bear."}
+{"pid": "b2p045", "q": "What is the date of the passage start?", "a": "Sunday, August 29th", "verify": "Sunday, August 29th."}
+{"pid": "b2p045", "q": "How many nautical miles away was the coast on September 7th?", "a": "thirty-five", "verify": "About thirty-five nautical miles distant."}
+{"pid": "b2p045", "q": "What temperature was recorded on September 7th in the afternoon?", "a": "20° Fahr.", "verify": "20° Fahr."}
+{"pid": "b2p045", "q": "Which direction did they drift from September 12th to 14th?", "a": "southwards", "verify": "Southwards, due to south-westerly drift."}
+{"pid": "b2p045", "q": "What is the latitude of where the Hansa was completely frozen in?", "a": "73° 25·7′ N.L.", "verify": "73° 25·7′ N.L."}
+{"pid": "b2p045", "q": "What is the longitude of where the Hansa was completely frozen in?", "a": "18° 39·5′ W.L.", "verify": "18° 39·5′ W.L."}
+{"pid": "b2p045", "q": "How many nautical miles did they drift southwards from September 12th to 14th?", "a": "thirteen", "verify": "They drifted thirteen nautical miles southwards."}
+{"pid": "b2p045", "q": "What did they call the high block of ice they named?", "a": "the “Devil’s Thumb”", "verify": "They called it the \"Devil's Thumb\"."}
+{"pid": "b2p045", "q": "What did Bade bring with him as a strengthener?", "a": "caraways", "verify": "Bade brought caraways as a strengthener."}
+{"pid": "b2p045", "q": "What is the name of the place where they built their house for wintering?", "a": "Hansa-house", "verify": "Hansa-house on the floe."}
+{"pid": "b2p046", "q": "What was the name of the ship in which they were anchored?", "a": "Hansa", "verify": "The Hansa."}
+{"pid": "b2p046", "q": "How many days later did a storm break the hawsers?", "a": "Some days later", "verify": "Some days later, a storm broke the hawsers."}
+{"pid": "b2p046", "q": "What animal did they see on a neighboring field with her cub?", "a": "A she-bear", "verify": "A she-bear with her cub."}
+{"pid": "b2p046", "q": "Who shot one of the white foxes?", "a": "Mr. Hildebrandt", "verify": "Mr. Hildebrandt shot it."}
+{"pid": "b2p046", "q": "How high was the ice mass named 'Sinai'?", "a": "thirty-nine feet", "verify": "Thirty-nine feet high."}
+{"pid": "b2p046", "q": "What did they call the ice formation that looked like a gateway?", "a": "Brandenburg Gate", "verify": "Brandenburg Gate"}
+{"pid": "b2p046", "q": "How many degrees of cold were mentioned for ball-play?", "a": "twenty-seven", "verify": "Twenty-seven degrees of cold."}
+{"pid": "b2p046", "q": "What did the men do to strengthen their constitution in fine weather?", "a": "gymnastic games", "verify": "They played ball games."}
+{"pid": "b2p046", "q": "What was the name given to the highest jagged point of 'Sinai'?", "a": "the Devil's Thumb", "verify": "The finger of an outspread hand."}
+{"pid": "b2p046", "q": "How thick and high were the pieces of ice called 'Brandenburg Gate'?", "a": "fifteen feet thick and twenty high", "verify": "Fifteen feet thick and twenty high."}
+{"pid": "b2p047", "q": "What year is mentioned in Lindeman’s account?", "a": "1777", "verify": "1777"}
+{"pid": "b2p047", "q": "How many feet long was the winter-house planned?", "a": "20", "verify": "The winter-house was planned to be 20 feet long."}
+{"pid": "b2p047", "q": "Which two boats were covered with a snow roof?", "a": "Hope and Bismarck", "verify": "The Hope and the Bismarck."}
+{"pid": "b2p047", "q": "What material was used for the roof of the winter-house initially?", "a": "Sail-cloth and matting", "verify": "Sail-cloth and matting."}
+{"pid": "b2p047", "q": "How many feet high were the side walls planned to be?", "a": "4 feet 8 inches", "verify": "4 feet 8 inches high."}
+{"pid": "b2p047", "q": "How far from the ship was the house built?", "a": "450 paces", "verify": "About 450 paces from the ship."}
+{"pid": "b2p047", "q": "What was used as mortar for building?", "a": "Water and snow", "verify": "Water and snow formed the mortar."}
+{"pid": "b2p047", "q": "Which ship provided coal-tiles for building material?", "a": "Hansa", "verify": "The Hansa provided coal-tiles."}
+{"pid": "b2p047", "q": "How many days did it take to build the house?", "a": "7", "verify": "Seven days."}
+{"pid": "b2p047", "q": "What was the temperature range during the work on the roof?", "a": "20° to 9° Fahr.", "verify": "20° to 9° Fahr."}
+{"pid": "b2p048", "q": "What was the date when the young ice broke once more?", "a": "7th", "verify": "On the 7th, the young ice broke once more."}
+{"pid": "b2p048", "q": "How long did the breaking up, heaving, and pressing last?", "a": "about an hour", "verify": "About an hour."}
+{"pid": "b2p048", "q": "On which day after the completion of the coal-house did bad weather set in?", "a": "8th of October", "verify": "On the 8th of October."}
+{"pid": "b2p048", "q": "What was the temperature on that day with bad weather?", "a": "9½° Fahr.", "verify": "The thermometer stood at 9½° Fahr."}
+{"pid": "b2p048", "q": "How far north-east were they from the Liverpool coast by the 13th?", "a": "sixteen nautical miles", "verify": "Sixteen nautical miles north-east."}
+{"pid": "b2p048", "q": "What did the coast look like from the ship?", "a": "steep, jagged mountain chain", "verify": "Steep, jagged mountain chain, sparsely covered with snow."}
+{"pid": "b2p048", "q": "Which northern point could be distinctly seen?", "a": "Cape Gladstone", "verify": "Cape Gladstone could be distinctly seen."}
+{"pid": "b2p048", "q": "How many nautical miles did they leave behind them to south-south-west in seven days?", "a": "seventy-two nautical miles", "verify": "Seventy-two nautical miles in ten days."}
+{"pid": "b2p048", "q": "What was the lowest temperature mentioned?", "a": "4° F. below zero", "verify": "The lowest temperature was 4° F below zero."}
+{"pid": "b2p048", "q": "Which birds were seen near the ship?", "a": "ravens, gull, falcon", "verify": "Ravens, gull, falcon."}
+{"pid": "b2p049", "q": "Which men started towards the land on October 17th?", "a": "three men", "verify": "Three men: Böwe, Büttner, and Heyne."}
+{"pid": "b2p049", "q": "How far was the land from the ship on October 17th?", "a": "ten nautical miles", "verify": "About ten nautical miles distant."}
+{"pid": "b2p049", "q": "What time did they start their journey on October 17th?", "a": "seven in the morning", "verify": "They started at seven in the morning."}
+{"pid": "b2p049", "q": "In what weather condition did they return to the ship?", "a": "with a north wind and drifting snow", "verify": "With north wind and drifting snow."}
+{"pid": "b2p049", "q": "How far was the strip of water blocking their way?", "a": "two nautical miles", "verify": "Two nautical miles broad."}
+{"pid": "b2p049", "q": "On which date did clear and still frosty weather occur?", "a": "18th of October early", "verify": "On October 18th, early."}
+{"pid": "b2p049", "q": "What sound did the ice make under the ship?", "a": "groaned and cracked", "verify": "Like waves groaning, banging doors, human voices, engine sounds."}
+{"pid": "b2p049", "q": "How were the masts of the Hansa described during the pressure?", "a": "often swayed", "verify": "Masts swayed violently under pressure."}
+{"pid": "b2p049", "q": "What was brought alongside the ship for safety?", "a": "the whale-boat", "verify": "The whale-boat was brought alongside."}
+{"pid": "b2p049", "q": "What did they prepare for in case the ship was lost?", "a": "wintering in the coal-house", "verify": "They prepared to winter in the coal-house."}
+{"pid": "b2p050", "q": "What was the direction of the storm?", "a": "N.N.W.", "verify": "N.N.W. storm of snow and ice."}
+{"pid": "b2p050", "q": "How far away was the coast?", "a": "Four miles", "verify": "The coast was a little more than four miles distant."}
+{"pid": "b2p050", "q": "At what time did the first heavy pressure occur?", "a": "Ten a.m.", "verify": "At ten a.m., though not before noon."}
+{"pid": "b2p050", "q": "How thick were the ice masses?", "a": "About four feet", "verify": "About four feet thick."}
+{"pid": "b2p050", "q": "What part of the ship rose initially?", "a": "Fore part", "verify": "The fore part of the ship rose."}
+{"pid": "b2p050", "q": "When was mid-day meal taken on deck?", "a": "Shortly before one o’clock", "verify": "After strong pressure, but before ship rose."}
+{"pid": "b2p050", "q": "How much did the bow rise out of its former position?", "a": "17 feet", "verify": "The bow rose 17 feet."}
+{"pid": "b2p050", "q": "What were some items taken over the landing-bridge?", "a": "Clothing, nautical instruments, journals, and cards", "verify": "Clothing, nautical instruments, journals, and cards."}
+{"pid": "b2p050", "q": "Which side was ice shoveled away from?", "a": "Larboard side", "verify": "From the larboard side."}
+{"pid": "b2p050", "q": "Why couldn't the after part of the ship rise?", "a": "Would not rise", "verify": "Because it was pressed by ice, unable to rise."}
+{"pid": "b2p051", "q": "What was the name of the ship?", "a": "Hansa", "verify": "The Hansa"}
+{"pid": "b2p051", "q": "How many inches of water were initially found in the hold?", "a": "seventeen", "verify": "Seventeen inches of water in the hold."}
+{"pid": "b2p051", "q": "At what time did they find two feet of water again?", "a": "quarter of an hour’s time", "verify": "In a quarter of an hour’s time, seven o'clock."}
+{"pid": "b2p051", "q": "What was the temperature at night?", "a": "-13° F", "verify": "The thermometer marked -13° F."}
+{"pid": "b2p051", "q": "Who wrote in his day-book about their situation?", "a": "Dr. Buchholz", "verify": "Dr. Buchholz wrote in his day-book."}
+{"pid": "b2p051", "q": "How long did they work on the pumps initially?", "a": "half-hour’s work", "verify": "About an hour, then half-hour."}
+{"pid": "b2p051", "q": "What was their only place of refuge?", "a": "house of coal", "verify": "The house of coal on the drifting ice-fields."}
+{"pid": "b2p051", "q": "What color did the northern lights show as changing?", "a": "ever-changing colours", "verify": "ever-changing colours"}
+{"pid": "b2p051", "q": "How deep was the water in the cabin by midnight?", "a": "increasing steadily, though slowly", "verify": "Two feet of water by midnight."}
+{"pid": "b2p051", "q": "Where might they hope to reach in spring?", "a": "South Greenland Esquimaux settlement", "verify": "South Greenland Esquimaux settlement."}
+{"pid": "b2p052", "q": "What ship was sinking?", "a": "Hansa", "verify": "The Hansa was sinking."}
+{"pid": "b2p052", "q": "Who ordered the pumping to cease?", "a": "the captain", "verify": "The captain ordered the pumping to cease."}
+{"pid": "b2p052", "q": "At what time did the water in the cabin reach the table?", "a": "three o'clock", "verify": "At three o'clock, the water reached the table."}
+{"pid": "b2p052", "q": "How far inland were articles moved from the ship?", "a": "thirty paces", "verify": "About thirty paces inland."}
+{"pid": "b2p052", "q": "What was Max Schmidt suffering from?", "a": "frost bite", "verify": "Max Schmidt suffered from frost bite."}
+{"pid": "b2p052", "q": "Who was Mr. Hildebrandt?", "a": "first officer", "verify": "First officer of the Hansa."}
+{"pid": "b2p052", "q": "Where did the wreck sink according to the passage?", "a": "70° 52´ N. Lat. and 21° W. Long.", "verify": "70° 52´ N. Lat., 21° W. Long., six miles from Liverpool coast."}
+{"pid": "b2p052", "q": "What was seen from the ship before it sank?", "a": "cliffs and mountains", "verify": "Cliffs and mountains resembling Chalky Alps."}
+{"pid": "b2p052", "q": "How many means of preservation were mentioned?", "a": "three", "verify": "Three means of preservation mentioned."}
+{"pid": "b2p052", "q": "What was the name of the jolly-boat?", "a": "King William", "verify": "King William"}
+{"pid": "b2p053", "q": "What caused the sail-cloth roof to leak?", "a": "quantity of snow", "verify": "The quantity of snow lying upon it."}
+{"pid": "b2p053", "q": "How many dormer-windows did they make?", "a": "two", "verify": "They made two dormer-windows."}
+{"pid": "b2p053", "q": "What was used as tables and stools?", "a": "ship’s chests", "verify": "Ship’s chests served as tables and stools."}
+{"pid": "b2p053", "q": "Where was the gilt-framed looking-glass placed?", "a": "back wall", "verify": "Underneath the costly barometer on the back wall."}
+{"pid": "b2p053", "q": "What instrument could be heard ticking?", "a": "clock", "verify": "The clock was ticking."}
+{"pid": "b2p053", "q": "What did they use for light during the day?", "a": "lamp", "verify": "They used the lamp for light during the day."}
+{"pid": "b2p053", "q": "How high above the floor were the sleeping boards?", "a": "six inches", "verify": "Six inches above the floor."}
+{"pid": "b2p053", "q": "Where was the cooking-stove placed?", "a": "behind", "verify": "Behind along the whole length."}
+{"pid": "b2p053", "q": "What did they play whist on in the evening?", "a": "volume of ship’s journal", "verify": "On a volume of the ship's journal."}
+{"pid": "b2p053", "q": "What did they have for strengthening themselves?", "a": "meat soup", "verify": "Meat soup prepared by the cook."}
+{"pid": "b2p054", "q": "What shipwrecked vessel is mentioned?", "a": "Hansa", "verify": "The \"Hansa\" house is mentioned."}
+{"pid": "b2p054", "q": "How many days did it take to move provisions and fuel from the wreck?", "a": "several days", "verify": "Several days."}
+{"pid": "b2p054", "q": "Where were most of the provisions stored?", "a": "walk round the house", "verify": "Most provisions were stored in the walk covered with sail-cloth."}
+{"pid": "b2p054", "q": "What was used as a man-rope for entering the house?", "a": "A man-rope", "verify": "A man-rope served for descending."}
+{"pid": "b2p054", "q": "What temperature in Fahrenheit did they experience outside?", "a": "-13° Fahr.", "verify": "-13° Fahr. outside."}
+{"pid": "b2p054", "q": "How warm could their hut get inside?", "a": "72½°", "verify": "72½° Fahrenheit."}
+{"pid": "b2p054", "q": "For what purpose was the topgallant mast used?", "a": "as a flagstaff", "verify": "As a flagstaff to attract attention."}
+{"pid": "b2p054", "q": "Who is 'we' in this context referring to?", "a": "The expedition members", "verify": "The group surviving on the floe."}
+{"pid": "b2p054", "q": "What was the atmospheric temperature outside their hut?", "a": "-13° Fahr.", "verify": "-13° Fahr."}
+{"pid": "b2p054", "q": "How long would the provisions stored in boats last?", "a": "about two months", "verify": "Enough for about two months."}
+{"pid": "b2p055", "q": "What sound did they reach by November 3rd?", "a": "Scoresby’s Sound", "verify": "Scoresby’s Sound."}
+{"pid": "b2p055", "q": "How far from the coast were some blocks of ice frozen?", "a": "to the floe again", "verify": "Even the blocks which had broken away had frozen to it again, four miles away."}
+{"pid": "b2p055", "q": "Who had an attack of fever when the ship went down?", "a": "Schmidt", "verify": "Schmidt had an attack of fever."}
+{"pid": "b2p055", "q": "What did they have for dinner at one o'clock?", "a": "Strong meat-soup", "verify": "Strong meat-soup formed the meal."}
+{"pid": "b2p055", "q": "How many hours could they see to read and write in the coal-house each day?", "a": "a few hours", "verify": "For a few hours each day."}
+{"pid": "b2p055", "q": "Who was frost-bitten?", "a": "Büttner", "verify": "Sailor Büttner was frost-bitten."}
+{"pid": "b2p055", "q": "What time did the last night-watch wake them up?", "a": "at seven", "verify": "At seven, the last night-watch woke us."}
+{"pid": "b2p055", "q": "What was the setting of the passage about?", "a": "ice-field", "verify": "Passage describes drifting ice floe near Arctic coast."}
+{"pid": "b2p055", "q": "How long had they been in this situation since the ship sank?", "a": "fourteen days", "verify": "Since the ship sank fourteen days before."}
+{"pid": "b2p055", "q": "What was their state of health during the winter?", "a": "good", "verify": "Good health of all, except minor issues."}
+{"pid": "b2p056", "q": "What was the approximate circumference of their ice mass?", "a": "seven nautical miles", "verify": "About seven nautical miles."}
+{"pid": "b2p056", "q": "How thick above water was the average thickness of the ice field?", "a": "about five feet", "verify": "About five feet above the water."}
+{"pid": "b2p056", "q": "What term is used for smaller pieces of ice than floes?", "a": "drifts", "verify": "Smaller pieces are called \"drifts.\""}
+{"pid": "b2p056", "q": "What did they call their ice-raft that drifted between sea and coast?", "a": "the Lord’s passengers", "verify": "It was called \"the Lord’s passengers.\""}
+{"pid": "b2p056", "q": "How high was the piled-up snow often?", "a": "eight feet high", "verify": "Often eight feet high."}
+{"pid": "b2p056", "q": "On what date did they observe intense Aurora borealis?", "a": "5th of December", "verify": "5th of December"}
+{"pid": "b2p056", "q": "What time of year were they at the beginning of January?", "a": "end of the year", "verify": "They were at the beginning of January, end of December."}
+{"pid": "b2p056", "q": "What natural phenomenon allowed them to read fine writing on snowy nights?", "a": "the light streaming downwards from the heavens", "verify": "The Aurora borealis lit up the snow."}
+{"pid": "b2p056", "q": "How high were the walls formed by grating and pressing ice-floes in the west and northwest?", "a": "ten feet high", "verify": "Ten feet high."}
+{"pid": "b2p056", "q": "What turned the white flakes of snow pale green according to the passage?", "a": "The morning and evening Aurora", "verify": "The morning and evening Aurora turned them pale green."}
+{"pid": "b2p057", "q": "What were the two snow-houses used for?", "a": "washing and drying", "verify": "For washing and drying ourselves."}
+{"pid": "b2p057", "q": "How far from the Liverpool coast did they observe leaves?", "a": "eight nautical miles", "verify": "About eight nautical miles."}
+{"pid": "b2p057", "q": "Who thought the red-stone dust was volcanic?", "a": "Dr. Laube", "verify": "Dr. Laube thought it was volcanic."}
+{"pid": "b2p057", "q": "What distance separated them from Iceland?", "a": "180 nautical miles", "verify": "About 180 nautical miles."}
+{"pid": "b2p057", "q": "Which animals did they hunt in November?", "a": "walrus", "verify": "They hunted a large walrus in November."}
+{"pid": "b2p057", "q": "Who started the walrus chase?", "a": "Hildebrandt and Bade", "verify": "Steersmen Hildebrandt and Bade with others."}
+{"pid": "b2p057", "q": "What weapon was used to kill the walrus?", "a": "needle-gun", "verify": "The needle-gun proved its value."}
+{"pid": "b2p057", "q": "How thick was the walrus's hide?", "a": "inch-thick", "verify": "The walrus's hide was inch-thick."}
+{"pid": "b2p057", "q": "How long did it take to move the walrus onto the ice?", "a": "several hours", "verify": "Several hours with ten men's strength and a pulley."}
+{"pid": "b2p057", "q": "What kind of ice were they on when hunting the walrus?", "a": "young ice", "verify": "Young ice, frozen water separating floes."}
+{"pid": "b2p058", "q": "What was the temperature in Fahrenheit?", "a": "-20° Fahr.", "verify": "-20° Fahr."}
+{"pid": "b2p058", "q": "How thick was the fat layer under the skin?", "a": "three inches", "verify": "Three inches thick."}
+{"pid": "b2p058", "q": "What dish were salted walrus tongues considered?", "a": "a favourite dish", "verify": "A favorite dish among whale-fishers."}
+{"pid": "b2p058", "q": "How far away did the bear lie after being shot?", "a": "About 100 yards", "verify": "About 100 yards distant."}
+{"pid": "b2p058", "q": "What killed the bear according to the passage?", "a": "hit in the side by the bullet", "verify": "Three shots hit the bear."}
+{"pid": "b2p058", "q": "What was the date of their second encounter with the bear?", "a": "23rd of November", "verify": "The 23rd of November."}
+{"pid": "b2p058", "q": "How many nautical miles did they drift from November 5th to November 13th?", "a": "eight nautical miles", "verify": "Eight nautical miles daily."}
+{"pid": "b2p058", "q": "What natural phenomenon provided daily conversation material?", "a": "the northern lights", "verify": "The bright northern lights afforded us daily an agreeable matter for conversation."}
+{"pid": "b2p058", "q": "What color were the rays of the northern lights according to the passage?", "a": "dazzling-coloured", "verify": "Dazzling-coloured rays stretched over horizon."}
+{"pid": "b2p058", "q": "How did the light from the northern lights affect the shadows and stars?", "a": "shadows sharply defined, stars' light weakened", "verify": "Shadows were sharply defined, stars' light weakened."}
+{"pid": "b2p059", "q": "What was the date of the first sighting of an iceberg?", "a": "5th of November", "verify": "On November 5th, we saw a great iceberg."}
+{"pid": "b2p059", "q": "How far from the coast were they when they saw the iceberg?", "a": "Ten to fifteen nautical miles", "verify": "About ten to fifteen nautical miles."}
+{"pid": "b2p059", "q": "Which direction was the iceberg seen in relation to Scoresby’s Sound?", "a": "North-west", "verify": "North-west towards Scoresby’s Sound."}
+{"pid": "b2p059", "q": "What is another name for a fjord?", "a": "Fjord", "verify": "A Fjord is also called a submarine current."}
+{"pid": "b2p059", "q": "What was the temperature on November 6th?", "a": "-20° Fahr.", "verify": "-20° Fahr. on 6th November."}
+{"pid": "b2p059", "q": "In which direction did driving snow come from on December 20th?", "a": "South-west", "verify": "From the south-west."}
+{"pid": "b2p059", "q": "What was the temperature on December 3rd?", "a": "35° Fahr.", "verify": "35° Fahr."}
+{"pid": "b2p059", "q": "Which cape is located at 69° 14′ N.L. and 24° 30′ W.L.? ", "a": "Cape Barclay", "verify": "Cape Barclay is located there."}
+{"pid": "b2p059", "q": "What was the temperature on December 1st evening?", "a": "32.2° Fahr.", "verify": "32.2° Fahr. evening of the 1st December."}
+{"pid": "b2p059", "q": "How far from them was the iceberg when first seen?", "a": "About four nautical miles", "verify": "About four nautical miles from them."}

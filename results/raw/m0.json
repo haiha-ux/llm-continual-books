@@ -1,0 +1,4354 @@
+{
+ "name": "m0",
+ "stages": [],
+ "experts": [],
+ "sets": {
+  "book1": {
+   "summary": {
+    "acc": 0.006666666666666667,
+    "lo": 0.0,
+    "hi": 0.02,
+    "n": 150,
+    "k": 1
+   },
+   "rows": [
+    {
+     "q": "Who gave a gift of woollen caps to the individuals on board the 'Alert'?",
+     "a": "Empress Eugénie",
+     "pred": "The gift of woollen caps to the individuals on board the HMS \"Alert\" was given by Captain Robert Falcon Scott. This occurred during Scott's Discovery Expedition (",
+     "ok": false
+    },
+    {
+     "q": "What was the height of the hill above Cape Morton?",
+     "a": "two thousand feet",
+     "pred": "To accurately answer your question about the height of the hill above Cape Morton, I would need more specific information such as which particular hill you are referring to. Cape",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the ship that ran aground near Cape Louis Napoleon?",
+     "a": "Discovery",
+     "pred": "The ship that ran aground near Cape Louis Napoleon (now known as Cape Leeuwin) was the SS Harmonia. This German steamer grounded on December",
+     "ok": false
+    },
+    {
+     "q": "What was the normal condition for many days during the voyage of the \"Valorous\" to Disco?",
+     "a": "head winds",
+     "pred": "Unfortunately, the specific voyage of the \"Valorous\" to Disco Island is not well-documented in my existing knowledge. However, based on historical voyages to",
+     "ok": false
+    },
+    {
+     "q": "In what year was an iron boat said to have been left on Littleton Island?",
+     "a": "1860",
+     "pred": "There doesn't appear to be any widely known or documented account of an iron boat being left on Littleton Island. Could you provide more context or details about this",
+     "ok": false
+    },
+    {
+     "q": "In twenty-four hours, the ice began to slacken and the ship was able to bore a way through, eventually emerging into a broad stream of water. How fast were they traveling in the open water that evening?",
+     "a": "seven knots",
+     "pred": "To determine how fast the ship was traveling in the open water that evening, we need more specific information about the distance traveled and the time taken. Since this information",
+     "ok": false
+    },
+    {
+     "q": "How many hours did it take to reach the North Water?",
+     "a": "Seventy hours",
+     "pred": "I'm sorry, but I don't have enough context to answer your question accurately. Could you please provide more details about which journey or expedition you are referring to",
+     "ok": false
+    },
+    {
+     "q": "What was the weather like on July 1st?",
+     "a": "beautiful, bright, clear, sunny",
+     "pred": "I'm sorry, but I need more context to provide an accurate answer. July 1st refers to different dates in different years and in different time zones.",
+     "ok": false
+    },
+    {
+     "q": "What was the lowest temperature marked on the Casella thermometers found by the explorers?",
+     "a": "130° below zero",
+     "pred": "To determine the lowest temperature marked on the Casella thermometers found by the explorers, we need more specific information about the thermometers and the context in which",
+     "ok": false
+    },
+    {
+     "q": "Who visited the expedition before its departure on May 29th?",
+     "a": "Lords Commissioners of the Admiralty",
+     "pred": "The specific person who visited the expedition before its departure on May 29th is not mentioned in the given information. However, if you are referring to a",
+     "ok": false
+    },
+    {
+     "q": "What expedition did Admiral Sherard Osborn and Mr. Clements Markham study Eskimo vestiges during?",
+     "a": "Arctic Expedition of 1850-51",
+     "pred": "Admiral Sherard Osborn and Mr. Clements Markham studied Eskimo vestiges during the Royal Naval Expedition to North-Western America, which took",
+     "ok": false
+    },
+    {
+     "q": "What was the supposed representation of the 'Twelve Apostles'?",
+     "a": "a heap of stones",
+     "pred": "The 'Twelve Apostles' in Christianity are traditionally believed to be the twelve men chosen by Jesus Christ to be his closest followers and disciples. They are often",
+     "ok": false
+    },
+    {
+     "q": "What date did the Arctic circle get crossed?",
+     "a": "4th of July",
+     "pred": "The Arctic Circle is not a single point that gets \"crossed\" by a date, but rather it's a line of latitude at 66.5",
+     "ok": false
+    },
+    {
+     "q": "In which bay was Berehaven located?",
+     "a": "in Bantry Bay",
+     "pred": "Berehaven is not a bay, but rather a harbor located within the Bantry Bay in County Cork, Ireland. So to directly answer your question: Bere",
+     "ok": false
+    },
+    {
+     "q": "What was the weather like during the voyage of the \"Discovery\" through the ice pack in Melville Bay?",
+     "a": "fine and calm",
+     "pred": "The voyage of the \"Discovery\" through the ice pack in Melville Bay, Greenland, took place from 1902 to 1903",
+     "ok": false
+    },
+    {
+     "q": "What is the latitude of Ivigtut?",
+     "a": "61° 10´ N.",
+     "pred": "Ivigtut is a settlement in Greenland, and its latitude is approximately 72.1333° North.",
+     "ok": false
+    },
+    {
+     "q": "What is the common name for Hartstene Bay?",
+     "a": "Port Foulke",
+     "pred": "Hartstene Bay is commonly known as Hecate Strait. However, it's important to note that Hartstene Bay is a specific inlet of H",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the group of islands in Disco Bay?",
+     "a": "Whale-fish Islands",
+     "pred": "Disco Bay is located on the east coast of Baffin Island in Nunavut, Canada. The primary group of islands in Disco Bay is called the",
+     "ok": false
+    },
+    {
+     "q": "What is the name of the Danish station located at 73° 24´ N latitude?",
+     "a": "Tasiusak",
+     "pred": "The Danish station located at 73° 24′ N latitude is the Danish Polar Station, located in Alert, Nunavut, Canada. However",
+     "ok": false
+    },
+    {
+     "q": "How many days did the ship experience rough seas before arriving at Godhavn?",
+     "a": "thirty-four days",
+     "pred": "To answer this question, I would need more specific information about the journey, such as a log or report detailing the weather conditions each day of the voyage. Without",
+     "ok": false
+    },
+    {
+     "q": "What direction does Bessels Bay extend?",
+     "a": "N.W. and S.E.",
+     "pred": "Bessels Bay is a small bay located on the southern coast of Namibia, near the town of Lüderitz. It extends in an east-west",
+     "ok": false
+    },
+    {
+     "q": "What did the 'Polaris' navigate in the north of Smith Sound?",
+     "a": "North Water",
+     "pred": "The \"Polaris\" navigated through the ice-filled waters of Smith Sound, which is located in the northern part of Baffin Island in Nunav",
+     "ok": false
+    },
+    {
+     "q": "How long was the cut from F to D?",
+     "a": "120 ft.",
+     "pred": "I'm sorry, but I don't have any information about a cut from F to D in our current conversation. Could you please provide more context or details about",
+     "ok": false
+    },
+    {
+     "q": "What island was named after astronomer Norman Lockyer?",
+     "a": "Norman Lockyer Island",
+     "pred": "The island named after astronomer Norman Lockyer is Gough Island, located in the South Atlantic Ocean. \n\nNorman Lockyer was a British astronomer and",
+     "ok": false
+    },
+    {
+     "q": "On Friday, August 20th, at what time did they start their journey?",
+     "a": "At one o'clock this morning.",
+     "pred": "Unfortunately, the provided information does not include a specific starting time for their journey on Friday, August 20th. To accurately answer this question, more details",
+     "ok": false
+    },
+    {
+     "q": "How many bears were seen by the crew of the expedition that encountered Master Bruin on the ice floe?",
+     "a": "one",
+     "pred": "To answer this question, we need more context about which specific expedition and encounter you are referring to. The term \"Master Bruin\" is often used colloqu",
+     "ok": false
+    },
+    {
+     "q": "What year did Sir Humphrey Gilbert sail for new lands?",
+     "a": "1583",
+     "pred": "Sir Humphrey Gilbert sailed for new lands in 1583. Specifically, he led an expedition that year with the goal of establishing a English colony in",
+     "ok": true
+    },
+    {
+     "q": "What game was purchased by the expedition before leaving England?",
+     "a": "a football",
+     "pred": "I'm sorry, but I don't have enough context to answer this question accurately. Could you please provide more details about which expedition you are referring to? Different",
+     "ok": false
+    },
+    {
+     "q": "On which side of Grinnell Land is Franklin Pierce Bay located?",
+     "a": "southern shore",
+     "pred": "Franklin Pierce Bay is located on the east side of Grinnell Land in the Antarctic Peninsula region.",
+     "ok": false
+    },
+    {
+     "q": "What were the ships doing on the evening of July 21st?",
+     "a": "Leaving Proven",
+     "pred": "I'm sorry, but I need more context to provide an accurate answer. Could you please specify which ships you are referring to? There could be many ships and",
+     "ok": false
+    },
+    {
+     "q": "What channels are north of Cape Fraser?",
+     "a": "Kennedy and Robeson Channels",
+     "pred": "Cape Fraser is located at the northern tip of Queensland, Australia, and marks the boundary between the Great Barrier Reef Marine Park and the Torres Strait. The waters",
+     "ok": false
+    },
+    {
+     "q": "On Monday, August 23rd, at what time did Polaris and Discovery reach the end of their tether?",
+     "a": "10 A.M.",
+     "pred": "I'm sorry, but I don't have any specific information about Polaris and Discovery reaching an end of a tether on Monday, August 23rd.",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the cape that the ships rounded on August 4th?",
+     "a": "Cape Sabine",
+     "pred": "To accurately answer your question, I would need more context about which specific expedition or voyage you are referring to. Many historical expeditions have rounded various capes during",
+     "ok": false
+    },
+    {
+     "q": "During the Arctic expedition aboard the Discovery, how many birds were shot during the hunting trip?",
+     "a": "one hundred and seventy birds",
+     "pred": "During Robert Falcon Scott's Antarctic expedition aboard the Discovery from 1901 to 1904, there were several hunting trips where birds were shot",
+     "ok": false
+    },
+    {
+     "q": "How high was Cape Isabella above sea level?",
+     "a": "one thousand feet",
+     "pred": "Cape Isabella is not a mountain or a hill, but rather a cape located on the Antarctic Peninsula. As such, it does not have an elevation above",
+     "ok": false
+    },
+    {
+     "q": "What was the weather like on the clear sunny morning when the two vessels were steaming along the western shores of Greenland?",
+     "a": "beautifully clear sunny",
+     "pred": "The description provided is quite general, but based on the context given (a clear sunny morning with vessels steaming along the western shores of Greenland), we can infer",
+     "ok": false
+    },
+    {
+     "q": "What was visible at the head of the bay during the voyage past Cape Hawks?",
+     "a": "a large glacier",
+     "pred": "I'm sorry, but I couldn't find any specific information about a voyage past Cape Hawks and what was visible at its head in historical records or geographical data.",
+     "ok": false
+    },
+    {
+     "q": "What was the largest number of walruses harpooned at once during the Arctic expedition aboard the ship?",
+     "a": "three",
+     "pred": "I don't have specific information about the largest number of walruses harpooned at once during any particular Arctic expedition or on a specific ship. Walrus",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the ship that got stuck on shore after being led close to the land by the pilot in Upernivik's Melville Bay?",
+     "a": "Alert",
+     "pred": "The ship you are referring to is likely the \"Brøndum-Nielsen.\" This Danish whaling ship became stranded on the coast near Upern",
+     "ok": false
+    },
+    {
+     "q": "Where was the island of Disco located?",
+     "a": "on the west coast of Greenland",
+     "pred": "There are actually two notable islands named Disco, but they are in different locations:\n\n1. **Disco Island (Disko Island)**: This is an island",
+     "ok": false
+    },
+    {
+     "q": "What kind of fossils have been found near Point Kardluk?",
+     "a": "Vegetable fossils",
+     "pred": "Point Kardluk, located on Ellesmere Island in Nunavut, Canada, is part of the Queen Maud Gulf Migratory Bird Sanctuary",
+     "ok": false
+    },
+    {
+     "q": "What type of ale was provided by Government?",
+     "a": "Allsopp's ale",
+     "pred": "The question appears to be referring to a historical context, likely involving British military or colonial forces. In many cases throughout history, the British military and colonial governments provided",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the island where the little squadron steamed out of its harbour and navigated through icebergs towards the settlement of Ritenbenk?",
+     "a": "Disco",
+     "pred": "The island you are referring to is most likely Spitsbergen, which is part of Svalbard. The little squadron, which was a German naval unit",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the ship that witnessed the departure from Portsmouth?",
+     "a": "Alert",
+     "pred": "The ship that witnessed the departure from Portsmouth was the HMS Victory. This famous ship, under the command of Admiral Horatio Nelson, was present in Portsmouth Harbor on",
+     "ok": false
+    },
+    {
+     "q": "What instrument was used to measure the chest capacity during the physical examination of the expedition members aboard the \"Alert\"?",
+     "a": "an instrument called a spirometer",
+     "pred": "During the physical examination of the expedition members aboard the HMS Alert in the late 19th century, a plethysmograph was used to measure chest",
+     "ok": false
+    },
+    {
+     "q": "What did John Davis call the high, bold, and snow-capped hills?",
+     "a": "Cape Desolation",
+     "pred": "John Davis called the high, bold, and snow-capped hills the \"Snow Hill Range.\" This was during his voyage on the Discovery in 177",
+     "ok": false
+    },
+    {
+     "q": "During our brief stay at Godhavn, what kind of shadows did the sunshine throw into the valleys and ravines?",
+     "a": "deep dark shadows",
+     "pred": "Without specific details about your visit to Godhavn, I can provide a general description based on typical geographical features of such an area. Godhavn is a",
+     "ok": false
+    },
+    {
+     "q": "What was the direction of the wind for the expedition that passed close to Crozier Island?",
+     "a": "directly ahead",
+     "pred": "I couldn't find specific information about the wind direction for the expedition that passed close to Crozier Island. The expedition you might be referring to is likely the British",
+     "ok": false
+    },
+    {
+     "q": "During a heavy sea on the 13th, what was washed away from the \"Alert\"?",
+     "a": "starboard whale boat",
+     "pred": "Based on historical records, during a heavy sea on May 13, 1942, the Canadian Arctic weather station \"Alert\" experienced significant damage",
+     "ok": false
+    },
+    {
+     "q": "How many boats were supplied to each vessel in this Arctic expedition?",
+     "a": "nine",
+     "pred": "I'm sorry, but I don't have enough context to answer your question accurately. Could you please provide more details about the specific Arctic expedition you are referring to",
+     "ok": false
+    },
+    {
+     "q": "What was the Alert's previous service?",
+     "a": "foreign stations",
+     "pred": "The Alert was a Royal Navy minesweeper that previously served in the Royal Canadian Navy. Specifically, it was originally built for the Royal Canadian Navy as HMCS",
+     "ok": false
+    },
+    {
+     "q": "When did Hans Egede land at Godthaab?",
+     "a": "July 3rd, 1721",
+     "pred": "Hans Egede landed at Godthaab (now known as Nuuk) on July 13, 1721. This was the",
+     "ok": false
+    },
+    {
+     "q": "What separated Disco from the mainland of Greenland?",
+     "a": "Waigat",
+     "pred": "Disco is not separated from the mainland of Greenland by any significant body of water. Disco (now known as Qeqertarsuaq) is a town",
+     "ok": false
+    },
+    {
+     "q": "What was the Alert's hull overhauled for?",
+     "a": "hazardous service",
+     "pred": "I'm sorry, but I need more context to provide a specific answer. \"Alert\" could refer to multiple ships or installations. Could you please specify which \"",
+     "ok": false
+    },
+    {
+     "q": "On Saturday, August 21st, how long did the Discovery try to penetrate the pack ice?",
+     "a": "two or three hours",
+     "pred": "I couldn't find specific information on how long the Discovery tried to penetrate the pack ice on Saturday, August 21st. The Discovery was part of the",
+     "ok": false
+    },
+    {
+     "q": "Who was the captain who led the expedition that reached Victoria Head on August 8th?",
+     "a": "Captain Nares",
+     "pred": "The expedition that reached Victoria Head on August 8th was led by James Cook, the famous British explorer. During his third and final voyage of exploration, Cook",
+     "ok": false
+    },
+    {
+     "q": "What did the crew on the Discovery keep ready for emergencies?",
+     "a": "Steam",
+     "pred": "In the Star Trek: The Next Generation series, the crew of the USS Discovery kept various emergency supplies and equipment ready for potential crises. Some examples include:\n\n1",
+     "ok": false
+    },
+    {
+     "q": "What is the value of a dead \"right\" whale in pounds sterling that was observed floating by the Davis Strait expedition?",
+     "a": "about £1,000",
+     "pred": "I couldn't find specific information about the value of a dead right whale observed during the Davis Strait expedition in pounds sterling. The Davis Strait is located between southern Greenland",
+     "ok": false
+    },
+    {
+     "q": "How long was the stay during the expedition in Hayes Sound?",
+     "a": "a few hours",
+     "pred": "I don't have specific information about the length of the stay during the expedition in Hayes Sound. The details can vary depending on which expedition or exploration you are referring",
+     "ok": false
+    },
+    {
+     "q": "At 9 P.M., what promontory did they pass?",
+     "a": "Cape Hawks",
+     "pred": "I'm sorry, but I don't have any context about what or where you're referring to. Could you please provide more details or clarify your question? For",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the Inspector who helped obtain the native Eskimo?",
+     "a": "Mr. Krarup Smith",
+     "pred": "It seems you might be referring to a specific story or book, likely from literature or perhaps a film. However, without more context, it's difficult to pinpoint",
+     "ok": false
+    },
+    {
+     "q": "By which fiord were you unable to see the truly grand scenery, despite passing through Waigat Strait?",
+     "a": "Omenak fiord",
+     "pred": "It seems there might be a bit of confusion in your question. Let's break it down:\n\n1. **Waikato Strait**: This is a strait",
+     "ok": false
+    },
+    {
+     "q": "How long did it take to dock the ships during the expedition in Dobbin Bay?",
+     "a": "four hours",
+     "pred": "I apologize, but I don't have specific information about how long it took to dock the ships during an expedition in Dobbin Bay. The details you're asking",
+     "ok": false
+    },
+    {
+     "q": "How many pounds of preserved beef were left at the secure niche on Littleton Island for any sledging party that might be dispatched to the southward?",
+     "a": "about one hundred and fifty pounds",
+     "pred": "Based on historical records, it appears that the British expedition led by Robert Falcon Scott stored approximately 10,820 pounds (or about 5,",
+     "ok": false
+    },
+    {
+     "q": "What current caused them to not reach the Cary Islands as soon as expected?",
+     "a": "S.E. current",
+     "pred": "I'm sorry, but your question is a bit unclear. Could you please provide more context or specify which \"them\" you are referring to? Are you asking",
+     "ok": false
+    },
+    {
+     "q": "On Sunday, August 22nd, what wind was blowing when the crew reached the North Water?",
+     "a": "northerly",
+     "pred": "I'm sorry, but I don't have enough context to answer your question accurately. To provide a specific answer about the wind conditions on August 22nd",
+     "ok": false
+    },
+    {
+     "q": "What was the value of the punch received by the individuals on board the \"Alert\"?",
+     "a": "four bottles of excellent punch",
+     "pred": "I couldn't find any specific information about the value of the punch received by the individuals on board the \"Alert.\" The \"Alert\" you might be referring to",
+     "ok": false
+    },
+    {
+     "q": "What was the expected direction of the lead of water that Captain left to observe from Cape Morton?",
+     "a": "west coast",
+     "pred": "Cape Morton is located on the northeastern coast of Queensland, Australia. Given its position, if Captain Cook or another explorer left a lead (a marker or buoy",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the cape into which the \"Discovery\" steamed after breaking through the ice?",
+     "a": "Cape Louis Napoleon",
+     "pred": "After breaking through the ice, the \"Discovery\" steamed into Cape Royds. This location is on the Ross Island in Antarctica, where the British Antarctic Expedition",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the ship that was allowed to ignore the presence of a senior officer and make the best course for Disco on June 5th?",
+     "a": "Valorous",
+     "pred": "The ship you are referring to is the USS Bear. On June 5, 1903, the USS Bear was allowed by Commander Robert E.",
+     "ok": false
+    },
+    {
+     "q": "What was the shape of the boat found on Littleton Island?",
+     "a": "European shape",
+     "pred": "The boat found on Littleton Island in 1931 was a dhow, which is a type of sailing vessel commonly used in the Indian Ocean and",
+     "ok": false
+    },
+    {
+     "q": "What were the names of the islands that Hayes believed to be connected?",
+     "a": "Henry and Bache Islands",
+     "pred": "It seems you might be referring to Benjamin Harrison Hayes, a U.S. naval officer and explorer who conducted an expedition in the Pacific Ocean during the late 1",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the place where the 'Alert' was ordered to go?",
+     "a": "Cary Islands",
+     "pred": "The \"Alert\" was ordered to go to Alert, Nunavut. Alert is a Canadian weather station and military base located in the Qikiqtaal",
+     "ok": false
+    },
+    {
+     "q": "What type of ice were the fragments that the vessel, which was navigating through streams of ice, encountering on its journey to Greenland?",
+     "a": "fragments of heavy pack ice",
+     "pred": "Based on the context provided, it seems the vessel was navigating through a region with large icebergs or ice chunks, likely calved from glaciers or ice shelves",
+     "ok": false
+    },
+    {
+     "q": "What items were the members of the expedition trying to return to the United States Government?",
+     "a": "books and instruments",
+     "pred": "I'm sorry, but I don't have enough context to answer your question. Could you please provide more details about which specific expedition you are referring to? There",
+     "ok": false
+    },
+    {
+     "q": "What happened to the clouds when the ships departed on May 29th from Portsmouth Harbour?",
+     "a": "all clouds cleared away",
+     "pred": "Unfortunately, there is no specific historical record or widely known account of the weather conditions on May 29th, 1620, when the ships",
+     "ok": false
+    },
+    {
+     "q": "What is the name of the inlet where Eskimos are still living?",
+     "a": "Dundas Harbour",
+     "pred": "The question seems to be referring to a specific location where indigenous people, often called Eskimos or Inuit, are still living. However, it's important to",
+     "ok": false
+    },
+    {
+     "q": "On which date were they able to round Cape Fraser in their journey?",
+     "a": "19th of August",
+     "pred": "I'm sorry, but your question is missing some context. Could you please provide more details about the specific journey or expedition you are referring to? There have been",
+     "ok": false
+    },
+    {
+     "q": "What is the most important establishment in the Inspectorate of North Greenland?",
+     "a": "the little Danish settlement of Godhavn",
+     "pred": "The most important establishment in the Inspectorate of North Greenland, which is part of the Greenland Home Rule Government, would likely be the Qaanaaq Settlement Office",
+     "ok": false
+    },
+    {
+     "q": "What did the officers enjoy on shore in Castletown?",
+     "a": "a farewell ramble",
+     "pred": "I don't have specific information about what officers enjoyed on shore in Castletown. Castletown is the capital city of the Isle of Man, a self",
+     "ok": false
+    },
+    {
+     "q": "On June 25th, a vessel was sighted steering in the opposite direction to the expedition's ship. What mineral was this vessel likely carrying?",
+     "a": "cryolite",
+     "pred": "The information provided does not specify the exact location or context of the sighting, but based on historical expeditions and known trade routes, it is likely that the vessel",
+     "ok": false
+    },
+    {
+     "q": "In which year did Dr. Hayes winter in this location?",
+     "a": "1860",
+     "pred": "I'm sorry, but your question is missing some crucial information. Could you please provide more details about which location and Dr. Hayes you are referring to? Without",
+     "ok": false
+    },
+    {
+     "q": "How many vessels were at anchor in Godhavn's little harbor?",
+     "a": "three",
+     "pred": "I'm sorry, but I don't have specific information about the number of vessels anchored in Godhavn's little harbor. Godhavn is a small harbor",
+     "ok": false
+    },
+    {
+     "q": "What is the name of the water body that the explorers encountered while navigating through narrow passages between islands east of Upernivik?",
+     "a": "North Water",
+     "pred": "The explorers likely encountered Baffin Bay or Davis Strait while navigating through narrow passages between islands east of Upernivik. Both of these bodies of",
+     "ok": false
+    },
+    {
+     "q": "How many Eskimo dogs were initially received on board?",
+     "a": "twenty-four",
+     "pred": "I'm sorry, but I don't have any specific information about the number of Eskimo dogs initially received on board without more context. Could you please provide more",
+     "ok": false
+    },
+    {
+     "q": "What type of landform is Hannah Island?",
+     "a": "terminal moraine",
+     "pred": "Hannah Island is an example of a volcanic island. It is located in the Prince Charles Mountains of East Antarctica and is part of the Australian Antarctic Territory. The",
+     "ok": false
+    },
+    {
+     "q": "Who reported an open Polar Sea in the latitude of Cape Fraser?",
+     "a": "Kane",
+     "pred": "The report of an open Polar Sea in the latitude of Cape Fraser was made by the British explorer William Edward Parry during his second Arctic expedition (182",
+     "ok": false
+    },
+    {
+     "q": "What was the distance from B to C?",
+     "a": "35 ft.",
+     "pred": "I'm sorry, but I don't have any previous information or context about points B and C to determine the distance between them. Could you please provide more details",
+     "ok": false
+    },
+    {
+     "q": "What was the height range of the highest part of Norman Lockyer Island?",
+     "a": "from five to six hundred feet",
+     "pred": "Norman Lockyer Island, located in the Amundsen Sea Embayment of West Antarctica, is a nunatak. Nunataks are isolated peaks or mountain",
+     "ok": false
+    },
+    {
+     "q": "What specific feature did the north-west side of Scoresby Bay have?",
+     "a": "A perfect cone-shaped hill.",
+     "pred": "The north-west side of Scoresby Bay, which is part of the East Greenland coast, has a prominent feature known as the George VI Ice Shelf. This ice",
+     "ok": false
+    },
+    {
+     "q": "How many persons were in the 'Sunneshine'?",
+     "a": "twenty-three",
+     "pred": "I'm sorry, but I don't have any specific information about how many people were on the ship named 'Sunneshine'. Could you please provide more",
+     "ok": false
+    },
+    {
+     "q": "What weapon is the only sure way to capture walruses during an Arctic expedition?",
+     "a": "the harpoon",
+     "pred": "The only sure way to capture walruses during an Arctic expedition, while ensuring the safety of both the walruses and the expedition members, is using non",
+     "ok": false
+    },
+    {
+     "q": "On Sunday, August 8th, how deep was the snow on the deck during the Grinnell Expedition's voyage?",
+     "a": "several inches",
+     "pred": "I apologize, but there doesn't appear to be any information available about a Grinnell Expedition voyage taking place on Sunday, August 8th with details about",
+     "ok": false
+    },
+    {
+     "q": "In which year was \"Sanderson, his hope\" headland named by old John Davis after his friend and patron?",
+     "a": "1587",
+     "pred": "\"Sanderson, his hope\" headland was named in 1542 by John Davis, after his friend and patron Sir Henry Sanderson. John",
+     "ok": false
+    },
+    {
+     "q": "What year did Morton see a similar pool of water?",
+     "a": "1855",
+     "pred": "I'm sorry, but I don't have enough context to answer your question. Could you please provide more information about which \"Morton\" you are referring to",
+     "ok": false
+    },
+    {
+     "q": "What basin did Polaris Bay's ships see the ice stretching across?",
+     "a": "Hall Basin",
+     "pred": "Polaris Bay is a fictional location from the novel \"The Water Will Come\" by Jeff Goodell. In the book, Polaris Bay is described as",
+     "ok": false
+    },
+    {
+     "q": "What were the explorers walking on after landing at Hayes Sound?",
+     "a": "loose masses of gneiss",
+     "pred": "The information provided does not specify what the explorers were walking on after landing at Hayes Sound. To provide an accurate answer, more context or details about the specific",
+     "ok": false
+    },
+    {
+     "q": "How high were the cliffs during the expedition to Upernivik?",
+     "a": "about a thousand feet",
+     "pred": "I couldn't find specific information about the height of the cliffs during the expedition to Upernivik. The expedition you might be referring to is likely the",
+     "ok": false
+    },
+    {
+     "q": "What was the material of the rocks composing Cape Isabella?",
+     "a": "syenitic granite",
+     "pred": "Cape Isabella is located on the Antarctic Peninsula, and based on geological studies, the rocks in this area are primarily composed of metamorphic rocks. Specifically,",
+     "ok": false
+    },
+    {
+     "q": "What color were the glaciers that grew out of the clouds and rolled down towards the sea as you sailed past Murchison Sound?",
+     "a": "white and radiant",
+     "pred": "The glaciers in Murchison Sound, which is located on the western side of the South Island of New Zealand, are typically blue. This blue coloration is",
+     "ok": false
+    },
+    {
+     "q": "What were the bergs like in relation to Cape Hawks during the voyage?",
+     "a": "long low",
+     "pred": "I believe you might be referring to a specific historical or fictional account involving \"bergs\" (icebergs) and \"Cape Hawks,\" but without more",
+     "ok": false
+    },
+    {
+     "q": "What was the harpooner's action before shooting the largest walrus on the expedition to the Arctic regions?",
+     "a": "laid his gun",
+     "pred": "I'm sorry, but I don't have any specific context or reference to an expedition to the Arctic regions involving a harpooner and a large walrus.",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the ship that led them into Melville Bay?",
+     "a": "Alert",
+     "pred": "The ship that led the expedition into Melville Bay was the \"HMS Adventure,\" part of James Clark Ross's 1839-184",
+     "ok": false
+    },
+    {
+     "q": "What were the questions asked to candidates for Arctic service?",
+     "a": "Can you sing or dance?",
+     "pred": "The specific questions asked of candidates for Arctic service varied depending on the organization and time period, but generally included a range of topics related to physical fitness, navigation,",
+     "ok": false
+    },
+    {
+     "q": "What weather condition forced the \"Valorous\" to anchor and prevented the other ships from communicating?",
+     "a": "Fog",
+     "pred": "The passage you're referring to mentions that a strong gale forced the \"Valorous\" to anchor, which in turn prevented the other ships from communicating effectively.",
+     "ok": false
+    },
+    {
+     "q": "Where was lime juice served out on the Arctic Expedition?",
+     "a": "on the quarter-deck",
+     "pred": "I couldn't find specific information about where lime juice was served during an Arctic expedition. However, it's important to note that lime juice was commonly used as a",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the harbor where the little squadron steamed out on July 15th?",
+     "a": "Godhavn",
+     "pred": "To accurately answer your question, I would need more context about which specific historical event or text you are referring to. The details provided (July 15th",
+     "ok": false
+    },
+    {
+     "q": "Where did the departure take place for the squadron consisting of multiple ships including the \"Alert\"?",
+     "a": "Portsmouth",
+     "pred": "The departure you're referring to likely took place from Devonport, Plymouth, England. The \"Alert\" was part of a squadron that departed from there in ",
+     "ok": false
+    },
+    {
+     "q": "What was the duration of the spirometer test for the members of the expedition aboard the \"Alert\"?",
+     "a": "for an hour or more",
+     "pred": "The duration of the spirometer test for the members of the expedition aboard the HMS Alert was 10 minutes. This test was conducted to assess the lung function",
+     "ok": false
+    },
+    {
+     "q": "On June 27th, what was the weather condition that required extra precautions for the ship to guard against potential collisions with icebergs?",
+     "a": "foggy",
+     "pred": "To answer this question accurately, we would need specific weather and environmental data for June 27th. However, based on general knowledge about the conditions that require",
+     "ok": false
+    },
+    {
+     "q": "What was the temperature below freezing point during the voyage near Crozier Island?",
+     "a": "six or seven degrees",
+     "pred": "I'm sorry, but I don't have specific information about the temperature below freezing point during a particular voyage near Crozier Island. To provide an accurate answer,",
+     "ok": false
+    },
+    {
+     "q": "On the Alert, during the voyage to Disco, how many fowls escaped when a heavy sea washed away their hen-coops?",
+     "a": "two",
+     "pred": "In \"On the Alert,\" during the voyage to Disco, 14 fowls are said to have escaped when a heavy sea washed away their hen-co",
+     "ok": false
+    },
+    {
+     "q": "What was a reason given to reject otherwise strong and healthy men who volunteered for the Arctic expedition?",
+     "a": "bad teeth",
+     "pred": "One of the reasons given to reject otherwise strong and healthy men who volunteered for the Arctic expeditions, such as those led by Robert E. Peary and Frederick",
+     "ok": false
+    },
+    {
+     "q": "What was the Discovery's original purpose?",
+     "a": "whaling and sealing",
+     "pred": "The Discovery, which you might be referring to as the Space Shuttle Discovery (OV-103), was originally designed and built as a space shuttle for NASA",
+     "ok": false
+    },
+    {
+     "q": "Who founded missionary institutions in Greenland?",
+     "a": "Hans Egede and the Moravians",
+     "pred": "The missionary institutions in Greenland were primarily established by European Christian denominations, with the most significant efforts coming from Denmark-Norway and the United States. Here are",
+     "ok": false
+    },
+    {
+     "q": "What was the main danger in the Waigat?",
+     "a": "icebergs",
+     "pred": "I'm sorry, but I don't have enough context to answer your question accurately. \"Waigat\" isn't a widely recognized term or location that I",
+     "ok": false
+    },
+    {
+     "q": "What material was used for the external sheathing on the \"Alert\"?",
+     "a": "teak",
+     "pred": "The external sheathing on the RMS \"Alert,\" a British Royal Mail Ship (RMS) that operated between 1928 and 194",
+     "ok": false
+    },
+    {
+     "q": "During a storm on Saturday, August 21st, which ship was blown away from its anchors?",
+     "a": "the Discovery",
+     "pred": "On Saturday, August 21st, during the Great Hurricane of 1780, the HMS Carrington was one of several ships that were blown",
+     "ok": false
+    },
+    {
+     "q": "What was the height of the ice-foot that adhered to the land at Victoria Head?",
+     "a": "about twelve feet",
+     "pred": "The ice-foot that adhered to the land at Victoria Head, located in the Gulf of Boothia, Nunavut, Canada, reached a height of approximately",
+     "ok": false
+    },
+    {
+     "q": "What did the crew of the Discovery take advantage of to make progress?",
+     "a": "every opening in the ice",
+     "pred": "In the Star Trek: The Next Generation episode \"Contagion,\" the crew of the USS Discovery takes advantage of a wormhole to make significant progress. Specifically",
+     "ok": false
+    },
+    {
+     "q": "What is the value of a dead right whale to the Davis Strait expedition?",
+     "a": "no value whatever",
+     "pred": "The value of a dead right whale to the Davis Strait expedition would depend on the context and purpose of the expedition. However, in historical whaling contexts, a",
+     "ok": false
+    },
+    {
+     "q": "After arriving in Alexandra Harbour, how far did the ships navigate in Hayes Sound?",
+     "a": "about twenty miles",
+     "pred": "I'm sorry, but I don't have enough context to provide a specific answer about how far the ships navigated in Hayes Sound after arriving in Alexandra Harbour.",
+     "ok": false
+    },
+    {
+     "q": "What is the name of the magnificent promontory that was passed at 9 P.M. on Thursday, August 12th?",
+     "a": "Cape Hawks",
+     "pred": "Based on the information provided in the question, the promontory that was passed at 9 P.M. on Thursday, August 12th appears to",
+     "ok": false
+    },
+    {
+     "q": "What was the native Eskimo's reputation?",
+     "a": "keen and successful hunter",
+     "pred": "The term \"Eskimo\" is considered outdated and potentially offensive by many indigenous people in the Arctic regions. It is often replaced with more respectful terms such as",
+     "ok": false
+    },
+    {
+     "q": "What Danish settlement did both vessels come to an anchor off on the night of the 19th?",
+     "a": "Proven",
+     "pred": "Based on the information provided in your question, I don't have a specific location or name for the Danish settlement that the vessels anchored off of on the night of",
+     "ok": false
+    },
+    {
+     "q": "What was the color of the surrounding limestone in Dobbin Bay?",
+     "a": "sombre grey",
+     "pred": "I apologize, but there is no specific information available about the color of the surrounding limestone in Dobbin Bay. Dobbin Bay is not a widely recognized geographical location",
+     "ok": false
+    },
+    {
+     "q": "What was the name given to the well-protected little harbour southward of Cape Sabine?",
+     "a": "Bide-a-wee Harbour",
+     "pred": "The well-protected little harbour southward of Cape Sabine is known as Crocker Harbour.",
+     "ok": false
+    },
+    {
+     "q": "What covered the hills along the coast during the voyage to Baffin Bay?",
+     "a": "snow",
+     "pred": "During the voyage to Baffin Bay, the hills along the coast were likely covered in tundra vegetation. Tundra is a treeless biome found in polar",
+     "ok": false
+    },
+    {
+     "q": "Who sent the punch and books to the crew on board the \"Alert\"?",
+     "a": "a warrant officer",
+     "pred": "The punch and books were sent to the crew on board the HMS \"Alert\" as part of a prank by Sir Edward Belcher during his Arctic expedition from ",
+     "ok": false
+    },
+    {
+     "q": "What was the coal situation for the ship that left early on Tuesday, August 24th, to ascend Cape Morton?",
+     "a": "rapidly diminishing",
+     "pred": "I'm sorry, but I don't have specific information about a particular ship that left early on Tuesday, August 24th, to ascend Cape Morton.",
+     "ok": false
+    },
+    {
+     "q": "How thick were the floes that the \"Discovery\" expedition tried to cut when attempting to navigate through the ice field near Cape Louis Napoleon?",
+     "a": "from ten to twenty feet",
+     "pred": "The \"Discovery\" expedition, led by Robert Falcon Scott, encountered significant challenges in navigating through the ice fields during their voyage to Antarctica. Near Cape Louis Napoleon,",
+     "ok": false
+    },
+    {
+     "q": "What was the destination of the \"Valorous\" on June 5th?",
+     "a": "Disco",
+     "pred": "I'm sorry, but your question is missing some context. There are multiple ships named \"Valorous\" in history, and without more specific information about which \"",
+     "ok": false
+    },
+    {
+     "q": "What was the area of the remains of the Americans' winter quarters?",
+     "a": "half a square mile",
+     "pred": "The winter quarters of the American Continental Army during the Revolutionary War, commonly known as \"Washington's Headquarters\" or \"Winter Encampment,\" were located in Mor",
+     "ok": false
+    },
+    {
+     "q": "What was the angle at which the stratifications were dipping in relation to the land formation near Prince Regent Inlet?",
+     "a": "6°",
+     "pred": "To accurately answer your question about the angle of stratification dip near Prince Regent Inlet, I would need more specific information or a reference to a particular study",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the vessel that reached the North Water after a speedy journey?",
+     "a": "Discovery",
+     "pred": "The vessel you might be referring to is likely \"Investigator,\" which was part of Sir John Franklin's expedition in search of the Northwest Passage. However, it",
+     "ok": false
+    },
+    {
+     "q": "Where were the spectators gathered to witness the departure of the ships from Portsmouth Harbour?",
+     "a": "along the sea-face",
+     "pred": "The spectators were gathered on the shores of Portsmouth Harbour to witness the departure of the ships. Specifically, they would have been along the coastline and piers surrounding the",
+     "ok": false
+    },
+    {
+     "q": "What is the name of the islands from where people could have come to the neighbourhood of the Pendulum Islands?",
+     "a": "Cape Farewell",
+     "pred": "The Pendulum Islands are a fictional location from the novel \"Pendulum\" by Stephen Baxter. In the book, the origin of the inhabitants of the Pend",
+     "ok": false
+    },
+    {
+     "q": "What did the crew notice on the cliffs above the talus at Cape Fraser?",
+     "a": "numerous caves",
+     "pred": "At Cape Fraser, part of the Cape York Peninsula in Queensland, Australia, the crew noticed large boulders and rock fragments that had fallen from the cliffs above",
+     "ok": false
+    },
+    {
+     "q": "What is the name of the settlement where the Royal Inspector resides?",
+     "a": "Godhavn",
+     "pred": "To accurately answer your question, I would need more context about which specific settlement or region you are referring to. The term \"Royal Inspector\" can be found in",
+     "ok": false
+    },
+    {
+     "q": "What were the two articles that were proportionately valuable on board the Arctic ships?",
+     "a": "a pot of cocoa and milk",
+     "pred": "The two articles that were proportionately valuable on board the Arctic ships, specifically during the Franklin Expedition, were fresh water and food. These were crucial supplies that had",
+     "ok": false
+    },
+    {
+     "q": "In 1857, a private company was granted a licence to work cryolite in Greenland. How many ship-loads of cryolite were exported in the first nine years after the licence was granted?",
+     "a": "80 ship-loads",
+     "pred": "Unfortunately, the specific number of ship-loads of cryolite exported from Greenland in the first nine years after the 1857 license was granted is",
+     "ok": false
+    },
+    {
+     "q": "What is the latitude of the Cary Islands?",
+     "a": "76° 45´ N",
+     "pred": "The Cary Islands, also known as Karie Islands or Kari Islands, are a group of islands located in the Bismarck Sea off the northeastern coast",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the glacier located behind Jacobshavn fiord?",
+     "a": "discharging glacier",
+     "pred": "The glacier located behind Jacobshavn Fiord is named Jakobshavn Isbræ.",
+     "ok": false
+    },
+    {
+     "q": "How many Eskimo dogs were there in total after the number was augmented?",
+     "a": "thirty",
+     "pred": "To determine the total number of Eskimo dogs after augmentation, we need to know the initial number of dogs and the number by which this initial number was increased.",
+     "ok": false
+    },
+    {
+     "q": "From which latitude does Captain Feilden anticipate the land might terminate to the north?",
+     "a": "lat. 83° N.",
+     "pred": "Captain Feilden, in his expedition accounts, does not specify a particular latitude from which he anticipates the land might terminate to the north. The information provided in",
+     "ok": false
+    },
+    {
+     "q": "What was the inclination of the magnetic needle during the magnetic observations conducted on the floe in August?",
+     "a": "85° 34´",
+     "pred": "To determine the inclination of the magnetic needle during the magnetic observations conducted on the floe in August, we need to refer to historical records or specific data from that",
+     "ok": false
+    },
+    {
+     "q": "What was the distance from E to F?",
+     "a": "48 ft.",
+     "pred": "I'm sorry, but I don't have any previous context or information about points E and F to determine the distance between them. Could you please provide more details",
+     "ok": false
+    },
+    {
+     "q": "What kind of marks were detected on some of the rocks, particularly those at the summit of Norman Lockyer Island?",
+     "a": "distinct glacial marks",
+     "pred": "Based on available scientific literature and reports, some of the rocks at the summit of Norman Lockyer Island in Antarctica show evidence of glacial polish and striations.",
+     "ok": false
+    },
+    {
+     "q": "In the account dated Friday, August 20th, how high were the hills along the coast that were observed?",
+     "a": "From one to two thousand feet.",
+     "pred": "I'm sorry, but I don't have any specific document or context related to an \"account dated Friday, August 20th\" mentioned in your question",
+     "ok": false
+    },
+    {
+     "q": "How many musicians were in the 'Sunneshine'?",
+     "a": "four",
+     "pred": "I'm sorry, but I couldn't find any information about a musical group or band called \"Sunneshine.\" It's possible that you may have miss",
+     "ok": false
+    }
+   ]
+  },
+  "book2": {
+   "summary": {
+    "acc": 0.013333333333333334,
+    "lo": 0.0,
+    "hi": 0.03333333333333333,
+    "n": 150,
+    "k": 2
+   },
+   "rows": [
+    {
+     "q": "Who wrote a poem for Captain's birthday on August 25th?",
+     "a": "Dr. Laube",
+     "pred": "I don't have specific information about who wrote a poem for someone's birthday on August 25th, as this would require more context or details. Po",
+     "ok": false
+    },
+    {
+     "q": "When did Scoresby visit Jan Mayen?",
+     "a": "August, 1817",
+     "pred": "Scoresby visited Jan Mayen in 1823. This was during his second voyage to the Arctic, which took place from 1822",
+     "ok": false
+    },
+    {
+     "q": "What was the temperature of the water in Fahrenheit?",
+     "a": "47½° F",
+     "pred": "I'm sorry, but I don't have any specific information about the temperature of the water in Fahrenheit. To provide an accurate answer, I would need more context",
+     "ok": false
+    },
+    {
+     "q": "What caused the sail-cloth roof of the Hansa to leak?",
+     "a": "quantity of snow",
+     "pred": "I don't have specific information about why the sail-cloth roof of a particular Hansa (which I assume is referring to a Hansa ship or possibly a",
+     "ok": false
+    },
+    {
+     "q": "Which island did they see on July 9th?",
+     "a": "the island of Jan Mayen.",
+     "pred": "I'm sorry, but I don't have any specific information about what island was seen on July 9th without more context. Could you please provide more details",
+     "ok": false
+    },
+    {
+     "q": "What was the temperature on 16th August?",
+     "a": "25° Fahr.",
+     "pred": "I'm sorry, but I don't have any specific information about the temperature on August 16th without more context. Could you please provide me with the",
+     "ok": false
+    },
+    {
+     "q": "What was the height of the \"crow's-nest\" on the ship during the ice expedition led by the commander on December 12th?",
+     "a": "thirty-eight feet",
+     "pred": "To determine the height of the \"crow's-nest\" on the ship during the ice expedition, we need more specific information about the ship and the expedition.",
+     "ok": false
+    },
+    {
+     "q": "What was the latitude at which the Hansa and another ship were supposed to meet up?",
+     "a": "75° N.L.",
+     "pred": "To answer your question accurately, I would need more specific information about which Hansa ship you are referring to and the context of their voyage. The term \"H",
+     "ok": false
+    },
+    {
+     "q": "What time of year is being contrasted with the current conditions on the voyage home from Eutin during an Arctic expedition?",
+     "a": "Summer",
+     "pred": "The passage you're referring to contrasts the current harsh, cold conditions during the voyage home from Eutin with the warmer, more favorable conditions experienced earlier in the",
+     "ok": false
+    },
+    {
+     "q": "In what year did the Greenland expedition occur?",
+     "a": "1868",
+     "pred": "I'm sorry, but your question is incomplete. You have mentioned \"Greenland expedition\" but haven't specified which particular Greenland expedition you are referring to, as",
+     "ok": false
+    },
+    {
+     "q": "How many days had the Hansa been in the ice?",
+     "a": "Several days",
+     "pred": "I'm sorry, but I don't have any specific context about a ship called Hansa being in ice. Could you please provide more details or clarify which Hans",
+     "ok": false
+    },
+    {
+     "q": "Which ship was commanded by Captain Hegemann?",
+     "a": "Hansa",
+     "pred": "Captain Heinrich Hegemann commanded the German transatlantic passenger liner SS Cap Arcona during World War II. He was in charge of the ship when it was",
+     "ok": false
+    },
+    {
+     "q": "On which date did they sight Jan Mayen?",
+     "a": "9th of July",
+     "pred": "The exact date when they sighted Jan Mayen can vary depending on the specific voyage and source. However, a notable historical sighting was on June 1,",
+     "ok": false
+    },
+    {
+     "q": "At what hour did the gentlemen on the Germania sit down for breakfast?",
+     "a": "seven o'clock",
+     "pred": "I'm sorry, but your question is missing some context. There isn't any specific information or story provided about gentlemen on the Germania sitting down for breakfast.",
+     "ok": false
+    },
+    {
+     "q": "What was the latitude where the Germania struck the ice?",
+     "a": "74° 47′ N",
+     "pred": "I'm sorry, but I couldn't find any information about a ship named \"Germania\" striking ice at a specific latitude. Could you please provide more context",
+     "ok": false
+    },
+    {
+     "q": "How far away was the coast during the Hansea's distress on the 19th?",
+     "a": "Four miles",
+     "pred": "I apologize, but I don't have specific information about a \"Hansea's distress on the 19th\" event. This doesn't appear to be",
+     "ok": false
+    },
+    {
+     "q": "What current runs along the east coast of Greenland?",
+     "a": "Polar current",
+     "pred": "The current that runs along the east coast of Greenland is called the East Greenland Current. This current flows southward along the eastern coast of Greenland and is part of",
+     "ok": false
+    },
+    {
+     "q": "On what date did they observe intense Aurora borealis?",
+     "a": "5th of December",
+     "pred": "To accurately answer when they observed the intense Aurora Borealis, I would need more context or specific information about the event in question. The Aurora Borealis",
+     "ok": false
+    },
+    {
+     "q": "What did Dr. Laube say about the sailors?",
+     "a": "decent fellows",
+     "pred": "I don't have any specific context or information about what Dr. Laube said about the sailors in a particular scenario. To provide an accurate answer, I would",
+     "ok": false
+    },
+    {
+     "q": "Which direction did the Hansa push on after the misunderstanding?",
+     "a": "westward",
+     "pred": "I'm sorry, but I don't have enough context to answer your question accurately. \"Hansa\" could refer to several different things depending on the historical or",
+     "ok": false
+    },
+    {
+     "q": "What was the latitude marked on the metal pieces attached to the birds caught by angling during the Hansa's voyage?",
+     "a": "73° N.",
+     "pred": "I'm sorry, but there seems to be some confusion in your question. The Hansa, which you might be referring to as the Hanseatic League,",
+     "ok": false
+    },
+    {
+     "q": "What was the temperature range recorded by the thermometer on the Hansa between August 5th and August 11th?",
+     "a": "27° to 36° F",
+     "pred": "To determine the temperature range recorded by the thermometer on the Hansa between August 5th and August 11th, we need to know the highest and",
+     "ok": false
+    },
+    {
+     "q": "What temperature was recorded on September 7th in the afternoon?",
+     "a": "20° Fahr.",
+     "pred": "I'm sorry, but I don't have access to real-time or historical weather data. To find out what the temperature was recorded on September 7th in",
+     "ok": false
+    },
+    {
+     "q": "Who wrote the diary entry about the journey taken by the captain, the second officer, and two sailors on the boat Hansa to the longed-for land?",
+     "a": "Dr. Laube",
+     "pred": "The diary entry you are referring to was written by Alfred Wegener. He documented the journey of the captain, Karl Baumann, the second officer, Heinrich",
+     "ok": false
+    },
+    {
+     "q": "How long did the breaking up, heaving, and pressing of the ice last for the Hansa near the Liverpool Coast on October 7th?",
+     "a": "about an hour",
+     "pred": "I apologize, but I don't have specific information about the exact duration of the ice-breaking activities for the Hansa near the Liverpool Coast on October 7th",
+     "ok": false
+    },
+    {
+     "q": "How many people were in Dr. Buchholz's cabin?",
+     "a": "five",
+     "pred": "I'm sorry, but I don't have any specific information about how many people were in Dr. Buchholz's cabin without more context. Could you please",
+     "ok": false
+    },
+    {
+     "q": "What was the color of the tips of the robber gull's wings during the voyage near the Norwegian coast in July?",
+     "a": "jet black",
+     "pred": "I'm sorry, but there is no known species of bird called a \"robber gull.\" It's possible you may be referring to another type of seab",
+     "ok": false
+    },
+    {
+     "q": "In the Hansa expedition, how many inches of water were initially found in the hold?",
+     "a": "seventeen",
+     "pred": "I'm sorry, but I don't have specific information about the initial amount of water found in the hold of the Hansa expedition. The Hansa was a",
+     "ok": false
+    },
+    {
+     "q": "What was the temperature on November 6th?",
+     "a": "-20° Fahr.",
+     "pred": "I'm sorry, but I don't have specific information about the temperature on November 6th without more context. The temperature can vary greatly depending on the location",
+     "ok": false
+    },
+    {
+     "q": "In the account of the winter campaign in Behring's Straits, how thick was the fat layer under the skin of the walrus?",
+     "a": "three inches",
+     "pred": "According to the account from the winter campaign in Bering Strait by the American explorer Charles Francis Hall, the fat layer (or blubber) under the skin of",
+     "ok": false
+    },
+    {
+     "q": "What is the term for the boundary of the Arctic or Northern Icy Sea?",
+     "a": "Polar circle",
+     "pred": "The term for the boundary of the Arctic or Northern Icy Sea is the Arctic Circle. However, it's important to note that the Arctic Circle is actually a",
+     "ok": false
+    },
+    {
+     "q": "What are the miniature mountains between the floes called in the Germania's Arctic expedition?",
+     "a": "Hummocks",
+     "pred": "In the context of the Germania's Arctic expedition, the miniature mountains between the ice floes are commonly referred to as \"bergy bits\" or \"ber",
+     "ok": false
+    },
+    {
+     "q": "Who had an attack of fever when the Hansa went down?",
+     "a": "Schmidt",
+     "pred": "I'm sorry, but I don't have enough context to answer this question accurately. The phrase \"when the Hansa went down\" could refer to various historical",
+     "ok": false
+    },
+    {
+     "q": "Who was present at the departure of the Second German Arctic Expedition from Bremerhaven on June 15, 1869?",
+     "a": "His Majesty the King of Prussia",
+     "pred": "The Second German Arctic Expedition departed from Bremerhaven on June 15, 1869. According to historical records, several important figures were present",
+     "ok": false
+    },
+    {
+     "q": "Who left them after the tug stopped on the Hansa expedition?",
+     "a": "The pilot",
+     "pred": "I believe you might be referring to the Hansa Expedition, which was a German Antarctic expedition that took place from 1911 to 191",
+     "ok": false
+    },
+    {
+     "q": "What did the ice-ground consist of at 74° 38′ N.L. on the 16th?",
+     "a": "brown slime",
+     "pred": "I apologize, but I don't have specific information about the ice-ground composition at 74° 38′ N latitude on a particular date like the",
+     "ok": false
+    },
+    {
+     "q": "On August 24th, how far did the boat excursion travel from the Hansa to the land?",
+     "a": "sixteen nautical miles",
+     "pred": "I'm sorry, but I don't have any specific information about a boat excursion from the Hansa to land on August 24th. To provide an",
+     "ok": false
+    },
+    {
+     "q": "During the Arctic expedition to East Greenland, how often was the temperature of surface water taken?",
+     "a": "every two hours",
+     "pred": "During the Arctic expedition to East Greenland, the frequency with which the temperature of surface water was taken can vary depending on the specific research objectives and protocols of the expedition",
+     "ok": false
+    },
+    {
+     "q": "What kind of net did Dr. Pansch construct?",
+     "a": "bag-shaped net",
+     "pred": "I'm sorry, but I couldn't find any information about a net constructed by Dr. Pansch in my database. Could you please provide more context or",
+     "ok": false
+    },
+    {
+     "q": "Who ordered the pumping to cease on the Hansa?",
+     "a": "the captain",
+     "pred": "I'm sorry, but I don't have enough context to provide a specific answer about who ordered the pumping to cease on the Hansa. Could you please provide",
+     "ok": false
+    },
+    {
+     "q": "What material was used for the roof of the winter-house initially built by the crew of the Hansa?",
+     "a": "Sail-cloth and matting",
+     "pred": "According to historical records, the initial winter-house built by the crew of the Hansa trading expedition in Novaya Zemlya used turf (dried grass and",
+     "ok": false
+    },
+    {
+     "q": "What was the lowest temperature recorded during the voyage of the Hansa?",
+     "a": "33.80°",
+     "pred": "I apologize, but there is no widely known or documented voyage of a ship named \"Hansa\" for which we have specific temperature records. The name \"H",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the steamer that spoke with the Germania?",
+     "a": "Bienenkorb",
+     "pred": "The steamer that spoke with the Germania was the SS Kaiser Wilhelm der Grosse. This incident occurred on September 20, 1914",
+     "ok": false
+    },
+    {
+     "q": "On July 10th, what kind of fin do the dolphins lacking it that were observed under the bows of the Germania have?",
+     "a": "upright back-fin",
+     "pred": "I don't have specific information about a particular observation of dolphins under the bows of the Germania on July 10th. Without more context or details from",
+     "ok": false
+    },
+    {
+     "q": "How thick and high were the pieces of ice called 'Brandenburg Gate'?",
+     "a": "fifteen feet thick and twenty high",
+     "pred": "I believe there might be some confusion in your question. The Brandenburg Gate is a famous landmark in Berlin, Germany, and it is not made of ice.",
+     "ok": false
+    },
+    {
+     "q": "What island was the Hansa taking the ship towards?",
+     "a": "The island of Jan Mayen",
+     "pred": "I'm sorry, but your question is missing some context. The Hansa was a medieval trade league of cities in Northern Europe, and it's not clear which",
+     "ok": false
+    },
+    {
+     "q": "On which date did they try their machinery on board the Hansa?",
+     "a": "19th",
+     "pred": "I'm sorry, but I don't have enough context to answer your question. Could you please provide more information about what specific machinery and the Hansa you are",
+     "ok": false
+    },
+    {
+     "q": "How far is Jan Mayen from Greenland's coast?",
+     "a": "about sixty geographical miles",
+     "pred": "Jan Mayen is approximately 370 kilometers (230 miles) south of the coast of Greenland. The closest point on the island of Jan May",
+     "ok": false
+    },
+    {
+     "q": "How far was the land from the ship on October 17th?",
+     "a": "ten nautical miles",
+     "pred": "To accurately answer how far the land was from the ship on October 17th, I would need more specific information such as the exact location of the ship",
+     "ok": false
+    },
+    {
+     "q": "In what year were the numbers of seals caught by European ships recorded?",
+     "a": "1868",
+     "pred": "The systematic recording of seal catches by European ships began in the 17th century, particularly with the establishment of the Hudson's Bay Company in 16",
+     "ok": false
+    },
+    {
+     "q": "On June 26th, what kind of vessel did the Hansa encounter?",
+     "a": "fishing-smack",
+     "pred": "I'm sorry, but I don't have any specific information about a Hansa encountering a particular vessel on June 26th without more context. Could you",
+     "ok": false
+    },
+    {
+     "q": "On September 5th, how many nautical miles did the Hansa sail?",
+     "a": "twenty",
+     "pred": "To determine how many nautical miles the Hansa sailed on September 5th, we need more information about the ship's voyage details. Specifically, we need",
+     "ok": false
+    },
+    {
+     "q": "Which animals did they hunt in November?",
+     "a": "walrus",
+     "pred": "I'm sorry, but I don't have any specific information about which animals were hunted in November without more context. Hunting practices can vary greatly depending on the region",
+     "ok": false
+    },
+    {
+     "q": "In the North Sea expedition, during July, how many times might the dolphins be seen above water?",
+     "a": "three to half-a-dozen times",
+     "pred": "To determine how many times the dolphins might be seen above water during July in the North Sea expedition, we need more specific information such as the frequency of dolphin sightings",
+     "ok": false
+    },
+    {
+     "q": "What was the temperature on July 24th?",
+     "a": "31° Fahr.",
+     "pred": "I'm sorry, but I don't have specific information about the temperature on July 24th without more context. To provide you with an accurate answer,",
+     "ok": false
+    },
+    {
+     "q": "What was the outside temperature in Fahrenheit at the location where the \"Hansa\" house was built?",
+     "a": "-13° Fahr.",
+     "pred": "I'm sorry, but I don't have enough information to determine the outside temperature in Fahrenheit at the location where the \"Hansa\" house was built. The",
+     "ok": false
+    },
+    {
+     "q": "On June 29th, what was the weather like when the Hansa opened and aired every place?",
+     "a": "clear, warm day",
+     "pred": "I'm sorry, but I couldn't find any information about the Hansa opening and airing every place on June 29th. Could you please provide more",
+     "ok": false
+    },
+    {
+     "q": "In the phenomenon observed on the afternoon of August 29th near the coast, how many mock suns were seen?",
+     "a": "Two",
+     "pred": "Based on common observations and reports, if you're referring to a phenomenon where multiple suns are seen in the sky, it is likely you are describing a mock",
+     "ok": false
+    },
+    {
+     "q": "Who landed on Jan Mayen in 1856?",
+     "a": "Lord Dufferin",
+     "pred": "In 1856, the American whaling ship \"Polar Star\" under the command of Captain George W. Melville landed on Jan Mayen",
+     "ok": false
+    },
+    {
+     "q": "What did Dr. Copeland use to cut the ropes?",
+     "a": "knife",
+     "pred": "I'm sorry, but I don't have enough context to answer your question accurately. Could you please provide more details about which Dr. Copeland you are referring",
+     "ok": false
+    },
+    {
+     "q": "What did the crew use for light during the day on the Hansea expedition?",
+     "a": "lamp",
+     "pred": "I couldn't find specific information about what lights the crew used during the day on the Hansea expedition. The Hansea expedition, also known as the Hansa",
+     "ok": false
+    },
+    {
+     "q": "For how long did the crew suffer from the fog during their journey to Jan Mayen?",
+     "a": "for four weeks.",
+     "pred": "I'm sorry, but I don't have enough context to answer your question accurately. Could you please provide more details about which specific journey or expedition you are referring",
+     "ok": false
+    },
+    {
+     "q": "In which direction were they drifting on 18th and 19th August?",
+     "a": "southward",
+     "pred": "I'm sorry, but I don't have any specific information about the direction of drift for a particular event or situation on August 18th and 1",
+     "ok": false
+    },
+    {
+     "q": "With a 50lb. pressure, how many knots did the Hansa make when they reached the other ship?",
+     "a": "5¼ knots",
+     "pred": "I'm sorry, but the information you've provided doesn't give enough context to determine the speed of the Hansa in knots. The 50lb pressure",
+     "ok": false
+    },
+    {
+     "q": "On July 15th, in which direction was the \"Greenland\" moving between small floes and brashes?",
+     "a": "north-westerly",
+     "pred": "To determine the direction of movement of the \"Greenland\" on July 15th, we need to analyze the given information about its position relative to the",
+     "ok": false
+    },
+    {
+     "q": "How many Mallemucke birds were shot and prepared?",
+     "a": "Several",
+     "pred": "I apologize, but there appears to be an error in your question. \"Mallemucke\" is not a recognized term or species of bird. It's",
+     "ok": false
+    },
+    {
+     "q": "How far was the Hansa from the other ship when it disappeared?",
+     "a": "a few miles",
+     "pred": "To accurately answer how far the Hansa was from the other ship when it disappeared, I would need more specific information about the incident. Without details such as the",
+     "ok": false
+    },
+    {
+     "q": "How far eastward from Jan Mayen did the Hansa pass it?",
+     "a": "one and a half German miles",
+     "pred": "The Hansa, a German whaling ship, passed eastward of Jan Mayen Island. However, the exact distance is not specified in historical records. Jan",
+     "ok": false
+    },
+    {
+     "q": "What was added to the usual breakfast of bread and butter on the Germania during the voyage?",
+     "a": "cold meat",
+     "pred": "During the voyage of the Germania, which was a large ocean liner operated by the Hamburg-Amerika Line from 1924 to 19",
+     "ok": false
+    },
+    {
+     "q": "What was the longitude of the spot where the Germania hit the ice?",
+     "a": "11° 50′ W",
+     "pred": "The Germania, a German cruise ship that ran aground in the Arctic in 2015, hit the ice at approximately 83°4",
+     "ok": false
+    },
+    {
+     "q": "How thick were the ice masses that broke up on the starboard side of the Hansea at around ten a.m.?",
+     "a": "About four feet",
+     "pred": "I don't have specific information about the exact thickness of the ice masses that broke up on the starboard side of the Hanse Explorer (not \"Hansea",
+     "ok": false
+    },
+    {
+     "q": "What prevents the melting of ice in the Polar current?",
+     "a": "coldness of its waters",
+     "pred": "The Polar Current, also known as the Antarctic Circumpolar Current (ACC) or the West Wind Drift, plays a crucial role in maintaining the cold temperatures",
+     "ok": false
+    },
+    {
+     "q": "What was the average thickness above water of the ice field on the expedition drifting between the sea and the coast at the end of December and January?",
+     "a": "about five feet",
+     "pred": "To determine the average thickness of the ice field above water during the expedition, we need specific data about the ice thickness measurements taken during the period from the end of",
+     "ok": false
+    },
+    {
+     "q": "Where did Drs. Buchholz and Laube enter on the ship's books?",
+     "a": "Bremen",
+     "pred": "I'm sorry, but I don't have any specific information about where Drs. Buchholz and Laube entered on a ship's books without more context",
+     "ok": false
+    },
+    {
+     "q": "Who gave the signal that was misunderstood on the Germania during the expedition to Greenland?",
+     "a": "Captain Koldewey",
+     "pred": "The misunderstanding of the signal on the Germania during the 1931 German expedition to Greenland is a well-known incident in polar exploration history. The signal",
+     "ok": false
+    },
+    {
+     "q": "On which day did the atmosphere brighten and become clear and bright for the first time since leaving Jan Mayen on July 9th?",
+     "a": "18th",
+     "pred": "To determine the day when the atmosphere brightened and became clear and bright for the first time since leaving Jan Mayen on July 9th, we need to",
+     "ok": false
+    },
+    {
+     "q": "Which direction did they drift from September 12th to 14th?",
+     "a": "southwards",
+     "pred": "To determine the direction in which they drifted from September 12th to 14th, we would need specific information about their starting and ending positions during",
+     "ok": false
+    },
+    {
+     "q": "At what time did Captain and his crew start their journey on the Hansa to the longed-for land?",
+     "a": "at two o'clock",
+     "pred": "Unfortunately, the provided passage does not contain any specific information about when Captain and his crew started their journey on the Hansa. To accurately answer this question, we",
+     "ok": false
+    },
+    {
+     "q": "On which day after completing the coal-house on the Hansa did bad weather set in?",
+     "a": "8th of October",
+     "pred": "To determine the day after completing the coal-house on the Hansa when bad weather set in, we need to follow these steps:\n\n1. Identify the day the",
+     "ok": false
+    },
+    {
+     "q": "Who was the captain of the Germania?",
+     "a": "Captain Hegemann",
+     "pred": "The Germania was a large ocean liner operated by the Hamburg-Amerika Line (HAPAG) from 1927 to 193",
+     "ok": false
+    },
+    {
+     "q": "At what time did the Hansa find two feet of water again?",
+     "a": "quarter of an hour’s time",
+     "pred": "To determine the time when the Hansa found two feet of water again, we need to understand the context and the pattern of the water level. However, since",
+     "ok": false
+    },
+    {
+     "q": "In which direction did driving snow come from on December 20th?",
+     "a": "South-west",
+     "pred": "\"Driving Snow\" is a song by British musician Billy Bragg. It was released as a single on December 20, 2016.",
+     "ok": false
+    },
+    {
+     "q": "From November 5th to November 13th in the beginning of November, how many nautical miles did the group drift?",
+     "a": "eight nautical miles",
+     "pred": "To determine how many nautical miles the group drifted from November 5th to November 13th, we need to know the speed at which they were",
+     "ok": false
+    },
+    {
+     "q": "From which direction do waves rush to the west coast of Norway?",
+     "a": "Atlantic",
+     "pred": "Waves on the west coast of Norway primarily rush from the southwest. This is due to the prevailing wind patterns in the North Atlantic, which are influenced by the",
+     "ok": true
+    },
+    {
+     "q": "What kind of light do crevices and shaded plains shed in the ice floes that the Germania encountered during its journey?",
+     "a": "Beautiful blue light",
+     "pred": "The term \"Germania\" in this context likely refers to a spacecraft or vessel, possibly from a science fiction setting, as it is not a known historical ship",
+     "ok": false
+    },
+    {
+     "q": "What did the crew on the Hansa have for dinner at one o'clock?",
+     "a": "Strong meat-soup",
+     "pred": "I'm sorry, but I don't have any specific information about what the crew on the Hansa ate for dinner at one o'clock. The question seems to",
+     "ok": false
+    },
+    {
+     "q": "Who requested permission to speak at the departure of the Second German Arctic Expedition from Bremerhaven on June 15, 1869?",
+     "a": "Herr A. G. Mosle",
+     "pred": "The person who requested permission to speak at the departure of the Second German Arctic Expedition from Bremerhaven on June 15, 1869 was",
+     "ok": false
+    },
+    {
+     "q": "What broke on the Hansa, causing a bad augury for some?",
+     "a": "towing cable",
+     "pred": "In J.R.R. Tolkien's \"The Lord of the Rings,\" the ship that breaks and causes a bad augury is not specifically named as the Hansa",
+     "ok": false
+    },
+    {
+     "q": "On August 14th at nine in the evening, what did the dredging-nets contain during the first attempt?",
+     "a": "sponges, polythalamias",
+     "pred": "I'm sorry, but I don't have any specific document or context to refer to for this question. Could you please provide more details or context about where you",
+     "ok": false
+    },
+    {
+     "q": "On August 24th, what did they name the peculiar icy formation that they passed during their boat excursion?",
+     "a": "Flower-basket",
+     "pred": "On August 24th, during their boat excursion in the Arctic, the expedition team named the peculiar icy formation that they passed \"Voyager Ice.\"",
+     "ok": false
+    },
+    {
+     "q": "What did the Themisto libellula have?",
+     "a": "great oval-shaped black eyes",
+     "pred": "The Themisto libellula, which is a species of small oceanic crustacean, has several key features:\n\n1. Body structure: It has a",
+     "ok": false
+    },
+    {
+     "q": "At what time did the water in the cabin reach the table on the voyage of the Hansa?",
+     "a": "three o'clock",
+     "pred": "To determine the time at which the water in the cabin reached the table during the voyage of the Hansa, we need to analyze the given information and use logical",
+     "ok": false
+    },
+    {
+     "q": "In the expedition led by Captain Hegemann, how many feet high were the side walls planned to be for the winter-house on the ice?",
+     "a": "4 feet 8 inches",
+     "pred": "According to the information provided in the problem statement, the side walls of the winter-house on the ice, as planned by Captain Hegemann's expedition, were to",
+     "ok": false
+    },
+    {
+     "q": "How much had the Hansa's water store decreased?",
+     "a": "greatly",
+     "pred": "I'm sorry, but I don't have any specific context or information about a Hansa's water store in your question. Could you please provide more details or",
+     "ok": false
+    },
+    {
+     "q": "Who was the captain of the Bienenkorb?",
+     "a": "Hagens",
+     "pred": "I'm sorry, but I couldn't find any information about a basketball team or club called \"Bienenkorb\" in my database. Could you please provide",
+     "ok": false
+    },
+    {
+     "q": "On which date was a depth of 700 fathoms recorded on the Hansa?",
+     "a": "7th of July",
+     "pred": "I'm sorry, but I don't have any specific information about when a depth of 700 fathoms was recorded on the Hansa. To",
+     "ok": false
+    },
+    {
+     "q": "On which day did a storm break the hawsers on the Hansa, and how many days after securing the large floe in the bay?",
+     "a": "Some days later",
+     "pred": "To solve this problem, we need to determine two things: the day on which a storm broke the hawsers on the Hansa, and the number of",
+     "ok": false
+    },
+    {
+     "q": "What was the speed at which the Hansa and the other ship were traveling into the Arctic Ocean in knots?",
+     "a": "Nine knots",
+     "pred": "I'm sorry, but I don't have any specific information about the speed of the Hansa or another ship traveling into the Arctic Ocean. The Hansa was",
+     "ok": false
+    },
+    {
+     "q": "How many knots did the expedition manage to tow the Hansa at using a steam pressure of only forty pounds?",
+     "a": "two and a half",
+     "pred": "I apologize, but I don't have specific information about an expedition towing the Hansa at a certain steam pressure and knot speed. The Hansa was a German",
+     "ok": false
+    },
+    {
+     "q": "What is the length of Jan Mayen in miles?",
+     "a": "nine miles",
+     "pred": "Jan Mayen is an island located in the Arctic Ocean, between Iceland and Norway. Its total length (from north to south) is approximately 130",
+     "ok": false
+    },
+    {
+     "q": "On October 17th, what time did carpenter Böwe and the sailors Büttner and Heyne start their journey to reach the land?",
+     "a": "seven in the morning",
+     "pred": "Unfortunately, the provided information does not specify the exact time that carpenter Böwe and the sailors Büttner and Heyne started their journey on October ",
+     "ok": false
+    },
+    {
+     "q": "What is the value of a young Greenland seal's skin with its fat?",
+     "a": "7_s._ 6_d._ to 9_s._",
+     "pred": "The value of a young Greenland seal's skin with its fat, also known as blubber, can vary significantly depending on several factors including market demand, location,",
+     "ok": false
+    },
+    {
+     "q": "What items did the fishermen bring back as payment for Dr. Pansch's services on the Germania during its voyage to Greenland?",
+     "a": "second basketful of fish",
+     "pred": "According to historical accounts, the fishermen who accompanied Dr. Karl Baedeker Pansch on his voyage to Greenland in 1902 brought back various",
+     "ok": false
+    },
+    {
+     "q": "On September 5th, in which direction did the Hansa sail?",
+     "a": "north-westerly",
+     "pred": "To determine the direction in which the Hansa sailed on September 5th, we need more specific information about its course. Since the problem does not provide any",
+     "ok": false
+    },
+    {
+     "q": "In our settlement at the beginning of November, what were the two snow-houses used for?",
+     "a": "washing and drying",
+     "pred": "I'm sorry, but I don't have any specific information about a settlement in November using snow-houses. Could you please provide more context or details about the",
+     "ok": false
+    },
+    {
+     "q": "In which month did the zoologist take an exact drawing of the dolphin's back during their voyage in the North Sea?",
+     "a": "July",
+     "pred": "To accurately answer your question, I would need more specific information about the voyage and the zoologist in question. Without additional context or details, it's not possible",
+     "ok": false
+    },
+    {
+     "q": "On July 21st, who among the sailors on board the Hansa got snow-blindness?",
+     "a": "Philip Heine",
+     "pred": "I'm sorry, but I don't have enough context to answer this question accurately. The scenario you're referring to doesn't seem to be from a widely known",
+     "ok": false
+    },
+    {
+     "q": "How warm could the \"Hansa\" house get inside?",
+     "a": "72½°",
+     "pred": "The term \"Hansa\" typically refers to a type of traditional wooden house found in Northern Europe, particularly in countries like Sweden and Finland. These houses are known",
+     "ok": false
+    },
+    {
+     "q": "For how long did each ship blow the fog-horn alternately to avoid being separated from the Hansa?",
+     "a": "sixteen hours",
+     "pred": "I apologize, but there is no specific information provided in your question about ships blowing fog-horns to avoid separation from the Hansa. To provide an accurate answer",
+     "ok": false
+    },
+    {
+     "q": "What was the shape of the arch between the two side mock suns observed on August 29th near the coast?",
+     "a": "Elliptical",
+     "pred": "To answer your question accurately, I would need more specific details about the observation, such as the exact location and any additional context. However, based on common astronomical",
+     "ok": false
+    },
+    {
+     "q": "How long could Lord Dufferin stay on Jan Mayen in 1856?",
+     "a": "one hour",
+     "pred": "Lord Dufferin did not actually visit Jan Mayen in 1856. There seems to be a misunderstanding or confusion with the information provided.\n\nLord",
+     "ok": false
+    },
+    {
+     "q": "On which specific date did the event involving the Germania occur?",
+     "a": "4th of July",
+     "pred": "The term \"Germania\" can refer to several events or contexts in history. Could you please provide more details about the specific event you are referring to, such",
+     "ok": false
+    },
+    {
+     "q": "Where was the cooking-stove placed in relation to the sleeping places in the coal-house on WRECK OF THE HANSA?",
+     "a": "behind",
+     "pred": "In W.E. Johns' novel \"The Wreck of the Hansa,\" the cooking-stove is described as being placed against the wall opposite the sleeping places",
+     "ok": false
+    },
+    {
+     "q": "How far was the Shannon I. from them on 14th August?",
+     "a": "forty-eight nautical miles",
+     "pred": "I don't have specific information about the distance of the Shannon I from an unspecified \"them\" on August 14th. To provide accurate details, I",
+     "ok": false
+    },
+    {
+     "q": "From which direction was a sail discovered soon after breakfast by the crew of the Hansa?",
+     "a": "E.N.E.",
+     "pred": "The question appears to be referencing a specific scene or event from a book or story, likely a nautical adventure. However, without more context, it's challenging",
+     "ok": false
+    },
+    {
+     "q": "What kind of wind would drive the ice westward during the 1868 voyage of the steam yacht \"Greenland\"?",
+     "a": "easterly and south-easterly",
+     "pred": "During the 1868 voyage of the steam yacht \"Greenland,\" the prevailing winds that would have driven the ice westward in the Arctic region are",
+     "ok": false
+    },
+    {
+     "q": "What was the wind direction on July 19th when the Hansa and its crew noticed the ice?",
+     "a": "S.S.W.",
+     "pred": "Based on the information provided in the question, there is no specific mention of the wind direction on July 19th when the Hansa and its crew noticed",
+     "ok": false
+    },
+    {
+     "q": "What was the name of the highest point on Jan Mayen?",
+     "a": "Beerenberg",
+     "pred": "The highest point on Jan Mayen is named Beerenberg. It is a stratovolcano that reaches an elevation of 2,277 meters",
+     "ok": true
+    },
+    {
+     "q": "At midnight, what landmark did they pass near Heligoland?",
+     "a": "beacon off Heligoland",
+     "pred": "At midnight, they passed the Lion Monument near Heligoland. This refers to the novel \"The Lion's Share\" by Norbert Glatz, where",
+     "ok": false
+    },
+    {
+     "q": "Which ship was the Germania trying to locate?",
+     "a": "Hansa",
+     "pred": "The Germania was attempting to locate the Lusitania. \n\nTo provide more context:\n\n- The Germania was a German ocean liner, built in ",
+     "ok": false
+    },
+    {
+     "q": "What part of the Hansea rose initially?",
+     "a": "Fore part",
+     "pred": "I'm sorry, but your question seems to be missing some context. \"Hansea\" could refer to several different things depending on the context:\n\n1. **",
+     "ok": false
+    },
+    {
+     "q": "What are the smaller fields called that originate from larger ice fields over time in this Polar current?",
+     "a": "ice-floes",
+     "pred": "The smaller fields that originate from larger ice fields over time in polar regions are often referred to as \"ice caps\" or \"ice fields.\" However, if you",
+     "ok": false
+    },
+    {
+     "q": "How did Neptune christen Dr. Laube?",
+     "a": "throat and stomach",
+     "pred": "I'm sorry, but I couldn't find any information about Neptune christening Dr. Laube. This seems to be a very specific and potentially fictional scenario that",
+     "ok": false
+    },
+    {
+     "q": "What did Captain Koldewey's signal actually mean for the Hansa on July 20th?",
+     "a": "Come within hail",
+     "pred": "I don't have specific historical records in front of me to confirm the exact meaning of Captain Koldewey's signal to the Hansa on July 2",
+     "ok": false
+    },
+    {
+     "q": "On the morning of the 18th, after a long absence, what did the sun provide to the Hansa and its crew?",
+     "a": "warmth and dryness",
+     "pred": "It's not clear from your question which specific Hansa you are referring to, as there have been many ships and places named Hansa throughout history. However,",
+     "ok": false
+    },
+    {
+     "q": "What is the latitude of where the Hansa was completely frozen in?",
+     "a": "73° 25·7′ N.L.",
+     "pred": "The Hansa, which refers to a famous novel by Polish author Henryk Sienkiewicz, does not provide specific geographical coordinates for the scene where the",
+     "ok": false
+    },
+    {
+     "q": "By five o'clock, how far were Captain and his crew from the Hansa?",
+     "a": "seven to eight nautical miles",
+     "pred": "To answer this question accurately, we would need more specific information about the distance between Captain and his crew and the Hansa at a particular time. However, since",
+     "ok": false
+    },
+    {
+     "q": "By what distance were the Hansa north-east from the Liverpool coast by October 13th?",
+     "a": "sixteen nautical miles",
+     "pred": "I'm sorry, but I don't have any specific information about the position of the Hansa relative to the Liverpool coast on October 13th. To",
+     "ok": false
+    },
+    {
+     "q": "Who joined the narrator on board the Germania?",
+     "a": "Captain Hegemann and Dr. Laube",
+     "pred": "I'm sorry, but I don't have any specific context about who joined the narrator on board the Germania without more information. The Germania was a famous",
+     "ok": false
+    },
+    {
+     "q": "What was the temperature at night in the Arctic for the Hansa expedition?",
+     "a": "-13° F",
+     "pred": "I couldn't find specific temperature data for the night during the Hansa expedition in the Arctic. The Hansa expedition, also known as the Second Swedish Antarctic Expedition",
+     "ok": false
+    },
+    {
+     "q": "What was the temperature on December 3rd?",
+     "a": "35° Fahr.",
+     "pred": "I'm sorry, but I don't have any specific information about the temperature on December 3rd without more context. Could you please provide me with the location",
+     "ok": false
+    },
+    {
+     "q": "To which place does this branch stretch from the coast of Norway?",
+     "a": "Spitzbergen",
+     "pred": "You haven't specified which particular branch you are referring to, but I'll need more context to provide an accurate answer. Norway has several branches or fjords stretching",
+     "ok": false
+    },
+    {
+     "q": "When do small pools of water usually be covered again with ice in the Germania's journey through the floes?",
+     "a": "About the beginning of August",
+     "pred": "In the context of Herman Melville's novel \"Moby-Dick,\" where Ishmael (the narrator) refers to himself as \"Germania\" during",
+     "ok": false
+    },
+    {
+     "q": "Who among the sailors on the Hansa got frostbitten?",
+     "a": "Büttner",
+     "pred": "I'm sorry, but I don't have specific information about which sailor on the Hansa got frostbitten. The term \"Hansa\" typically refers to",
+     "ok": false
+    },
+    {
+     "q": "How many ships were in the Second German Arctic Expedition?",
+     "a": "Two",
+     "pred": "The Second German Arctic Expedition, also known as the Karlsefni Expedition, took place from 1872 to 1874. This",
+     "ok": false
+    },
+    {
+     "q": "Who reported seeing land towering above the ice during an expedition aboard the Hansa?",
+     "a": "Dr. Laube",
+     "pred": "During the 1903-1906 Swedish Antarctic Expedition aboard the ship Hansa, Otto Nordenskiöld and his crew reported seeing",
+     "ok": false
+    },
+    {
+     "q": "On August 24th, which flag was hoisted on the hummock by the crew of the boat excursion from the Hansa?",
+     "a": "German flag",
+     "pred": "I'm sorry, but I don't have enough context to answer this question accurately. The query mentions a few details - an event on August 24th",
+     "ok": false
+    },
+    {
+     "q": "On which part of the ship was Dr. Pansch's bag-shaped net fastened?",
+     "a": "to the hind part",
+     "pred": "Unfortunately, the specific details about where Dr. Pansch's bag-shaped net was fastened on the ship are not provided in the information given. To accurately",
+     "ok": false
+    },
+    {
+     "q": "From the Hansa expedition, how far inland were articles moved from the ship?",
+     "a": "thirty paces",
+     "pred": "Based on historical accounts of the Hansa expeditions, goods and articles were typically moved from ships to inland locations that varied depending on the specific expedition and local conditions",
+     "ok": false
+    },
+    {
+     "q": "How far from the ship Hansa was the winter-house built for the Karluk expedition?",
+     "a": "450 paces",
+     "pred": "The winter house for the Karluk expedition was built approximately 10 miles (about 16 kilometers) from the ship Hansa, which had been abandoned",
+     "ok": false
+    },
+    {
+     "q": "In what direction did the Bienenkorb sail after sighting the Hansa?",
+     "a": "south-westerly",
+     "pred": "I'm sorry, but I don't have any specific information about a Bienenkorb or a Hansa in this context. Could you please provide more details",
+     "ok": false
+    },
+    {
+     "q": "Who shot one of the white foxes on the Hansa?",
+     "a": "Mr. Hildebrandt",
+     "pred": "I'm sorry, but I don't have any specific information about who shot one of the white foxes on the Hansa. This question seems to be referencing",
+     "ok": false
+    },
+    {
+     "q": "On which day did the Hansa have calm weather with fine conditions and a slight sea-roll to windward from the north?",
+     "a": "calm with fine weather",
+     "pred": "Unfortunately, your question does not provide specific details or context about the voyage of the Hansa or the dates being referred to. Without more information, it's impossible",
+     "ok": false
+    },
+    {
+     "q": "Who reported an eruption on Jan Mayen in 1732?",
+     "a": "Burgomaster Anderson",
+     "pred": "The eruption on Jan Mayen in 1732 was reported by Norwegian explorer and cartographer Vitus Bering. Bering was part of a Russian",
+     "ok": false
+    },
+    {
+     "q": "On June 26th, what was the east longitude position of the Germania in degrees?",
+     "a": "2° 43′ E.L.",
+     "pred": "To determine the east longitude position of the Germania on June 26th, we need more information about the specific context or reference point for this question.",
+     "ok": false
+    },
+    {
+     "q": "How long did it take to free the Hansa from the ice?",
+     "a": "fourteen hours",
+     "pred": "I apologize, but I don't have any specific information about freeing a ship called \"Hansa\" from ice. Could you please provide more context or details about",
+     "ok": false
+    },
+    {
+     "q": "At what distance from the Liverpool coast did the explorers notice small willow-like leaves being carried by the wind?",
+     "a": "eight nautical miles",
+     "pred": "The information you're asking about seems to be related to a specific historical exploration or expedition. However, without more context, it's challenging to pinpoint the exact event",
+     "ok": false
+    },
+    {
+     "q": "In the North Sea expedition in July, how long might the killer dolphins be when fully grown?",
+     "a": "twenty-five feet",
+     "pred": "Killer whales (Orcinus orca), often referred to as orcas, can vary significantly in size depending on their population and geographic location. In the",
+     "ok": false
+    },
+    {
+     "q": "On July 21st, what animals were seen near the Hansa initially?",
+     "a": "Seals and narwhals",
+     "pred": "I'm sorry, but I don't have any specific information about what animals were seen near the Hansa on July 21st. Could you please provide",
+     "ok": false
+    },
+    {
+     "q": "For what purpose was the topgallant mast used on the Hansa house?",
+     "a": "as a flagstaff",
+     "pred": "I believe there might be some confusion in your question. The term \"Hansa house\" is not a standard nautical or architectural term, and I couldn't",
+     "ok": false
+    }
+   ]
+  },
+  "gsm8k": {
+   "summary": {
+    "acc": 0.705,
+    "lo": 0.64,
+    "hi": 0.765,
+    "n": 200,
+    "k": 141
+   },
+   "rows": [
+    {
+     "pred": "16",
+     "gold": "16",
+     "ok": true
+    },
+    {
+     "pred": "240",
+     "gold": "240",
+     "ok": true
+    },
+    {
+     "pred": "80",
+     "gold": "80",
+     "ok": true
+    },
+    {
+     "pred": "15",
+     "gold": "15",
+     "ok": true
+    },
+    {
+     "pred": "91",
+     "gold": "91",
+     "ok": true
+    },
+    {
+     "pred": "22",
+     "gold": "22",
+     "ok": true
+    },
+    {
+     "pred": "8",
+     "gold": "8",
+     "ok": true
+    },
+    {
+     "pred": "11",
+     "gold": "11",
+     "ok": true
+    },
+    {
+     "pred": "25",
+     "gold": "25",
+     "ok": true
+    },
+    {
+     "pred": "482",
+     "gold": "482",
+     "ok": true
+    },
+    {
+     "pred": "4",
+     "gold": "4",
+     "ok": true
+    },
+    {
+     "pred": "14.00",
+     "gold": "14",
+     "ok": false
+    },
+    {
+     "pred": "18",
+     "gold": "18",
+     "ok": true
+    },
+    {
+     "pred": "12",
+     "gold": "12",
+     "ok": true
+    },
+    {
+     "pred": "330",
+     "gold": "319",
+     "ok": false
+    },
+    {
+     "pred": "10",
+     "gold": "2",
+     "ok": false
+    },
+    {
+     "pred": "72",
+     "gold": "72",
+     "ok": true
+    },
+    {
+     "pred": "9500",
+     "gold": "9500",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "15",
+     "ok": false
+    },
+    {
+     "pred": "54",
+     "gold": "54",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "170",
+     "ok": false
+    },
+    {
+     "pred": "160",
+     "gold": "160",
+     "ok": true
+    },
+    {
+     "pred": "42",
+     "gold": "42",
+     "ok": true
+    },
+    {
+     "pred": "60",
+     "gold": "60",
+     "ok": true
+    },
+    {
+     "pred": "98",
+     "gold": "98",
+     "ok": true
+    },
+    {
+     "pred": "4",
+     "gold": "4",
+     "ok": true
+    },
+    {
+     "pred": "6277",
+     "gold": "6277",
+     "ok": true
+    },
+    {
+     "pred": "50",
+     "gold": "50",
+     "ok": true
+    },
+    {
+     "pred": "8",
+     "gold": "8",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "68",
+     "ok": false
+    },
+    {
+     "pred": "2.00",
+     "gold": "2",
+     "ok": false
+    },
+    {
+     "pred": "110",
+     "gold": "110",
+     "ok": true
+    },
+    {
+     "pred": "1800",
+     "gold": "360",
+     "ok": false
+    },
+    {
+     "pred": "7",
+     "gold": "7",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "14",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "5",
+     "ok": false
+    },
+    {
+     "pred": "1509",
+     "gold": "1509",
+     "ok": true
+    },
+    {
+     "pred": "6",
+     "gold": "6",
+     "ok": true
+    },
+    {
+     "pred": "410",
+     "gold": "410",
+     "ok": true
+    },
+    {
+     "pred": "120",
+     "gold": "90",
+     "ok": false
+    },
+    {
+     "pred": "12",
+     "gold": "12",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "7400",
+     "ok": false
+    },
+    {
+     "pred": "20",
+     "gold": "20",
+     "ok": true
+    },
+    {
+     "pred": "8",
+     "gold": "8",
+     "ok": true
+    },
+    {
+     "pred": "84",
+     "gold": "84",
+     "ok": true
+    },
+    {
+     "pred": "80",
+     "gold": "80",
+     "ok": true
+    },
+    {
+     "pred": "208",
+     "gold": "168",
+     "ok": false
+    },
+    {
+     "pred": "45",
+     "gold": "45",
+     "ok": true
+    },
+    {
+     "pred": "12",
+     "gold": "12",
+     "ok": true
+    },
+    {
+     "pred": "30",
+     "gold": "30",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "6000",
+     "ok": false
+    },
+    {
+     "pred": "22",
+     "gold": "26",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "5",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "1200",
+     "ok": false
+    },
+    {
+     "pred": "1110",
+     "gold": "1110",
+     "ok": true
+    },
+    {
+     "pred": "15",
+     "gold": "15",
+     "ok": true
+    },
+    {
+     "pred": "14000",
+     "gold": "14000",
+     "ok": true
+    },
+    {
+     "pred": "655",
+     "gold": "655",
+     "ok": true
+    },
+    {
+     "pred": "35",
+     "gold": "35",
+     "ok": true
+    },
+    {
+     "pred": "3",
+     "gold": "3",
+     "ok": true
+    },
+    {
+     "pred": "120",
+     "gold": "120",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "1450000",
+     "ok": false
+    },
+    {
+     "pred": "5",
+     "gold": "5",
+     "ok": true
+    },
+    {
+     "pred": "155",
+     "gold": "155",
+     "ok": true
+    },
+    {
+     "pred": "6",
+     "gold": "6",
+     "ok": true
+    },
+    {
+     "pred": "5",
+     "gold": "5",
+     "ok": true
+    },
+    {
+     "pred": "5",
+     "gold": "5",
+     "ok": true
+    },
+    {
+     "pred": "50",
+     "gold": "50",
+     "ok": true
+    },
+    {
+     "pred": "132",
+     "gold": "132",
+     "ok": true
+    },
+    {
+     "pred": "2",
+     "gold": "27",
+     "ok": false
+    },
+    {
+     "pred": "3",
+     "gold": "3",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "34",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "25",
+     "ok": false
+    },
+    {
+     "pred": "17000",
+     "gold": "17000",
+     "ok": true
+    },
+    {
+     "pred": "38",
+     "gold": "38",
+     "ok": true
+    },
+    {
+     "pred": "4",
+     "gold": "4",
+     "ok": true
+    },
+    {
+     "pred": "50",
+     "gold": "50",
+     "ok": true
+    },
+    {
+     "pred": "500",
+     "gold": "500",
+     "ok": true
+    },
+    {
+     "pred": "288",
+     "gold": "160",
+     "ok": false
+    },
+    {
+     "pred": "17",
+     "gold": "17",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "100",
+     "ok": false
+    },
+    {
+     "pred": "5.00",
+     "gold": "5",
+     "ok": false
+    },
+    {
+     "pred": "32",
+     "gold": "32",
+     "ok": true
+    },
+    {
+     "pred": "2",
+     "gold": "2",
+     "ok": true
+    },
+    {
+     "pred": "14",
+     "gold": "14",
+     "ok": true
+    },
+    {
+     "pred": "101",
+     "gold": "101",
+     "ok": true
+    },
+    {
+     "pred": "840",
+     "gold": "840",
+     "ok": true
+    },
+    {
+     "pred": "2",
+     "gold": "2",
+     "ok": true
+    },
+    {
+     "pred": "58",
+     "gold": "58",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "8",
+     "ok": false
+    },
+    {
+     "pred": "5600",
+     "gold": "5600",
+     "ok": true
+    },
+    {
+     "pred": "168",
+     "gold": "168",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "17",
+     "ok": false
+    },
+    {
+     "pred": "3",
+     "gold": "3",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "450",
+     "ok": false
+    },
+    {
+     "pred": "30",
+     "gold": "30",
+     "ok": true
+    },
+    {
+     "pred": "15",
+     "gold": "15",
+     "ok": true
+    },
+    {
+     "pred": "36",
+     "gold": "36",
+     "ok": true
+    },
+    {
+     "pred": "39",
+     "gold": "39",
+     "ok": true
+    },
+    {
+     "pred": "35",
+     "gold": "35",
+     "ok": true
+    },
+    {
+     "pred": "17",
+     "gold": "17",
+     "ok": true
+    },
+    {
+     "pred": "70",
+     "gold": "70",
+     "ok": true
+    },
+    {
+     "pred": "576",
+     "gold": "576",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "8",
+     "ok": false
+    },
+    {
+     "pred": "12",
+     "gold": "12",
+     "ok": true
+    },
+    {
+     "pred": "20",
+     "gold": "20",
+     "ok": true
+    },
+    {
+     "pred": "60",
+     "gold": "60",
+     "ok": true
+    },
+    {
+     "pred": "4",
+     "gold": "4",
+     "ok": true
+    },
+    {
+     "pred": "30",
+     "gold": "25",
+     "ok": false
+    },
+    {
+     "pred": "448",
+     "gold": "448",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "60",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "24",
+     "ok": false
+    },
+    {
+     "pred": "175",
+     "gold": "175",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "23",
+     "ok": false
+    },
+    {
+     "pred": "3200",
+     "gold": "3200",
+     "ok": true
+    },
+    {
+     "pred": "11232",
+     "gold": "11232",
+     "ok": true
+    },
+    {
+     "pred": "14",
+     "gold": "14",
+     "ok": true
+    },
+    {
+     "pred": "13",
+     "gold": "13",
+     "ok": true
+    },
+    {
+     "pred": "15",
+     "gold": "15",
+     "ok": true
+    },
+    {
+     "pred": "48",
+     "gold": "48",
+     "ok": true
+    },
+    {
+     "pred": "92",
+     "gold": "92",
+     "ok": true
+    },
+    {
+     "pred": "4",
+     "gold": "4",
+     "ok": true
+    },
+    {
+     "pred": "35",
+     "gold": "35",
+     "ok": true
+    },
+    {
+     "pred": "20",
+     "gold": "20",
+     "ok": true
+    },
+    {
+     "pred": "28",
+     "gold": "28",
+     "ok": true
+    },
+    {
+     "pred": "36",
+     "gold": "36",
+     "ok": true
+    },
+    {
+     "pred": "43500",
+     "gold": "43500",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "32",
+     "ok": false
+    },
+    {
+     "pred": "694",
+     "gold": "694",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "2800",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "95",
+     "ok": false
+    },
+    {
+     "pred": "280",
+     "gold": "280",
+     "ok": true
+    },
+    {
+     "pred": "60",
+     "gold": "60",
+     "ok": true
+    },
+    {
+     "pred": "2",
+     "gold": "9",
+     "ok": false
+    },
+    {
+     "pred": "360",
+     "gold": "360",
+     "ok": true
+    },
+    {
+     "pred": "100",
+     "gold": "100",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "13",
+     "ok": false
+    },
+    {
+     "pred": "1210",
+     "gold": "1210",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "48",
+     "ok": false
+    },
+    {
+     "pred": "6",
+     "gold": "6",
+     "ok": true
+    },
+    {
+     "pred": "140",
+     "gold": "140",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "5",
+     "ok": false
+    },
+    {
+     "pred": "34",
+     "gold": "34",
+     "ok": true
+    },
+    {
+     "pred": "83",
+     "gold": "83",
+     "ok": true
+    },
+    {
+     "pred": "15",
+     "gold": "15",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "21",
+     "ok": false
+    },
+    {
+     "pred": "75",
+     "gold": "75",
+     "ok": true
+    },
+    {
+     "pred": "0.5",
+     "gold": "2",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "1248",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "104",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "16",
+     "ok": false
+    },
+    {
+     "pred": "25",
+     "gold": "25",
+     "ok": true
+    },
+    {
+     "pred": "3",
+     "gold": "6",
+     "ok": false
+    },
+    {
+     "pred": "17",
+     "gold": "17",
+     "ok": true
+    },
+    {
+     "pred": "16",
+     "gold": "16",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "30",
+     "ok": false
+    },
+    {
+     "pred": "16",
+     "gold": "16",
+     "ok": true
+    },
+    {
+     "pred": "3",
+     "gold": "3",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "100",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "4",
+     "ok": false
+    },
+    {
+     "pred": "250",
+     "gold": "250",
+     "ok": true
+    },
+    {
+     "pred": "4",
+     "gold": "4",
+     "ok": true
+    },
+    {
+     "pred": "15",
+     "gold": "15",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "60",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "8",
+     "ok": false
+    },
+    {
+     "pred": "12",
+     "gold": "12",
+     "ok": true
+    },
+    {
+     "pred": "370",
+     "gold": "370",
+     "ok": true
+    },
+    {
+     "pred": "144",
+     "gold": "144",
+     "ok": true
+    },
+    {
+     "pred": "10",
+     "gold": "10",
+     "ok": true
+    },
+    {
+     "pred": "63",
+     "gold": "63",
+     "ok": true
+    },
+    {
+     "pred": "13",
+     "gold": "13",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "4",
+     "ok": false
+    },
+    {
+     "pred": "75",
+     "gold": "75",
+     "ok": true
+    },
+    {
+     "pred": "720",
+     "gold": "720",
+     "ok": true
+    },
+    {
+     "pred": "48",
+     "gold": "48",
+     "ok": true
+    },
+    {
+     "pred": "60",
+     "gold": "60",
+     "ok": true
+    },
+    {
+     "pred": "10",
+     "gold": "18",
+     "ok": false
+    },
+    {
+     "pred": "40",
+     "gold": "40",
+     "ok": true
+    },
+    {
+     "pred": "42000",
+     "gold": "168000",
+     "ok": false
+    },
+    {
+     "pred": "30",
+     "gold": "30",
+     "ok": true
+    },
+    {
+     "pred": "398",
+     "gold": "398",
+     "ok": true
+    },
+    {
+     "pred": "75",
+     "gold": "75",
+     "ok": true
+    },
+    {
+     "pred": "225",
+     "gold": "225",
+     "ok": true
+    },
+    {
+     "pred": "520",
+     "gold": "520",
+     "ok": true
+    },
+    {
+     "pred": "96",
+     "gold": "96",
+     "ok": true
+    },
+    {
+     "pred": "180",
+     "gold": "180",
+     "ok": true
+    },
+    {
+     "pred": "5600",
+     "gold": "5600",
+     "ok": true
+    },
+    {
+     "pred": "38",
+     "gold": "38",
+     "ok": true
+    },
+    {
+     "pred": "296",
+     "gold": "296",
+     "ok": true
+    },
+    {
+     "pred": "6400",
+     "gold": "6400",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "138",
+     "ok": false
+    },
+    {
+     "pred": "12",
+     "gold": "108",
+     "ok": false
+    },
+    {
+     "pred": "30",
+     "gold": "30",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "6",
+     "ok": false
+    },
+    {
+     "pred": null,
+     "gold": "1800",
+     "ok": false
+    },
+    {
+     "pred": "4",
+     "gold": "6",
+     "ok": false
+    },
+    {
+     "pred": "11",
+     "gold": "11",
+     "ok": true
+    },
+    {
+     "pred": null,
+     "gold": "40",
+     "ok": false
+    },
+    {
+     "pred": "7",
+     "gold": "7",
+     "ok": true
+    },
+    {
+     "pred": "251",
+     "gold": "251",
+     "ok": true
+    }
+   ]
+  },
+  "mmlu": {
+   "summary": {
+    "acc": 0.716,
+    "lo": 0.676,
+    "hi": 0.754,
+    "n": 500,
+    "k": 358
+   },
+   "rows": [
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": true
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": false
+    },
+    {
+     "ok": true
+    }
+   ]
+  }
+ },
+ "gate_mean": {},
+ "eval_seconds": 275.2194273471832,
+ "complete": true
+}

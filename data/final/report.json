@@ -1,0 +1,24 @@
+{
+ "book1": {
+  "eval_candidates": 1304,
+  "eval_kept": 260,
+  "dev": 40,
+  "test": 150,
+  "train_qa_raw": 2599,
+  "train_qa": 2087,
+  "train_notes_raw": 1832,
+  "train_notes": 1635,
+  "eval_questions_with_8gram_overlap": 0
+ },
+ "book2": {
+  "eval_candidates": 936,
+  "eval_kept": 229,
+  "dev": 40,
+  "test": 150,
+  "train_qa_raw": 1731,
+  "train_qa": 1338,
+  "train_notes_raw": 990,
+  "train_notes": 963,
+  "eval_questions_with_8gram_overlap": 0
+ }
+}
